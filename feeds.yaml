@@ -1,0 +1,57 @@
+# Sources for the Superhot Rock (SHR) Geothermal daily digest + knowledge base.
+# See README. Every URL is a CANDIDATE — run `python -m src.check_feeds` to see
+# which actually return items before trusting them.
+
+rss_feeds:
+  - name: "ThinkGeoEnergy"
+    url: "https://www.thinkgeoenergy.com/feed/"        # [unverified path]
+  - name: "Canary Media"
+    url: "https://www.canarymedia.com/feed"            # [unverified path]
+  - name: "MINING.COM"
+    url: "https://www.mining.com/feed/"                # [unverified path]
+  - name: "DOE Geothermal (energy.gov)"
+    url: "https://www.energy.gov/eere/geothermal/rss.xml"  # [unverified path]
+
+google_news:
+  - name: "SHR core"
+    query: '"superhot rock" OR "superhot geothermal" OR "super-hot rock" geothermal'
+  - name: "SHR + drilling/materials"
+    query: '("superhot" OR "enhanced geothermal" OR EGS) (drilling OR "well construction" OR gyrotron OR "millimeter wave")'
+  - name: "SHR + sensors/subsurface"
+    query: '("superhot" OR "enhanced geothermal" OR EGS) (sensor OR electronics OR subsurface OR "well logging")'
+
+relevance:
+  shr_terms:
+    - "superhot"
+    - "super-hot"
+    - "super hot"
+    - "enhanced geothermal"
+    - "EGS"
+    - "geothermal"
+  domain_terms:
+    - "drilling"
+    - "well construction"
+    - "completion"
+    - "casing"
+    - "cement"
+    - "material"
+    - "alloy"
+    - "electronics"
+    - "sensor"
+    - "logging"
+    - "subsurface"
+    - "seismic"
+    - "mapping"
+    - "reservoir"
+    - "gyrotron"
+    - "millimeter wave"
+
+# Canonical topic buckets used for tagging AND for the website's topic pages.
+# The LLM is told to pick from exactly these, so tags stay consistent over time.
+topics:
+  - "drilling"
+  - "well construction"
+  - "materials"
+  - "electronics"
+  - "sensors"
+  - "subsurface mapping"
