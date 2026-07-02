@@ -6,20 +6,20 @@ import os
 import smtplib
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-
+ 
 _TAG_COLORS = {
     "drilling": "#b45309", "well construction": "#0369a1", "materials": "#7c3aed",
     "electronics": "#be123c", "sensors": "#047857", "subsurface mapping": "#1d4ed8",
 }
-
-
+ 
+ 
 def _tag(kw: str) -> str:
     color = _TAG_COLORS.get(kw, "#475569")
     return (f'<span style="background:{color};color:#fff;border-radius:10px;'
             f'padding:2px 9px;font-size:12px;margin:0 4px 4px 0;'
             f'display:inline-block;">{html.escape(kw)}</span>')
-
-
+ 
+ 
 def build_email_html(new_records: list[dict], site_url: str = "") -> str:
     today = dt.date.today().isoformat()
     if not new_records:
@@ -41,12 +41,12 @@ def build_email_html(new_records: list[dict], site_url: str = "") -> str:
               <div>{tags}</div>
             </article>""")
         body = "\n".join(rows)
-
+ 
     footer = ""
     if site_url:
         footer = (f'<p style="margin-top:18px;"><a href="{html.escape(site_url,quote=True)}">'
                   f'Browse the full knowledge base &rarr;</a></p>')
-
+ 
     return f"""<!doctype html><html><body style="font-family:system-ui,sans-serif;
       max-width:680px;margin:0 auto;padding:20px;color:#0f172a;">
       <h1 style="margin-bottom:2px;">Superhot Rock Geothermal Digest</h1>
@@ -54,8 +54,8 @@ def build_email_html(new_records: list[dict], site_url: str = "") -> str:
          {len(new_records)} new item(s)</div>
       {body}{footer}
     </body></html>"""
-
-
+ 
+ 
 def send_email(html_body: str) -> None:
     """Required env: SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS, MAIL_TO.
     Gmail: host=smtp.gmail.com port=587, SMTP_PASS = an App Password."""
@@ -63,15 +63,30 @@ def send_email(html_body: str) -> None:
     port = int(os.environ.get("SMTP_PORT", "587"))
     user = os.environ["SMTP_USER"]
     password = os.environ["SMTP_PASS"]
-    to_addr = os.environ["MAIL_TO"]
-
+    # MAIL_TO may be a single address or several separated by commas, e.g.
+    #   "a@x.com, b@y.com, c@z.com"
+    # We split on commas and strip whitespace so stray spaces don't break it.
+    recipients = [addr.strip() for addr in os.environ["MAIL_TO"].split(",")
+                  if addr.strip()]
+ 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = f"SHR Geothermal Digest — {dt.date.today().isoformat()}"
     msg["From"] = user
-    msg["To"] = to_addr
+    # Recipients go in Bcc, NOT To, so nobody sees the others' addresses.
+    # We deliberately do not add the addresses to any visible header. The "To"
+    # header is set to the sender itself so the message isn't headerless (some
+    # providers flag mail with no To: line as spam).
+    msg["To"] = user
+    # NOTE: we intentionally do NOT set msg["Bcc"] — if it were added to the
+    # message headers it could be exposed. Instead we keep the recipient list
+    # out of the message entirely and pass it only to the delivery call below,
+    # which is what actually makes Bcc private.
     msg.attach(MIMEText(html_body, "html"))
-
+ 
     with smtplib.SMTP(host, port) as server:
         server.starttls()
         server.login(user, password)
-        server.send_message(msg)
+        # Deliver to every recipient via the envelope (to_addrs) only. Because
+        # these addresses appear in no visible header, each recipient sees only
+        # the sender in "To" and cannot see the other recipients — true Bcc.
+        server.send_message(msg, from_addr=user, to_addrs=recipients)
