@@ -1,7 +1,6 @@
 # Superhot Rock Geothermal — Daily Digest + Knowledge Base
 
-Runs itself once a day on **GitHub Actions** (a personal account — no Claude
-connectors, no corporate infrastructure). Each morning it:
+Runs itself once a day on **GitHub Actions** Each morning it:
 
 1. **Collects** geothermal news (RSS feeds + Google News searches).
 2. **Filters** to superhot-rock-relevant items.
@@ -23,46 +22,3 @@ connectors, no corporate infrastructure). Each morning it:
 - `dates/` — browse by date.
 - `topics/` — browse by topic (drilling, well construction, materials,
   electronics, sensors, subsurface mapping).
-
-## Setup
-
-1. **Create a PERSONAL public GitHub repo** and upload these files.
-2. **Verify feeds** (optional, on your own computer):
-   ```
-   pip install -r requirements.txt
-   python -m src.check_feeds
-   ```
-   Keep the `OK` sources; drop the `EMPTY/FAIL` ones in `feeds.yaml`.
-3. **Add repository Secrets** (Settings -> Secrets and variables -> Actions):
-   `ANTHROPIC_API_KEY`, `SMTP_HOST` (`smtp.gmail.com`), `SMTP_PORT` (`587`),
-   `SMTP_USER`, `SMTP_PASS` (Gmail = an **App Password**), `MAIL_TO`,
-   and `SITE_URL` (e.g. `https://YOURNAME.github.io/YOURREPO/`).
-4. **Enable Pages**: Settings -> Pages -> Deploy from a branch, folder `/docs`.
-5. **Test**: Actions tab -> "Daily SHR Geothermal Digest" -> Run workflow. Then
-   the daily schedule takes over.
-
-## Cost
-
-GitHub Actions: free (public repo). Claude: a few short Haiku calls per new
-article — fractions of a cent/day. Feeds: free.
-
-## Tuning
-
-- Schedule: the `cron` line in `.github/workflows/daily-digest.yml` (UTC; min
-  interval 5 min; avoid `:00`). Use crontab.guru to build the expression.
-- Topics: the `topics` list in `feeds.yaml` (used for both tags and topic pages).
-- AI model: `MODEL` in `src/summarize.py` (`claude-haiku-4-5` default;
-  `claude-sonnet-4-6` for richer summaries). Confirm live IDs at
-  https://platform.claude.com/docs/en/about-claude/models/overview.
-
-## Verified vs. assumed
-
-- [verified] feedparser works (tested); full pipeline tested end-to-end with the
-  brain accumulating and de-duplicating across simulated runs.
-- [verified] Claude model IDs (platform.claude.com Models overview, 2026).
-- [verified] GitHub Actions: UTC, 5-min minimum, avoid top-of-hour.
-- [verified] Claude Code Routines run unattended in Anthropic's cloud.
-- [unverified] each source's exact RSS path (check_feeds confirms) and the Google
-  News RSS URL format (widely used, not officially documented).
-- [unverified] exact Microsoft Graph endpoints/scopes for the optional OneDrive
-  mirror — confirm at build time if you add it.
