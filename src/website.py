@@ -1,13 +1,21 @@
 """Build the static website from the brain.
 
 Generates, under docs/ (served free by GitHub Pages):
-    docs/index.html            -> home: latest highlights + recent days
+    docs/style.css             -> shared stylesheet (one file, all pages)
+    docs/index.html            -> home: hero + highlights + latest additions
     docs/dates/INDEX.html      -> browse by date
     docs/dates/<YYYY-MM-DD>.html
     docs/topics/INDEX.html     -> browse by topic
     docs/topics/<topic>.html
 Everything is read from the brain (knowledge/*.json), so the site always
 reflects the full accumulated corpus, not just today.
+
+DESIGN
+  Palette derives from the subject: rock heated to the superhot-geothermal range
+  glows from deep basalt through molten amber. Dark "deep earth" background,
+  incandescent accents used with restraint, monospace for data (dates, counts,
+  temperatures-of-the-domain vernacular). Fully responsive; respects reduced
+  motion; light/dark handled by a single dark-first theme with warm neutrals.
 """
 from __future__ import annotations
 import html
@@ -16,9 +24,16 @@ import datetime as dt
 from src import brain
 
 DOCS = "docs"
+
+# Thermal palette mapped to the six domains. Colors sit on the same
+# basalt->amber heat ramp so the tags read as a coherent system, not confetti.
 _TAG_COLORS = {
-    "drilling": "#b45309", "well construction": "#0369a1", "materials": "#7c3aed",
-    "electronics": "#be123c", "sensors": "#047857", "subsurface mapping": "#1d4ed8",
+    "drilling":          "#e8623a",  # molten orange
+    "well construction": "#f2933c",  # amber
+    "materials":         "#d94f6a",  # hot magenta-red
+    "electronics":       "#c77dff",  # plasma violet
+    "sensors":           "#4bb8a9",  # cooled teal (instrument)
+    "subsurface mapping":"#5a9bd8",  # cool blue (depth)
 }
 
 
@@ -27,48 +42,186 @@ def _slug(s: str) -> str:
 
 
 def _tag(kw: str, prefix: str = "") -> str:
-    color = _TAG_COLORS.get(kw, "#475569")
+    color = _TAG_COLORS.get(kw, "#8a8f98")
     href = f"{prefix}topics/{_slug(kw)}.html"
-    return (f'<a href="{href}" style="background:{color};color:#fff;'
-            f'border-radius:10px;padding:2px 9px;font-size:12px;margin:0 4px 4px 0;'
-            f'display:inline-block;text-decoration:none;">{html.escape(kw)}</a>')
+    return (f'<a class="tag" href="{href}" '
+            f'style="--tag:{color}">{html.escape(kw)}</a>')
 
 
-def _page(title: str, inner: str, prefix: str = "") -> str:
-    return f"""<!doctype html><html><head><meta charset="utf-8">
+STYLE = """
+:root{
+  --bg:#0e0b09; --bg2:#171310; --panel:#1c1714; --panel2:#231d18;
+  --line:#332a22; --ink:#f3ece3; --ink2:#c9bcac; --ink3:#8f8172;
+  --amber:#f2933c; --molten:#e8623a; --ember:#d94f6a;
+  --glow:0 0 0 1px rgba(242,147,60,.15), 0 8px 30px -12px rgba(232,98,58,.35);
+  --radius:14px;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0; background:
+    radial-gradient(1200px 600px at 70% -10%, rgba(232,98,58,.12), transparent 60%),
+    radial-gradient(900px 500px at 10% 0%, rgba(242,147,60,.08), transparent 55%),
+    var(--bg);
+  color:var(--ink);
+  font-family:"Inter","Segoe UI",system-ui,-apple-system,sans-serif;
+  line-height:1.55; -webkit-font-smoothing:antialiased;
+}
+a{color:inherit}
+.wrap{max-width:960px; margin:0 auto; padding:0 22px}
+
+/* top nav */
+.nav{position:sticky; top:0; z-index:20; backdrop-filter:blur(10px);
+  background:rgba(14,11,9,.72); border-bottom:1px solid var(--line)}
+.nav .wrap{display:flex; align-items:center; gap:26px; height:60px}
+.brand{display:flex; align-items:center; gap:10px; font-weight:700;
+  letter-spacing:.3px; text-decoration:none}
+.brand .dot{width:11px; height:11px; border-radius:50%;
+  background:radial-gradient(circle at 30% 30%, #ffd9a0, var(--molten) 60%, #7a1f10);
+  box-shadow:0 0 12px 2px rgba(232,98,58,.6)}
+.nav a.link{color:var(--ink2); text-decoration:none; font-size:14px;
+  font-weight:500; padding:6px 0; border-bottom:2px solid transparent}
+.nav a.link:hover{color:var(--ink); border-bottom-color:var(--amber)}
+.nav .spacer{flex:1}
+
+/* hero */
+.hero{position:relative; padding:72px 0 40px; overflow:hidden}
+.hero .eyebrow{font-family:"JetBrains Mono",ui-monospace,monospace;
+  font-size:12px; letter-spacing:2.5px; text-transform:uppercase;
+  color:var(--amber); margin:0 0 14px}
+.hero h1{font-size:clamp(30px,5vw,52px); line-height:1.05; margin:0 0 16px;
+  font-weight:800; letter-spacing:-.5px;
+  background:linear-gradient(180deg,#fff2e2,#f2933c 120%);
+  -webkit-background-clip:text; background-clip:text; color:transparent}
+.hero p.lede{max-width:620px; color:var(--ink2); font-size:18px; margin:0 0 26px}
+.hero .depthbar{display:flex; gap:14px; flex-wrap:wrap;
+  font-family:"JetBrains Mono",ui-monospace,monospace; font-size:12.5px;
+  color:var(--ink3)}
+.hero .depthbar b{color:var(--ink); font-weight:600}
+.thermline{position:absolute; right:-40px; top:0; bottom:0; width:220px;
+  background:linear-gradient(180deg,transparent, rgba(242,147,60,.18) 40%,
+    rgba(232,98,58,.32) 70%, rgba(122,31,16,.5)); filter:blur(30px);
+  pointer-events:none}
+
+/* section headers */
+.sec{padding:14px 0 8px; margin-top:22px;
+  display:flex; align-items:baseline; gap:12px}
+.sec h2{font-size:15px; letter-spacing:1.5px; text-transform:uppercase;
+  color:var(--ink2); font-weight:700; margin:0}
+.sec .rule{flex:1; height:1px; background:linear-gradient(90deg,var(--line),transparent)}
+.sec .count{font-family:"JetBrains Mono",monospace; font-size:12px; color:var(--ink3)}
+
+/* card grid */
+.grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(280px,1fr));
+  gap:16px; padding:8px 0 4px}
+.card{background:linear-gradient(180deg,var(--panel2),var(--panel));
+  border:1px solid var(--line); border-radius:var(--radius); padding:18px 18px 16px;
+  display:flex; flex-direction:column; gap:10px; transition:transform .15s ease,
+  box-shadow .15s ease, border-color .15s ease}
+.card:hover{transform:translateY(-3px); box-shadow:var(--glow);
+  border-color:rgba(242,147,60,.4)}
+.card.hl{border-color:rgba(242,147,60,.45);
+  background:linear-gradient(180deg,#241a12,var(--panel))}
+.card .meta{font-family:"JetBrains Mono",monospace; font-size:11.5px;
+  color:var(--ink3); display:flex; align-items:center; gap:8px; flex-wrap:wrap}
+.card .src{color:var(--amber)}
+.card .rel{margin-left:auto; padding:2px 7px; border-radius:20px;
+  border:1px solid var(--line); text-transform:uppercase; letter-spacing:.5px}
+.card .rel.high{color:var(--molten); border-color:rgba(232,98,58,.5)}
+.card h3{margin:0; font-size:17px; line-height:1.3; font-weight:650}
+.card h3 a{text-decoration:none}
+.card h3 a:hover{color:var(--amber)}
+.card .flame{color:var(--amber)}
+.card p{margin:0; color:var(--ink2); font-size:14.5px; flex:1}
+.tags{display:flex; flex-wrap:wrap; gap:7px; margin-top:2px}
+.tag{--tag:#8a8f98; text-decoration:none; font-size:12px; font-weight:600;
+  padding:3px 10px; border-radius:20px; color:var(--tag);
+  border:1px solid color-mix(in srgb, var(--tag) 40%, transparent);
+  background:color-mix(in srgb, var(--tag) 12%, transparent); white-space:nowrap}
+.tag:hover{background:color-mix(in srgb, var(--tag) 22%, transparent)}
+
+/* index list pages (dates / topics) */
+.tiles{display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr));
+  gap:14px; padding:14px 0}
+.tile{background:linear-gradient(180deg,var(--panel2),var(--panel));
+  border:1px solid var(--line); border-radius:var(--radius); padding:18px 18px;
+  text-decoration:none; display:flex; flex-direction:column; gap:6px;
+  transition:transform .15s, border-color .15s, box-shadow .15s}
+.tile:hover{transform:translateY(-3px); border-color:rgba(242,147,60,.4);
+  box-shadow:var(--glow)}
+.tile .k{font-size:18px; font-weight:700}
+.tile .n{font-family:"JetBrains Mono",monospace; font-size:12px; color:var(--ink3)}
+.tile .swatch{width:26px; height:5px; border-radius:3px; margin-bottom:2px}
+
+.empty{color:var(--ink3); font-size:15px; padding:24px 0}
+
+footer{margin-top:56px; border-top:1px solid var(--line); padding:26px 0 50px;
+  color:var(--ink3); font-size:12.5px}
+footer a{color:var(--ink2)}
+
+@media (max-width:520px){ .hero{padding:48px 0 30px} .nav .wrap{gap:16px} }
+@media (prefers-reduced-motion:reduce){ *{transition:none!important; scroll-behavior:auto} }
+"""
+
+
+def _head(title: str, prefix: str) -> str:
+    return f"""<!doctype html><html lang="en"><head>
+<meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{html.escape(title)}</title></head>
-<body style="font-family:system-ui,sans-serif;max-width:760px;margin:0 auto;
-      padding:24px;color:#0f172a;background:#fff;">
-  <nav style="margin-bottom:20px;font-size:14px;">
-    <a href="{prefix}index.html" style="margin-right:14px;">Home</a>
-    <a href="{prefix}dates/INDEX.html" style="margin-right:14px;">By date</a>
-    <a href="{prefix}topics/INDEX.html">By topic</a>
-  </nav>
-  <h1 style="margin-bottom:16px;">{html.escape(title)}</h1>
-  {inner}
-  <footer style="margin-top:36px;color:#94a3b8;font-size:12px;border-top:
-    1px solid #e2e8f0;padding-top:12px;">
-    Summaries generated automatically; links go to original sources.
-  </footer>
-</body></html>"""
+<title>{html.escape(title)}</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="{prefix}style.css">
+</head><body>"""
+
+
+def _nav(prefix: str) -> str:
+    return f"""
+<nav class="nav"><div class="wrap">
+  <a class="brand" href="{prefix}index.html"><span class="dot"></span>Superhot&nbsp;Rock&nbsp;Watch</a>
+  <span class="spacer"></span>
+  <a class="link" href="{prefix}index.html">Latest</a>
+  <a class="link" href="{prefix}topics/INDEX.html">Topics</a>
+  <a class="link" href="{prefix}dates/INDEX.html">Archive</a>
+</div></nav>"""
+
+
+def _foot() -> str:
+    return ("""<footer><div class="wrap">
+  Plain-language summaries generated automatically from public sources.
+  Every card links to its original article. Superhot Rock Watch is an
+  independent news tracker and is not affiliated with the sources it cites.
+</div></footer></body></html>""")
 
 
 def _card(rec: dict, prefix: str = "") -> str:
     tags = "".join(_tag(k, prefix) for k in rec.get("keywords", []))
-    star = " ⭐" if rec.get("highlight") else ""
+    hl = rec.get("highlight")
+    flame = '<span class="flame">&#9650;</span> ' if hl else ""
+    rel = html.escape(rec.get("relevance", ""))
+    rel_cls = "rel high" if rel == "high" else "rel"
     return f"""
-    <article style="border-bottom:1px solid #e2e8f0;padding:16px 0;">
-      <a href="{html.escape(rec['url'], quote=True)}" style="font-size:17px;
-         font-weight:600;color:#0f172a;text-decoration:none;">
-         {html.escape(rec['title'])}{star}</a>
-      <div style="color:#64748b;font-size:13px;margin:3px 0 8px;">
-         {html.escape(rec['source'])} &middot; added {rec['date_added']}
-         &middot; relevance: {html.escape(rec.get('relevance',''))}</div>
-      <p style="margin:0 0 10px;color:#334155;line-height:1.5;">
-         {html.escape(rec.get('plain_summary',''))}</p>
-      <div>{tags}</div>
+    <article class="card{' hl' if hl else ''}">
+      <div class="meta">
+        <span class="src">{html.escape(rec['source'])}</span>
+        <span>&middot; {rec['date_added']}</span>
+        <span class="{rel_cls}">{rel}</span>
+      </div>
+      <h3><a href="{html.escape(rec['url'], quote=True)}" target="_blank"
+             rel="noopener">{flame}{html.escape(rec['title'])}</a></h3>
+      <p>{html.escape(rec.get('plain_summary',''))}</p>
+      <div class="tags">{tags}</div>
     </article>"""
+
+
+def _grid(cards: str, empty_msg: str) -> str:
+    return f'<div class="grid">{cards}</div>' if cards else f'<div class="empty">{empty_msg}</div>'
+
+
+def _sec(title: str, count_text: str = "") -> str:
+    c = f'<span class="count">{count_text}</span>' if count_text else ""
+    return f'<div class="sec"><h2>{html.escape(title)}</h2><span class="rule"></span>{c}</div>'
 
 
 def _write(path: str, content: str) -> None:
@@ -78,52 +231,89 @@ def _write(path: str, content: str) -> None:
 
 
 def build_site() -> None:
-    articles = brain.all_records()                 # {url: rec}
+    articles = brain.all_records()
     by_id = {r["id"]: r for r in articles.values()}
-    topics = brain.topic_index()                    # {topic: [ids]}
-    dates = brain.date_index()                      # {date: [ids]}
+    topics = brain.topic_index()
+    dates = brain.date_index()
+    total = len(articles)
 
-    # ---- Home: highlights + most recent day ----
+    # shared stylesheet
+    _write(os.path.join(DOCS, "style.css"), STYLE)
+
+    # ---------- HOME ----------
     highlights = [r for r in articles.values() if r.get("highlight")]
     highlights.sort(key=lambda r: r["date_added"], reverse=True)
-    recent_days = sorted(dates.keys(), reverse=True)[:1]
-    recent_cards = ""
-    for d in recent_days:
-        recent_cards += f'<h2 style="font-size:16px;color:#475569;">{d}</h2>'
-        recent_cards += "".join(_card(by_id[i]) for i in dates[d] if i in by_id)
-    home_inner = "<h2 style='font-size:16px;color:#475569;'>Highlights</h2>"
-    home_inner += ("".join(_card(r) for r in highlights[:8])
-                   or "<p>No highlights yet.</p>")
-    home_inner += "<hr style='margin:24px 0;border:none;border-top:1px solid #e2e8f0;'>"
-    home_inner += "<h2 style='font-size:18px;'>Latest day</h2>" + (recent_cards or "<p>Nothing yet.</p>")
-    _write(os.path.join(DOCS, "index.html"),
-           _page("Superhot Rock Geothermal — Knowledge Base", home_inner))
+    latest_days = sorted(dates.keys(), reverse=True)[:1]
 
-    # ---- By date ----
-    date_links = "".join(
-        f'<li><a href="{d}.html">{d}</a> ({len(ids)} items)</li>'
-        for d, ids in sorted(dates.items(), reverse=True))
-    _write(os.path.join(DOCS, "dates", "INDEX.html"),
-           _page("Browse by date", f"<ul>{date_links}</ul>", prefix="../"))
+    hero = f"""
+<header class="hero"><div class="thermline"></div><div class="wrap">
+  <p class="eyebrow">Deep geothermal &middot; drilling to sensing</p>
+  <h1>Heat from rock hot enough to glow.</h1>
+  <p class="lede">A daily, plain-language tracker of superhot rock geothermal
+     progress &mdash; the drilling, materials, electronics, sensing and
+     subsurface work moving it from lab to field.</p>
+  <div class="depthbar">
+    <span><b>{total}</b> articles tracked</span>
+    <span><b>{len(topics)}</b> topics</span>
+    <span><b>{len(dates)}</b> days logged</span>
+  </div>
+</div></header>"""
+
+    hl_cards = "".join(_card(r) for r in highlights[:6])
+    latest_cards = ""
+    for d in latest_days:
+        latest_cards += "".join(_card(by_id[i]) for i in dates[d] if i in by_id)
+
+    body = (_head("Superhot Rock Watch", "") + _nav("") + hero + '<div class="wrap">'
+            + _sec("Highlights", f"{len(highlights)} flagged")
+            + _grid(hl_cards, "No highlights yet — check back after the next run.")
+            + _sec("Latest additions", latest_days[0] if latest_days else "")
+            + _grid(latest_cards, "Nothing logged yet. The tracker fills on its next scheduled run.")
+            + "</div>" + _foot())
+    _write(os.path.join(DOCS, "index.html"), body)
+
+    # ---------- BY DATE ----------
+    date_tiles = "".join(
+        f'<a class="tile" href="{d}.html"><span class="k">{d}</span>'
+        f'<span class="n">{len(set(ids))} article(s)</span></a>'
+        for d in sorted(dates.keys(), reverse=True) for ids in [dates[d]])
+    di = (_head("Archive by date", "../") + _nav("../") + '<div class="wrap">'
+          + _sec("Archive", f"{len(dates)} day(s)")
+          + (f'<div class="tiles">{date_tiles}</div>' if date_tiles
+             else '<div class="empty">No entries yet.</div>')
+          + "</div>" + _foot())
+    _write(os.path.join(DOCS, "dates", "INDEX.html"), di)
     for d, ids in dates.items():
-        cards = "".join(_card(by_id[i], prefix="../") for i in ids if i in by_id)
-        _write(os.path.join(DOCS, "dates", f"{d}.html"),
-               _page(f"News for {d}", cards, prefix="../"))
+        cards = "".join(_card(by_id[i], "../") for i in ids if i in by_id)
+        page = (_head(f"News for {d}", "../") + _nav("../") + '<div class="wrap">'
+                + _sec(f"Added {d}") + _grid(cards, "No entries for this day.")
+                + "</div>" + _foot())
+        _write(os.path.join(DOCS, "dates", f"{d}.html"), page)
 
-    # ---- By topic ----
-    topic_links = "".join(
-        f'<li><a href="{_slug(t)}.html">{html.escape(t)}</a> ({len(ids)} items)</li>'
-        for t, ids in sorted(topics.items()))
-    _write(os.path.join(DOCS, "topics", "INDEX.html"),
-           _page("Browse by topic", f"<ul>{topic_links}</ul>", prefix="../"))
+    # ---------- BY TOPIC ----------
+    topic_tiles = ""
+    for t in sorted(topics.keys()):
+        color = _TAG_COLORS.get(t, "#8a8f98")
+        n = len(set(topics[t]))
+        topic_tiles += (f'<a class="tile" href="{_slug(t)}.html">'
+                        f'<span class="swatch" style="background:{color}"></span>'
+                        f'<span class="k">{html.escape(t)}</span>'
+                        f'<span class="n">{n} article(s)</span></a>')
+    ti = (_head("Topics", "../") + _nav("../") + '<div class="wrap">'
+          + _sec("Topics", f"{len(topics)} area(s)")
+          + (f'<div class="tiles">{topic_tiles}</div>' if topic_tiles
+             else '<div class="empty">No topics yet.</div>')
+          + "</div>" + _foot())
+    _write(os.path.join(DOCS, "topics", "INDEX.html"), ti)
     for t, ids in topics.items():
-        # newest first, de-duped
         seen, ordered = set(), []
         for i in sorted(ids, key=lambda x: by_id.get(x, {}).get("date_added", ""),
                         reverse=True):
             if i in by_id and i not in seen:
-                seen.add(i)
-                ordered.append(i)
-        cards = "".join(_card(by_id[i], prefix="../") for i in ordered)
-        _write(os.path.join(DOCS, "topics", f"{_slug(t)}.html"),
-               _page(f"Topic: {t}", cards, prefix="../"))
+                seen.add(i); ordered.append(i)
+        cards = "".join(_card(by_id[i], "../") for i in ordered)
+        page = (_head(f"Topic: {t}", "../") + _nav("../") + '<div class="wrap">'
+                + _sec(t, f"{len(ordered)} article(s)")
+                + _grid(cards, "No articles tagged with this topic yet.")
+                + "</div>" + _foot())
+        _write(os.path.join(DOCS, "topics", f"{_slug(t)}.html"), page)
