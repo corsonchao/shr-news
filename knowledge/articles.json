@@ -1,1 +1,32 @@
-{}
+{
+  "https://www.thinkgeoenergy.com/infrastructure-work-completed-in-preparation-of-geothermal-drilling-in-mataloko-indonesia/": {
+    "id": "1272fa965727",
+    "url": "https://www.thinkgeoenergy.com/infrastructure-work-completed-in-preparation-of-geothermal-drilling-in-mataloko-indonesia/",
+    "title": "Infrastructure work completed in preparation of geothermal drilling in Mataloko, Indonesia",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-07-01T16:22:36+00:00",
+    "date_added": "2026-07-02",
+    "plain_summary": "Infrastructure work has been finished at the Mataloko geothermal project in Indonesia, getting the site ready for the drilling phase—the process of boring deep holes into the earth to reach hot rock formations that can generate electricity.",
+    "keywords": [
+      "drilling",
+      "well construction"
+    ],
+    "relevance": "high",
+    "highlight": true
+  },
+  "https://www.thinkgeoenergy.com/omv-and-energie-steiermark-announce-joint-geothermal-project-in-graz-austria/": {
+    "id": "6851b324d03a",
+    "url": "https://www.thinkgeoenergy.com/omv-and-energie-steiermark-announce-joint-geothermal-project-in-graz-austria/",
+    "title": "OMV and Energie Steiermark announce joint geothermal project in Graz, Austria",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-07-02T11:41:54+00:00",
+    "date_added": "2026-07-02",
+    "plain_summary": "Two energy companies, OMV and Energie Steiermark, have partnered to develop a geothermal heating project in Graz, Austria. They plan to begin exploration drilling—the process of drilling deep into the earth to locate and access hot rock resources—by the end of 2026.",
+    "keywords": [
+      "drilling",
+      "well construction"
+    ],
+    "relevance": "medium",
+    "highlight": false
+  }
+}
