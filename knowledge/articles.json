@@ -28,5 +28,20 @@
     ],
     "relevance": "medium",
     "highlight": false
+  },
+  "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY29sTkFjTEd0T2xBQnA0Uml1VXlvMlZBYXB5Xy1maUZrSGRzdllleFdJLVpsTWxxcVBjZkszSk5rRng0c2VBRGdXb24xdUhPTlZfVEp3OU9YbkFtSjE0bVRUOTlKUlh1ZXVJQlVHaGFybGF6c2xXMUNmSURXbjJkVG41VXkwLU1zNm1IekkwOEZENjdoUUktV1J4bzE1allHcGYzU3pCZ2wyU1ZXTWItWU9tVm5LTWFKVVk4R082dGFKSlFzZFJpOTUxbmZQd0Ew?oc=5": {
+    "id": "120b1b7e7797",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY29sTkFjTEd0T2xBQnA0Uml1VXlvMlZBYXB5Xy1maUZrSGRzdllleFdJLVpsTWxxcVBjZkszSk5rRng0c2VBRGdXb24xdUhPTlZfVEp3OU9YbkFtSjE0bVRUOTlKUlh1ZXVJQlVHaGFybGF6c2xXMUNmSURXbjJkVG41VXkwLU1zNm1IekkwOEZENjdoUUktV1J4bzE1allHcGYzU3pCZ2wyU1ZXTWItWU9tVm5LTWFKVVk4R082dGFKSlFzZFJpOTUxbmZQd0Ew?oc=5",
+    "title": "Fervo Energy Adapts Oil Drilling Techniques to Develop Universal Geothermal Energy Solution - CPG Click Oil and Gas",
+    "source": "GoogleNews:SHR + drilling/materials",
+    "published": "2026-06-29T18:11:00+00:00",
+    "date_added": "2026-07-02",
+    "plain_summary": "Fervo Energy is using techniques borrowed from the oil and gas industry to develop geothermal energy from superhot rock deep underground. By adapting proven drilling methods, the company aims to create a geothermal solution that can work almost anywhere, making it easier to tap into Earth's heat as a renewable energy source.",
+    "keywords": [
+      "drilling",
+      "well construction"
+    ],
+    "relevance": "high",
+    "highlight": true
   }
 }
