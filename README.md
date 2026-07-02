@@ -11,31 +11,6 @@ connectors, no corporate infrastructure). Each morning it:
 6. **Rebuilds the website** — categorized by date, by topic, with highlights.
 7. **Emails** you the day's new items via SMTP.
 
-## Why this design (given your constraints)
-
-You asked about connectors, Claude Code Routines, OneDrive, and a corporate
-account. Here's why the build landed where it did:
-
-- **No Claude connectors.** Connectors act during a live chat; they don't run on
-  a schedule by themselves. Your corporate account also restricts which
-  connectors are allowed (GitHub wasn't available). GitHub Actions on a
-  **personal** account sidesteps all of that and runs unattended.
-- **Claude Code Routines** *can* run unattended in Anthropic's cloud (verified:
-  https://code.claude.com/docs/en/scheduled-tasks), and would be a fine
-  alternative engine — but it's in research preview, may be gated by your
-  corporate admin, and adds nothing this GitHub Actions job doesn't already do.
-- **The "brain" is files in this repo,** not OneDrive. The job already
-  reads/writes this repo for the website, so keeping the brain here means one
-  system, no extra auth, and every day's additions are a git commit you can
-  inspect or roll back. OneDrive would add Microsoft Graph OAuth setup and, since
-  your OneDrive is corporate, likely the same policy wall you hit with GitHub. If
-  you later want a OneDrive copy for browsing, add a step that mirrors
-  `knowledge/` to OneDrive — see the note in `src/brain.py`. Keep the repo as the
-  source of truth.
-- **Room to grow into a semantic brain.** `knowledge/articles.json` is a flat,
-  embeddable corpus. To add meaning-based search later, embed each record and
-  store vectors alongside — no restructuring needed.
-
 ## The brain (knowledge/)
 
 - `articles.json` — every article ever kept, keyed by URL (never stored twice).
