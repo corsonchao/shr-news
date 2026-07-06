@@ -1,8 +1,8 @@
-name: Daily SHR Geothermal Digest
+name: Weekly SHR Geothermal Digest
 
 on:
   schedule:
-    - cron: '13 7 * * *'   # 07:13 UTC daily. Avoid :00 (queue congestion). Times are UTC.
+    - cron: '13 14 * * 5'   # Fridays 14:13 UTC. Day-of-week 5 = Friday. Times are UTC.
   workflow_dispatch:        # manual trigger for testing
 
 permissions:
@@ -37,5 +37,4 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add knowledge docs
           git diff --staged --quiet || git commit -m "Digest $(date -u +%F)"
-          git pull --rebase --autostash origin main
           git push
