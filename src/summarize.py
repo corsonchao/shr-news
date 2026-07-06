@@ -24,6 +24,7 @@ Given an article TITLE and SNIPPET, return ONLY a single valid JSON object \
 {{
   "plain_summary": "2-3 sentences in plain language. Define any technical term \
 in-line the first time it appears. No jargon left unexplained.",
+  "key metrics": "Find the key numeric metrics in the article such as depth or temperature drilled to, money put towards the project, or however they quantify their success in 2-3 short bullet points",
   "keywords": ["choose 1-6 from EXACTLY this list: {topics}"],
   "relevance": "high | medium | low  (how relevant to SHR geothermal specifically)"
 }}
