@@ -9,8 +9,6 @@ rss_feeds:
     url: "https://www.canarymedia.com/feed"          
   - name: "MINING.COM"
     url: "https://www.mining.com/feed/"             
-  - name: "DOE Geothermal (energy.gov)"
-    url: "https://www.energy.gov/eere/geothermal/rss.xml" 
   - name: "DOE Office of Geothermal"
     url: "https://www.energy.gov/rss/hgeo-geothermal/900546"
   - name: "Daily Energy Insider — Clean Energy"
