@@ -18,7 +18,9 @@ def main() -> None:
         cfg = yaml.safe_load(f)
     topics = cfg["topics"]
 
-    items = collect(cfg, since_hours=36)
+    # Weekly run: collect the past 7 days (168h). A little overlap with the
+    # previous week is fine — the brain de-dupes by URL, so nothing repeats.
+    items = collect(cfg, since_hours=168)
     print(f"collected {len(items)}")
 
     items = filter_relevant(items, cfg["relevance"])
@@ -38,7 +40,11 @@ def main() -> None:
     build_site()
     print("website rebuilt from the full brain")
 
-    email_html = build_email_html(new_records, site_url=SITE_URL)
+    import datetime as _dt
+    week_start = (_dt.date.today() - _dt.timedelta(days=7)).isoformat()
+    week_end = _dt.date.today().isoformat()
+    period = f"{week_start} to {week_end}"
+    email_html = build_email_html(new_records, site_url=SITE_URL, period_label=period)
     if os.environ.get("SMTP_HOST"):
         send_email(email_html)
         print("email sent")
