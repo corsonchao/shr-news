@@ -43,5 +43,77 @@
     ],
     "relevance": "high",
     "highlight": true
+  },
+  "https://www.thinkgeoenergy.com/carrying-on-the-legacy-of-geothermal-innovation-at-the-utah-forge-project/": {
+    "id": "33cd8ca46ea2",
+    "url": "https://www.thinkgeoenergy.com/carrying-on-the-legacy-of-geothermal-innovation-at-the-utah-forge-project/",
+    "title": "Carrying on the legacy of geothermal innovation at the Utah FORGE project",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-07-05T16:13:49+00:00",
+    "date_added": "2026-07-06",
+    "plain_summary": "The Utah FORGE project continues to advance Enhanced Geothermal Systems (EGS), which are engineered reservoirs created by injecting water into hot rock deep underground to generate electricity. The project has already made significant contributions to developing this technology and plans to continue its research efforts.",
+    "keywords": [
+      "New geothermal projects",
+      "drilling",
+      "well construction"
+    ],
+    "relevance": "high",
+    "highlight": true
+  },
+  "https://www.thinkgeoenergy.com/husum-germany-to-undertake-feasibility-study-for-geothermal-heating-project/": {
+    "id": "1e68a3080864",
+    "url": "https://www.thinkgeoenergy.com/husum-germany-to-undertake-feasibility-study-for-geothermal-heating-project/",
+    "title": "Husum, Germany to undertake feasibility study for geothermal heating project",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-07-06T13:09:39+00:00",
+    "date_added": "2026-07-06",
+    "plain_summary": "A utility company in Husum, Germany has funded a feasibility study to explore whether geothermal heating—using heat from beneath the Earth's surface—could work for their region. The study will examine the technical and economic viability of tapping into underground heat sources to provide heating to the community.",
+    "keywords": [
+      "New geothermal projects",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false
+  },
+  "https://www.thinkgeoenergy.com/preparatory-work-on-geothermal-frontier-project-sites-in-japan-to-start-this-year/": {
+    "id": "60f3deafde1a",
+    "url": "https://www.thinkgeoenergy.com/preparatory-work-on-geothermal-frontier-project-sites-in-japan-to-start-this-year/",
+    "title": "Preparatory work on Geothermal Frontier Project sites in Japan to start this year",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-07-06T11:55:33+00:00",
+    "date_added": "2026-07-06",
+    "plain_summary": "Japan's government agency JOGMEC (Japan Oil, Gas and Metals National Corporation) is beginning preliminary work at three new geothermal energy sites as part of the Geothermal Frontier Project. This preparatory phase involves surveying and preparing these locations before full development can begin.",
+    "keywords": [
+      "New geothermal projects",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false
+  },
+  "https://www.thinkgeoenergy.com/bgs-releases-second-version-of-the-uk-geothermal-catalogue/": {
+    "id": "8360b036712f",
+    "url": "https://www.thinkgeoenergy.com/bgs-releases-second-version-of-the-uk-geothermal-catalogue/",
+    "title": "BGS releases second version of the UK geothermal catalogue",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-07-05T11:58:27+00:00",
+    "date_added": "2026-07-06",
+    "plain_summary": "The British Geological Survey has released an updated UK geothermal catalogue with nearly 14,000 new data points. This catalogue is a collection of information about underground rock and heat conditions across the UK that helps identify where geothermal energy projects could be developed.",
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false
+  },
+  "https://www.thinkgeoenergy.com/call-for-abstracts-52nd-stanford-geothermal-workshop-8-10-february-2027/": {
+    "id": "5365151098aa",
+    "url": "https://www.thinkgeoenergy.com/call-for-abstracts-52nd-stanford-geothermal-workshop-8-10-february-2027/",
+    "title": "Call for abstracts – 52nd Stanford Geothermal Workshop, 8-10 February 2027",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-07-05T11:07:48+00:00",
+    "date_added": "2026-07-06",
+    "plain_summary": "The Stanford Geothermal Workshop, a major annual conference on geothermal energy technology and research, is now accepting abstracts for its 52nd edition scheduled for February 8-10, 2027. Researchers and professionals can submit their work for presentation, with the option to participate remotely.",
+    "keywords": [],
+    "relevance": "medium",
+    "highlight": false
   }
 }
