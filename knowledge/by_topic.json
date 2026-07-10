@@ -5,7 +5,17 @@
     "120b1b7e7797",
     "33cd8ca46ea2",
     "280e9a06b309",
-    "91ba9403f678"
+    "91ba9403f678",
+    "e814fa35c010",
+    "61945c0daab9",
+    "ddf88918bb92",
+    "4c1d3d6d93fe",
+    "5ef7d9f6f94a",
+    "ab040dbd47b8",
+    "efc5bd292583",
+    "b43e9b491945",
+    "46ce75f4a681",
+    "f6479fa34b9a"
   ],
   "well construction": [
     "1272fa965727",
@@ -15,7 +25,12 @@
     "280e9a06b309",
     "91ba9403f678",
     "ba6b0dfaccb5",
-    "09d51c31a219"
+    "09d51c31a219",
+    "ddf88918bb92",
+    "ab040dbd47b8",
+    "efc5bd292583",
+    "46ce75f4a681",
+    "f6479fa34b9a"
   ],
   "New geothermal projects": [
     "33cd8ca46ea2",
@@ -28,7 +43,19 @@
     "55072d4b9fd3",
     "24b62298e0ba",
     "24d4deb5f317",
-    "09d51c31a219"
+    "09d51c31a219",
+    "e814fa35c010",
+    "61945c0daab9",
+    "ddf88918bb92",
+    "4c1d3d6d93fe",
+    "5ef7d9f6f94a",
+    "ab040dbd47b8",
+    "efc5bd292583",
+    "b43e9b491945",
+    "46ce75f4a681",
+    "f6479fa34b9a",
+    "e6751ea47702",
+    "867516a19a33"
   ],
   "subsurface mapping": [
     "1e68a3080864",
@@ -39,6 +66,7 @@
   ],
   "legislation": [
     "55072d4b9fd3",
-    "24b62298e0ba"
+    "24b62298e0ba",
+    "867516a19a33"
   ]
 }
