@@ -1,10 +1,5 @@
 """Summarize + tag each article with Claude. Sends only TITLE + SNIPPET (never
-scraped full text) — your own plain-language summary plus a link out.
-
-Model strings verified against platform.claude.com Models overview + anthropics/
-skills models.md (2026): claude-haiku-4-5 (cheap default), claude-sonnet-4-6
-(richer), claude-opus-4-8 (most capable). Confirm live IDs at
-https://platform.claude.com/docs/en/about-claude/models/overview if a call 404s.
+scraped full text) — your own plain-language summary plus a link out
 """
 from __future__ import annotations
 import json
@@ -18,24 +13,38 @@ _client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 _PROMPT = """You are summarizing geothermal energy news for a NON-EXPERT audience \
 interested in superhot rock (SHR) geothermal technology.
 
-Given an article TITLE and SNIPPET, return ONLY a single valid JSON object \
+Given an article TITLE and its TEXT (either the full article or, if that could \
+not be retrieved, a short snippet), return ONLY a single valid JSON object \
 (no markdown, no code fences, no commentary) with exactly these keys:
 
 {{
-  "plain_summary": "2-3 sentences in plain language. Define any technical term \
-in-line the first time it appears. No jargon left unexplained.",
-  "key metrics": "Find the key numeric metrics in the article such as depth or temperature drilled to, money put towards the project, or however they quantify their success in 2-3 short bullet points",
+  "plain_summary": "2-4 sentences in plain language for a non-expert. Define any \
+technical term in-line the first time it appears. No jargon left unexplained.",
+  "key_figures": ["Extract any specific NUMBERS or QUANTITIES stated in the \
+text, each as a short phrase with its unit and what it measures. \
+Examples: '20,000 ft drilling depth', '$100 million funding', '500 C target \
+temperature', '10 MW plant capacity', '3 km well'. Only include figures that \
+ACTUALLY APPEAR in the text — never invent or estimate. If none appear, use an \
+empty list []."],
   "keywords": ["choose 1-6 from EXACTLY this list: {topics}"],
   "relevance": "high | medium | low  (how relevant to SHR geothermal specifically)"
 }}
 
-If the article is not really about geothermal at all, set relevance to "low".
+Do NOT copy sentences verbatim from the text — write the summary in your own \
+words. If the article is not really about geothermal at all, set relevance to "low".
 
 TITLE: {title}
-SNIPPET: {snippet}"""
+TEXT: {snippet}"""
 
 
 def _summarize_one(item: dict, topics: list[str]) -> dict | None:
+    # Try to fetch the full article text for richer figures + summary. Falls
+    # back to the RSS snippet if fetching is disallowed or fails. The full text
+    # is used ONLY here and never stored (copyright-safe).
+    from src.fetch_article import fetch_full_text
+    full_text = fetch_full_text(item.get("url", ""))
+    text_for_llm = full_text if full_text else item["snippet"]
+
     msg = _client.messages.create(
         model=MODEL,
         max_tokens=400,
@@ -44,7 +53,7 @@ def _summarize_one(item: dict, topics: list[str]) -> dict | None:
             "content": _PROMPT.format(
                 topics=", ".join(topics),
                 title=item["title"],
-                snippet=item["snippet"],
+                snippet=text_for_llm,
             ),
         }],
     )
@@ -56,6 +65,9 @@ def _summarize_one(item: dict, topics: list[str]) -> dict | None:
         return None
     # Keep only topics from the canonical list (guards against stray tags).
     data["keywords"] = [k for k in data.get("keywords", []) if k in topics]
+    # Ensure key_figures is always a list.
+    if not isinstance(data.get("key_figures"), list):
+        data["key_figures"] = []
     return {**item, **data}
 
 
