@@ -40,11 +40,17 @@ def main() -> None:
     build_site()
     print("website rebuilt from the full brain")
 
+    # Group same-story articles into clusters for the email (one blurb per story,
+    # all outlet links attached).
+    from src.cluster import cluster_articles
+    clusters = cluster_articles(new_records)
+    print(f"{len(clusters)} clusters (stories) after grouping duplicates")
+
     import datetime as _dt
     week_start = (_dt.date.today() - _dt.timedelta(days=7)).isoformat()
     week_end = _dt.date.today().isoformat()
     period = f"{week_start} to {week_end}"
-    email_html = build_email_html(new_records, site_url=SITE_URL, period_label=period)
+    email_html = build_email_html(clusters, site_url=SITE_URL, period_label=period)
     if os.environ.get("SMTP_HOST"):
         send_email(email_html)
         print("email sent")
