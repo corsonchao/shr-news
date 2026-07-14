@@ -141,6 +141,17 @@ a{color:inherit}
   border:1px solid color-mix(in srgb, var(--tag) 40%, transparent);
   background:color-mix(in srgb, var(--tag) 12%, transparent); white-space:nowrap}
 .tag:hover{background:color-mix(in srgb, var(--tag) 22%, transparent)}
+.figures{margin:4px 0 2px; padding:9px 12px; border-radius:8px;
+  background:rgba(242,147,60,.08); border-left:3px solid var(--amber)}
+.figures .figlabel{display:block; font-family:"JetBrains Mono",monospace;
+  font-size:10.5px; letter-spacing:1px; text-transform:uppercase;
+  color:var(--amber); margin-bottom:4px}
+.figures ul{margin:0; padding-left:16px; color:var(--ink2); font-size:13.5px}
+.figures li{margin:0 0 2px}
+.srclinks{margin-top:8px; font-size:12.5px; color:var(--ink3);
+  display:flex; flex-wrap:wrap; gap:2px 4px}
+.srclinks a{color:var(--amber); text-decoration:none}
+.srclinks a:hover{text-decoration:underline}
 
 /* index list pages (dates / topics) */
 .tiles{display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr));
@@ -217,6 +228,77 @@ def _card(rec: dict, prefix: str = "") -> str:
     </article>"""
 
 
+def _cluster_card(members: list[dict], prefix: str = "") -> str:
+    """Render one card for a group of same-story articles: merged tags, key
+    figures, and every outlet as a labeled link. Falls back to a plain single
+    card when the group has one member."""
+    if len(members) == 1:
+        return _card(members[0], prefix)
+
+    # Merge display fields from the members (no LLM at build time — we use the
+    # richest stored summary and union the tags/figures).
+    best = max(members, key=lambda m: len(m.get("plain_summary", "")))
+    hl = any(m.get("highlight") for m in members)
+    rels = [m.get("relevance", "") for m in members]
+    rel = "high" if "high" in rels else ("medium" if "medium" in rels else "low")
+    rel_cls = "rel high" if rel == "high" else "rel"
+    flame = '<span class="flame">&#9650;</span> ' if hl else ""
+
+    seen_kw, kws = set(), []
+    for m in members:
+        for k in m.get("keywords", []):
+            if k not in seen_kw:
+                seen_kw.add(k); kws.append(k)
+    tags = "".join(_tag(k, prefix) for k in kws)
+
+    seen_fig, figs = set(), []
+    for m in members:
+        for f in m.get("key_figures", []):
+            kf = f.strip().lower()
+            if kf and kf not in seen_fig:
+                seen_fig.add(kf); figs.append(f.strip())
+    figs_html = ""
+    if figs:
+        lis = "".join(f"<li>{html.escape(f)}</li>" for f in figs)
+        figs_html = (f'<div class="figures"><span class="figlabel">Key figures</span>'
+                     f'<ul>{lis}</ul></div>')
+
+    # every outlet as a labeled link
+    src_links = " &middot; ".join(
+        f'<a href="{html.escape(m["url"], quote=True)}" target="_blank" '
+        f'rel="noopener">{html.escape(m["source"])}</a>' for m in members)
+
+    date_added = min(m.get("date_added", "") for m in members)
+    return f"""
+    <article class="card{' hl' if hl else ''}">
+      <div class="meta">
+        <span class="src">{len(members)} sources</span>
+        <span>&middot; {date_added}</span>
+        <span class="{rel_cls}">{rel}</span>
+      </div>
+      <h3>{flame}{html.escape(best['title'])}</h3>
+      <p>{html.escape(best.get('plain_summary',''))}</p>
+      {figs_html}
+      <div class="tags">{tags}</div>
+      <div class="srclinks">{src_links}</div>
+    </article>"""
+
+
+def _group_by_cluster(recs: list[dict]) -> list[list[dict]]:
+    """Group a list of article records by cluster_id. Records without a
+    cluster_id are treated as their own singleton group. Preserves order by
+    first appearance; sorts groups by newest date_added within the caller."""
+    groups: dict[str, list[dict]] = {}
+    singletons: list[list[dict]] = []
+    for r in recs:
+        cid = r.get("cluster_id")
+        if not cid:
+            singletons.append([r])
+        else:
+            groups.setdefault(cid, []).append(r)
+    return list(groups.values()) + singletons
+
+
 def _grid(cards: str, empty_msg: str) -> str:
     return f'<div class="grid">{cards}</div>' if cards else f'<div class="empty">{empty_msg}</div>'
 
@@ -261,10 +343,14 @@ def build_site() -> None:
   </div>
 </div></header>"""
 
-    hl_cards = "".join(_card(r) for r in highlights[:6])
+    # Highlights and latest — grouped into clusters so duplicates merge.
+    hl_groups = _group_by_cluster(highlights[:12])
+    hl_cards = "".join(_cluster_card(g) for g in hl_groups[:6])
     latest_cards = ""
     for d in latest_days:
-        latest_cards += "".join(_card(by_id[i]) for i in dates[d] if i in by_id)
+        day_recs = [by_id[i] for i in dates[d] if i in by_id]
+        latest_groups = _group_by_cluster(day_recs)
+        latest_cards += "".join(_cluster_card(g) for g in latest_groups)
 
     body = (_head("Superhot Rock Watch", "") + _nav("") + hero + '<div class="wrap">'
             + _sec("Highlights", f"{len(highlights)} flagged")
@@ -286,7 +372,9 @@ def build_site() -> None:
           + "</div>" + _foot())
     _write(os.path.join(DOCS, "dates", "INDEX.html"), di)
     for d, ids in dates.items():
-        cards = "".join(_card(by_id[i], "../") for i in ids if i in by_id)
+        day_recs = [by_id[i] for i in ids if i in by_id]
+        groups = _group_by_cluster(day_recs)
+        cards = "".join(_cluster_card(g, "../") for g in groups)
         page = (_head(f"News for {d}", "../") + _nav("../") + '<div class="wrap">'
                 + _sec(f"Added {d}") + _grid(cards, "No entries for this day.")
                 + "</div>" + _foot())
@@ -313,7 +401,9 @@ def build_site() -> None:
                         reverse=True):
             if i in by_id and i not in seen:
                 seen.add(i); ordered.append(i)
-        cards = "".join(_card(by_id[i], "../") for i in ordered)
+        topic_recs = [by_id[i] for i in ordered]
+        groups = _group_by_cluster(topic_recs)
+        cards = "".join(_cluster_card(g, "../") for g in groups)
         page = (_head(f"Topic: {t}", "../") + _nav("../") + '<div class="wrap">'
                 + _sec(t, f"{len(ordered)} article(s)")
                 + _grid(cards, "No articles tagged with this topic yet.")
