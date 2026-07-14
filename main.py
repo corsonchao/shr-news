@@ -37,12 +37,25 @@ def main() -> None:
     new_records = brain.add_articles(enriched)
     print(f"{len(new_records)} added to the brain")
 
+    # Group same-story articles and persist a shared cluster_id on each, so the
+    # WEBSITE can merge duplicates (it reads cluster_id, no LLM at build time).
+    from src.cluster import group_indices, cluster_articles
+    import hashlib
+    if new_records:
+        groups = group_indices(new_records)
+        url_to_cluster = {}
+        for g in groups:
+            member_urls = [new_records[i]["url"] for i in g]
+            cid = "c_" + hashlib.sha1("|".join(sorted(member_urls)).encode()).hexdigest()[:10]
+            for u in member_urls:
+                url_to_cluster[u] = cid
+        brain.set_cluster_ids(url_to_cluster)
+        print(f"assigned cluster ids to {len(new_records)} new articles")
+
     build_site()
     print("website rebuilt from the full brain")
 
-    # Group same-story articles into clusters for the email (one blurb per story,
-    # all outlet links attached).
-    from src.cluster import cluster_articles
+    # Build the email from clusters (one blurb per story, all outlet links).
     clusters = cluster_articles(new_records)
     print(f"{len(clusters)} clusters (stories) after grouping duplicates")
 
