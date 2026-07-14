@@ -12,7 +12,8 @@
       "well construction"
     ],
     "relevance": "high",
-    "highlight": true
+    "highlight": true,
+    "cluster_id": "c_1272fa9657"
   },
   "https://www.thinkgeoenergy.com/omv-and-energie-steiermark-announce-joint-geothermal-project-in-graz-austria/": {
     "id": "6851b324d03a",
@@ -27,7 +28,8 @@
       "well construction"
     ],
     "relevance": "medium",
-    "highlight": false
+    "highlight": false,
+    "cluster_id": "c_6851b324d0"
   },
   "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY29sTkFjTEd0T2xBQnA0Uml1VXlvMlZBYXB5Xy1maUZrSGRzdllleFdJLVpsTWxxcVBjZkszSk5rRng0c2VBRGdXb24xdUhPTlZfVEp3OU9YbkFtSjE0bVRUOTlKUlh1ZXVJQlVHaGFybGF6c2xXMUNmSURXbjJkVG41VXkwLU1zNm1IekkwOEZENjdoUUktV1J4bzE1allHcGYzU3pCZ2wyU1ZXTWItWU9tVm5LTWFKVVk4R082dGFKSlFzZFJpOTUxbmZQd0Ew?oc=5": {
     "id": "120b1b7e7797",
@@ -42,7 +44,8 @@
       "well construction"
     ],
     "relevance": "high",
-    "highlight": true
+    "highlight": true,
+    "cluster_id": "c_120b1b7e77"
   },
   "https://www.thinkgeoenergy.com/carrying-on-the-legacy-of-geothermal-innovation-at-the-utah-forge-project/": {
     "id": "33cd8ca46ea2",
@@ -58,7 +61,8 @@
       "well construction"
     ],
     "relevance": "high",
-    "highlight": true
+    "highlight": true,
+    "cluster_id": "c_380f5f0d9f"
   },
   "https://www.thinkgeoenergy.com/husum-germany-to-undertake-feasibility-study-for-geothermal-heating-project/": {
     "id": "1e68a3080864",
@@ -73,7 +77,8 @@
       "subsurface mapping"
     ],
     "relevance": "medium",
-    "highlight": false
+    "highlight": false,
+    "cluster_id": "c_1e68a30808"
   },
   "https://www.thinkgeoenergy.com/preparatory-work-on-geothermal-frontier-project-sites-in-japan-to-start-this-year/": {
     "id": "60f3deafde1a",
@@ -88,7 +93,8 @@
       "subsurface mapping"
     ],
     "relevance": "medium",
-    "highlight": false
+    "highlight": false,
+    "cluster_id": "c_60f3deafde"
   },
   "https://www.thinkgeoenergy.com/bgs-releases-second-version-of-the-uk-geothermal-catalogue/": {
     "id": "8360b036712f",
@@ -102,7 +108,8 @@
       "subsurface mapping"
     ],
     "relevance": "medium",
-    "highlight": false
+    "highlight": false,
+    "cluster_id": "c_8360b03671"
   },
   "https://www.thinkgeoenergy.com/call-for-abstracts-52nd-stanford-geothermal-workshop-8-10-february-2027/": {
     "id": "5365151098aa",
@@ -114,7 +121,8 @@
     "plain_summary": "The Stanford Geothermal Workshop, a major annual conference on geothermal energy technology and research, is now accepting abstracts for its 52nd edition scheduled for February 8-10, 2027. Researchers and professionals can submit their work for presentation, with the option to participate remotely.",
     "keywords": [],
     "relevance": "medium",
-    "highlight": false
+    "highlight": false,
+    "cluster_id": "c_5365151098"
   },
   "https://www.thinkgeoenergy.com/deep-closed-loop-geothermal-well-drilled-in-henan-province-china/": {
     "id": "280e9a06b309",
@@ -130,7 +138,8 @@
       "New geothermal projects"
     ],
     "relevance": "high",
-    "highlight": true
+    "highlight": true,
+    "cluster_id": "c_280e9a06b3"
   },
   "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcDZIcjFFR2h2bzRFTUg1TURsYllQT0ZpVHMtdUVqbkVGUE5DeGVTZ0ttSzRxMXJuUlFVcjNJUGpPVksyTkhWWWRaQXZOOGFsdFBESVJONmdlSjhyS1lKOFEtWGlQcDd6d0Z4TGRSYTBlcGJreHJIZ3hwOHhtMkRKcG1Kb3I1RXVLVUI0V3pqSTcwYWM?oc=5": {
     "id": "91ba9403f678",
@@ -147,7 +156,8 @@
       "subsurface mapping"
     ],
     "relevance": "high",
-    "highlight": true
+    "highlight": true,
+    "cluster_id": "c_91ba9403f6"
   },
   "https://www.thinkgeoenergy.com/webinar-prospecting-methods-to-reveal-geothermal-potential-of-eastern-malaysia-7-july-2026/": {
     "id": "ab6c2ab6f763",
@@ -161,7 +171,8 @@
       "subsurface mapping"
     ],
     "relevance": "medium",
-    "highlight": false
+    "highlight": false,
+    "cluster_id": "c_ab6c2ab6f7"
   },
   "https://www.thinkgeoenergy.com/herrenknecht-badenova-plan-geothermal-jv-in-germany/": {
     "id": "ba6b0dfaccb5",
@@ -176,7 +187,8 @@
       "well construction"
     ],
     "relevance": "medium",
-    "highlight": false
+    "highlight": false,
+    "cluster_id": "c_ba6b0dfacc"
   },
   "https://www.thinkgeoenergy.com/super-early-bird-tickets-now-available-for-geotherm-2027-in-offenburg-germany/": {
     "id": "89048518c8c0",
@@ -190,7 +202,8 @@
       "New geothermal projects"
     ],
     "relevance": "medium",
-    "highlight": false
+    "highlight": false,
+    "cluster_id": "c_89048518c8"
   },
   "https://www.thinkgeoenergy.com/germering-puchheim-germany-geothermal-project-progresses-with-federal-funding/": {
     "id": "55072d4b9fd3",
@@ -205,7 +218,8 @@
       "legislation"
     ],
     "relevance": "medium",
-    "highlight": false
+    "highlight": false,
+    "cluster_id": "c_55072d4b9f"
   },
   "https://www.thinkgeoenergy.com/geothermal-in-focus-at-eu-tripartite-agreement-on-energy-storage/": {
     "id": "24b62298e0ba",
@@ -220,7 +234,8 @@
       "legislation"
     ],
     "relevance": "medium",
-    "highlight": false
+    "highlight": false,
+    "cluster_id": "c_24b62298e0"
   },
   "https://www.thinkgeoenergy.com/pertamina-celebrates-100-years-of-geothermal-exploration-in-indonesia/": {
     "id": "24d4deb5f317",
@@ -234,7 +249,8 @@
       "New geothermal projects"
     ],
     "relevance": "medium",
-    "highlight": false
+    "highlight": false,
+    "cluster_id": "c_24d4deb5f3"
   },
   "https://www.canarymedia.com/articles/electrification/manhattan-office-building-geothermal-heating-cooling": {
     "id": "09d51c31a219",
@@ -249,7 +265,8 @@
       "New geothermal projects"
     ],
     "relevance": "medium",
-    "highlight": false
+    "highlight": false,
+    "cluster_id": "c_09d51c31a2"
   },
   "https://www.canarymedia.com/articles/geothermal/quaise-energy-raises-134m": {
     "id": "e814fa35c010",
@@ -264,7 +281,8 @@
       "drilling"
     ],
     "relevance": "high",
-    "highlight": true
+    "highlight": true,
+    "cluster_id": "c_0f9a05c98e"
   },
   "https://news.google.com/rss/articles/CBMifkFVX3lxTFBaOThaMG9jbWlYa0NVZlZzUHljZHBhbENKN1RCMk1VMnlWaHk0YUVRM1ZYSkJ5SVJwMHdMTXZqNk9vR3BLUzhUQXpqeW5SVlBEWkdLU1BuR25OZE5ZX2g0SnpwSjZsc0Q1Rml2MmUxblFDek1kNjB1S1U3UFVlZw?oc=5": {
     "id": "61945c0daab9",
@@ -279,7 +297,8 @@
       "New geothermal projects"
     ],
     "relevance": "high",
-    "highlight": true
+    "highlight": true,
+    "cluster_id": "c_0f9a05c98e"
   },
   "https://news.google.com/rss/articles/CBMimAFBVV95cUxOejNNTWd4QktyNzJzUllTeS1IeHlQVHlsT3ZLREdHYU8wZ0hYMnFRV3JVMkNBNWFLZ3JOV3h5d0hrbGY2c2hYZHBMZUVQNzZVZjhEWUN6THU3dGUweXh1OUhGNjJaeFVFdlNPT252bzIyNUludXNCd2taN0tXdFJQMHpYOFJOZGtmRl8yajh5aGpadUl3b0N6WA?oc=5": {
     "id": "ddf88918bb92",
@@ -295,7 +314,8 @@
       "New geothermal projects"
     ],
     "relevance": "high",
-    "highlight": true
+    "highlight": true,
+    "cluster_id": "c_0f9a05c98e"
   },
   "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVGxiYTBoTXZBVkZlamZSQVB1RXBWRURwSmJUV1Zubk9xT0Nra1RXcFN6Ul8xZU83amZTNUZhU2dMVm9LX09ZZ0xIVllxNEJJaTMwYUp5V2doaEIzQ1hNXzExczVZOHBIT2RkbWhMQ0k0QVdoaHhiVlA4ZFdHV2lFcEhEb2paMWplclM0clhYMGd3d3FQSXVvYjBPWlBFNzFXREVyaUtTTUdTVlE?oc=5": {
     "id": "4c1d3d6d93fe",
@@ -310,7 +330,8 @@
       "New geothermal projects"
     ],
     "relevance": "high",
-    "highlight": true
+    "highlight": true,
+    "cluster_id": "c_0f9a05c98e"
   },
   "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGVRVW5zdFR4d2FhM3JBS2ZiQ2JwdGVHWFRHcHl4Z2JXU3VXelpyb3ExcDlZSUg2RmFSejhuY2hmU2xaTnQzVTVGRzk3SDI1VXJCQWJUSlF3WUxfNHdZRmFuLTUwTWVOYy1USGtzN0UwNHRPZllQTm5ORVJLeFdmMk9wanhhSG40aFctV1ppRDJuVTY0TWdmNDZXSnZQOVBJ?oc=5": {
     "id": "5ef7d9f6f94a",
@@ -325,7 +346,8 @@
       "New geothermal projects"
     ],
     "relevance": "high",
-    "highlight": true
+    "highlight": true,
+    "cluster_id": "c_0f9a05c98e"
   },
   "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0wVEZvQnY2YTl0VUUyU1V5TzAxZDVoaFp6LVlTOEVON09MbG5xT1pkdG1rXzZicW53bFVrQ21qa3cyODZyU3dzN1phcWVORlFpX1VPajRSV05yV2I4?oc=5": {
     "id": "ab040dbd47b8",
@@ -341,7 +363,8 @@
       "New geothermal projects"
     ],
     "relevance": "high",
-    "highlight": true
+    "highlight": true,
+    "cluster_id": "c_0f9a05c98e"
   },
   "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdlk0dUp1TlBNUWZJX25rajcwM0JBQXlwMk00VDZzRDY3ZHgwRWJGZWFHaEoyMGdOX2Jhd1lRdndfY2IyUjhlY19xUmJ0Zk1fYUdid2JYVElkZ19BZEtvMmdtakZhY1VEZ3ktS0FMSWZ4eTIwRlptcExEVVNHYW5kOXlGQlF2V2FBaHRVYmozQ2U4bnZxNjNRdVRsaERLOXVZYWVsOGk3WHc1RVRwTmpQc0xVOXBsX0cwQlNPQQ?oc=5": {
     "id": "efc5bd292583",
@@ -357,7 +380,8 @@
       "well construction"
     ],
     "relevance": "high",
-    "highlight": true
+    "highlight": true,
+    "cluster_id": "c_0f9a05c98e"
   },
   "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZGp6Y3BlVkFJSzhDWGt2dWJGN1BzRjNaaEJPZXBhbUtQM0F0VGc4T3hFNUt1QzFXeVVEYlQ3MXIyNmNOOVpzUDk3QmoxMjdvXzl0Vy1XNWU0b0xuankwazZKbmxhQktmWUFZTlR1VXNVbTUyX0xMUlVEcGUwbmhsQ0c5Ty16Sk8ySGZuU0FNNEdOMzBmc0V3V09oUUkxQWRhbmgzTzQ1amlXeFh1a2hLX0NxSnJoNGR1RG9CbXRIMGdVMHBIdUhlUTRmY0NUcEVSQU94LUhfdU8xU1ZzaWQ1QkxyemZTVUpHSnRSdEQ4cHl1SmRfcWFNVNIB-AFBVV95cUxQZGp6Y3BlVkFJSzhDWGt2dWJGN1BzRjNaaEJPZXBhbUtQM0F0VGc4T3hFNUt1QzFXeVVEYlQ3MXIyNmNOOVpzUDk3QmoxMjdvXzl0Vy1XNWU0b0xuankwazZKbmxhQktmWUFZTlR1VXNVbTUyX0xMUlVEcGUwbmhsQ0c5Ty16Sk8ySGZuU0FNNEdOMzBmc0V3V09oUUkxQWRhbmgzTzQ1amlXeFh1a2hLX0NxSnJoNGR1RG9CbXRIMGdVMHBIdUhlUTRmY0NUcEVSQU94LUhfdU8xU1ZzaWQ1QkxyemZTVUpHSnRSdEQ4cHl1SmRfcWFNVA?oc=5": {
     "id": "b43e9b491945",
@@ -372,7 +396,8 @@
       "New geothermal projects"
     ],
     "relevance": "high",
-    "highlight": true
+    "highlight": true,
+    "cluster_id": "c_b43e9b4919"
   },
   "https://news.google.com/rss/articles/CBMisgFBVV95cUxONE56dzItd0M2MEVaVnp4cjJPUVJHZ1Y0OTZyWEN0YnZZUEdVWXFYNnVua05nX3l6NVNIbGNacEIzXzc3b1VtTzljOWRZbU5PMnpjaHJJWFNsb1U1ZVhJdTVVWXJHT3ZxVmFra0t6ZHBqNzNyajF1WEEyaG1hcENabFJzbUp5TDdnd3JvV2lXZEU1anlQajFwc2tERDNIelNtM0FHSmJmY3hKVHpLSVByakFB?oc=5": {
     "id": "46ce75f4a681",
@@ -388,7 +413,8 @@
       "New geothermal projects"
     ],
     "relevance": "high",
-    "highlight": true
+    "highlight": true,
+    "cluster_id": "c_0f9a05c98e"
   },
   "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNHZJT3lhRVpiV19sLXZ0ZnRQMzBiMkFpV1pUVjJoMnV3azdzNUw0TjJfS0ZhRXQ5eHVfZ3lkMmg1MFhOMDdJT194VkR6ZnJab2lpYmVBVGE2N2JWWUFhcWtmLXpUakY3eEZGLXVSU25SNjJYVXhtbnhRTDlrYlNkTTdvMEp0VUViczk1T0FSb2ZvVDZ6aHVhSzdIT0NPeFk2LVI5VFp1NzNac1dfTHBMLVAweG5ranFOeEdXdmZZckg?oc=5": {
     "id": "f6479fa34b9a",
@@ -404,7 +430,8 @@
       "New geothermal projects"
     ],
     "relevance": "high",
-    "highlight": true
+    "highlight": true,
+    "cluster_id": "c_0f9a05c98e"
   },
   "https://www.thinkgeoenergy.com/from-potential-to-execution-looking-back-at-the-world-geothermal-congress-2026/": {
     "id": "e6751ea47702",
@@ -418,7 +445,8 @@
       "New geothermal projects"
     ],
     "relevance": "medium",
-    "highlight": false
+    "highlight": false,
+    "cluster_id": "c_e6751ea477"
   },
   "https://www.energy.gov/hgeo/geothermal/articles/forge-creating-pathways-geothermal": {
     "id": "867516a19a33",
@@ -433,6 +461,7 @@
       "legislation"
     ],
     "relevance": "medium",
-    "highlight": false
+    "highlight": false,
+    "cluster_id": "c_380f5f0d9f"
   }
 }
