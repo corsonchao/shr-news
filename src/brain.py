@@ -108,3 +108,19 @@ def topic_index() -> dict:
 
 def date_index() -> dict:
     return _load(BY_DATE, {})
+
+
+def set_cluster_ids(url_to_cluster: dict[str, str]) -> None:
+    """Persist a cluster_id onto each article record (keyed by URL).
+    Articles that report the same story share a cluster_id."""
+    articles = _load(ARTICLES, {})
+    for url, cid in url_to_cluster.items():
+        if url in articles:
+            articles[url]["cluster_id"] = cid
+    _save(ARTICLES, articles)
+
+
+def unclustered_urls() -> list[str]:
+    """URLs of stored articles that don't yet have a cluster_id assigned."""
+    articles = _load(ARTICLES, {})
+    return [url for url, rec in articles.items() if not rec.get("cluster_id")]
