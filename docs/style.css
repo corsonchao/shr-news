@@ -89,6 +89,17 @@ a{color:inherit}
   border:1px solid color-mix(in srgb, var(--tag) 40%, transparent);
   background:color-mix(in srgb, var(--tag) 12%, transparent); white-space:nowrap}
 .tag:hover{background:color-mix(in srgb, var(--tag) 22%, transparent)}
+.figures{margin:4px 0 2px; padding:9px 12px; border-radius:8px;
+  background:rgba(242,147,60,.08); border-left:3px solid var(--amber)}
+.figures .figlabel{display:block; font-family:"JetBrains Mono",monospace;
+  font-size:10.5px; letter-spacing:1px; text-transform:uppercase;
+  color:var(--amber); margin-bottom:4px}
+.figures ul{margin:0; padding-left:16px; color:var(--ink2); font-size:13.5px}
+.figures li{margin:0 0 2px}
+.srclinks{margin-top:8px; font-size:12.5px; color:var(--ink3);
+  display:flex; flex-wrap:wrap; gap:2px 4px}
+.srclinks a{color:var(--amber); text-decoration:none}
+.srclinks a:hover{text-decoration:underline}
 
 /* index list pages (dates / topics) */
 .tiles{display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr));
