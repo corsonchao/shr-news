@@ -162,3 +162,30 @@ def cluster_articles(enriched: list[dict]) -> list[dict]:
     order = {"high": 0, "medium": 1, "low": 2}
     clusters.sort(key=lambda c: order.get(c["relevance"], 2))
     return clusters
+
+
+def group_indices(enriched: list[dict]) -> list[list[int]]:
+    """Return just the groupings (lists of indices into `enriched`) without
+    merging blurbs. Used to assign persistent cluster_ids to stored articles.
+    Falls back to all-singletons if the LLM response is malformed."""
+    if not enriched:
+        return []
+    if len(enriched) == 1:
+        return [[0]]
+    listing = "\n".join(
+        f'{i}: "{it["title"]}"  (source: {it["source"]})'
+        for i, it in enumerate(enriched))
+    result = _llm_json(_CLUSTER_PROMPT.format(maxindex=len(enriched) - 1,
+                                              listing=listing))
+    if result and isinstance(result.get("groups"), list):
+        flat = [i for g in result["groups"] for i in g]
+        if sorted(flat) == list(range(len(enriched))):
+            return result["groups"]
+    return [[i] for i in range(len(enriched))]
+
+
+def make_cluster_from_records(members: list[dict]) -> dict:
+    """Build a display cluster (merged blurb + all sources + merged figures)
+    from stored brain records. Same shape as cluster_articles output, used by
+    the website. Reuses _one_cluster which handles single vs multi merging."""
+    return _one_cluster(members)
