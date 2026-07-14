@@ -34,6 +34,8 @@ _TAG_COLORS = {
     "electronics":       "#c77dff",  # plasma violet
     "sensors":           "#4bb8a9",  # cooled teal (instrument)
     "subsurface mapping":"#5a9bd8",  # cool blue (depth)
+    "legislation":       "#9aa5b1",  # slate grey (policy context)
+    "funding":           "#6bbf59",  # green (money)
 }
 
 
@@ -189,7 +191,9 @@ def _nav(prefix: str) -> str:
 
 def _foot() -> str:
     return ("""<footer><div class="wrap">
-  Summaries generated using AI with links to original article. 
+  Plain-language summaries generated automatically from public sources.
+  Every card links to its original article. Superhot Rock Watch is an
+  independent news tracker and is not affiliated with the sources it cites.
 </div></footer></body></html>""")
 
 
@@ -246,7 +250,7 @@ def build_site() -> None:
     hero = f"""
 <header class="hero"><div class="thermline"></div><div class="wrap">
   <p class="eyebrow">Deep geothermal &middot; drilling to sensing</p>
-  <h1>Daily news on Superhot Rock Geothermal.</h1>
+  <h1>Heat from rock hot enough to glow.</h1>
   <p class="lede">A daily, plain-language tracker of superhot rock geothermal
      progress &mdash; the drilling, materials, electronics, sensing and
      subsurface work moving it from lab to field.</p>
