@@ -27,7 +27,7 @@ import trafilatura  # v2.x  [verified installed 2.1.0]
 # Honest identification. If you publish the site, put its URL here so site owners
 # can see who is fetching and contact you if needed.
 USER_AGENT = ("SuperhotRockWatch/1.0 (weekly research digest; "
-              "contact: your-email@example.com)")
+              "contact: corsonchao@gmail.com)")
 
 TIMEOUT = 15          # seconds per fetch
 POLITE_DELAY = 2.0    # seconds to wait between fetches
