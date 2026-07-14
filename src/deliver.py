@@ -10,6 +10,7 @@ from email.mime.text import MIMEText
 _TAG_COLORS = {
     "drilling": "#b45309", "well construction": "#0369a1", "materials": "#7c3aed",
     "electronics": "#be123c", "sensors": "#047857", "subsurface mapping": "#1d4ed8",
+    "legislation": "#64748b", "funding": "#15803d",
 }
 
 
@@ -20,64 +21,88 @@ def _tag(kw: str) -> str:
             f'display:inline-block;">{html.escape(kw)}</span>')
 
 
-def _full_card(r: dict) -> str:
-    """A HIGH-relevance item: full plain-language summary + tags."""
-    tags = "".join(_tag(k) for k in r.get("keywords", []))
+def _figures_html(figs: list[str]) -> str:
+    if not figs:
+        return ""
+    items = "".join(
+        f'<li style="margin:0 0 3px;">{html.escape(f)}</li>' for f in figs)
+    return (f'<div style="margin:8px 0 6px;padding:8px 12px;background:#fff7ed;'
+            f'border-left:3px solid #f2933c;border-radius:4px;">'
+            f'<div style="font-size:12px;text-transform:uppercase;letter-spacing:.5px;'
+            f'color:#b45309;font-weight:700;margin-bottom:4px;">Key figures</div>'
+            f'<ul style="margin:0;padding-left:18px;font-size:14px;color:#334155;">'
+            f'{items}</ul></div>')
+
+
+def _sources_html(sources: list[dict]) -> str:
+    """Each source link labeled by its outlet name."""
+    links = " &nbsp;&middot;&nbsp; ".join(
+        f'<a href="{html.escape(s["url"], quote=True)}" '
+        f'style="color:#2563eb;text-decoration:none;">{html.escape(s["name"])}</a>'
+        for s in sources)
+    label = "Source" if len(sources) == 1 else f"{len(sources)} sources"
+    return (f'<div style="font-size:13px;color:#64748b;margin-top:6px;">'
+            f'<b>{label}:</b> {links}</div>')
+
+
+def _full_cluster(c: dict) -> str:
+    """A HIGH-relevance cluster: full blurb + key figures + all source links."""
+    tags = "".join(_tag(k) for k in c.get("keywords", []))
     return f"""
-    <article style="border-bottom:1px solid #e2e8f0;padding:14px 0;">
-      <a href="{html.escape(r['url'], quote=True)}" style="font-size:16px;
-         font-weight:600;color:#0f172a;text-decoration:none;">
-         &#9650; {html.escape(r['title'])}</a>
-      <div style="color:#64748b;font-size:13px;margin:2px 0 6px;">
-         {html.escape(r['source'])}</div>
-      <p style="margin:0 0 8px;color:#334155;line-height:1.5;">
-         {html.escape(r.get('plain_summary',''))}</p>
-      <div>{tags}</div>
+    <article style="border-bottom:1px solid #e2e8f0;padding:16px 0;">
+      <div style="font-size:16px;font-weight:700;color:#0f172a;margin-bottom:4px;">
+         &#9650; {html.escape(c['title'])}</div>
+      <p style="margin:0 0 4px;color:#334155;line-height:1.5;">
+         {html.escape(c.get('plain_summary',''))}</p>
+      {_figures_html(c.get('key_figures', []))}
+      <div style="margin-top:6px;">{tags}</div>
+      {_sources_html(c['sources'])}
     </article>"""
 
 
-def _title_row(r: dict) -> str:
-    """A MEDIUM-relevance item: title + source as a compact link only."""
-    topics = ", ".join(r.get("keywords", []))
+def _title_cluster(c: dict) -> str:
+    """A MEDIUM-relevance cluster: title + source links only (no blurb)."""
+    topics = ", ".join(c.get("keywords", []))
     topics_html = (f' <span style="color:#94a3b8;">&middot; {html.escape(topics)}</span>'
                    if topics else "")
+    links = " &middot; ".join(
+        f'<a href="{html.escape(s["url"], quote=True)}" '
+        f'style="color:#2563eb;text-decoration:none;">{html.escape(s["name"])}</a>'
+        for s in c["sources"])
     return f"""
-    <li style="margin:0 0 8px;line-height:1.4;">
-      <a href="{html.escape(r['url'], quote=True)}"
-         style="color:#0f172a;font-weight:600;text-decoration:none;">
-         {html.escape(r['title'])}</a>
-      <span style="color:#64748b;font-size:13px;"> &mdash; {html.escape(r['source'])}</span>
-      {topics_html}
+    <li style="margin:0 0 10px;line-height:1.4;">
+      <span style="color:#0f172a;font-weight:600;">{html.escape(c['title'])}</span>{topics_html}
+      <div style="font-size:13px;color:#64748b;">{links}</div>
     </li>"""
 
 
-def build_email_html(new_records: list[dict], site_url: str = "",
+def build_email_html(clusters: list[dict], site_url: str = "",
                      period_label: str = "") -> str:
-    """Weekly digest. HIGH items get full summaries; MEDIUM items get title-only
-    rows. (LOW items are already dropped upstream in summarize_all.)"""
+    """Weekly digest built from CLUSTERS (same-story articles already merged).
+    HIGH clusters get full blurbs + key figures + all links; MEDIUM clusters get
+    title + links only. LOW are dropped upstream."""
     today = dt.date.today().isoformat()
     label = period_label or f"Week ending {today}"
 
-    highs = [r for r in new_records if r.get("relevance") == "high"]
-    mediums = [r for r in new_records if r.get("relevance") == "medium"]
+    highs = [c for c in clusters if c.get("relevance") == "high"]
+    mediums = [c for c in clusters if c.get("relevance") == "medium"]
+    total_articles = sum(len(c["sources"]) for c in clusters)
 
-    if not new_records:
+    if not clusters:
         body = "<p>No new superhot-rock items this week.</p>"
     else:
         body = ""
-        # HIGHLIGHTS — full summaries
         if highs:
             body += ('<h2 style="font-size:15px;text-transform:uppercase;'
                      'letter-spacing:1px;color:#b45309;margin:18px 0 4px;">'
                      f'Highlights ({len(highs)})</h2>')
-            body += "".join(_full_card(r) for r in highs)
-        # ALSO THIS WEEK — titles only
+            body += "".join(_full_cluster(c) for c in highs)
         if mediums:
             body += ('<h2 style="font-size:15px;text-transform:uppercase;'
                      'letter-spacing:1px;color:#475569;margin:26px 0 6px;">'
                      f'Also this week ({len(mediums)})</h2>')
-            body += ('<ul style="padding-left:18px;margin:0;">'
-                     + "".join(_title_row(r) for r in mediums) + "</ul>")
+            body += ('<ul style="padding-left:18px;margin:0;list-style:none;">'
+                     + "".join(_title_cluster(c) for c in mediums) + "</ul>")
 
     footer = ""
     if site_url:
@@ -88,7 +113,8 @@ def build_email_html(new_records: list[dict], site_url: str = "",
       max-width:680px;margin:0 auto;padding:20px;color:#0f172a;">
       <h1 style="margin-bottom:2px;">Superhot Rock Geothermal &mdash; Weekly Digest</h1>
       <div style="color:#64748b;margin-bottom:8px;">{label} &middot;
-         {len(new_records)} item(s) &middot; {len(highs)} highlight(s)</div>
+         {len(clusters)} story(ies) from {total_articles} article(s) &middot;
+         {len(highs)} highlight(s)</div>
       {body}{footer}
     </body></html>"""
 
