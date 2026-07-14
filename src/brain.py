@@ -81,6 +81,7 @@ def add_articles(enriched: list[dict]) -> list[dict]:
             "published": it.get("published"),
             "date_added": today,
             "plain_summary": it.get("plain_summary", ""),
+            "key_figures": it.get("key_figures", []),
             "keywords": it.get("keywords", []),
             "relevance": it.get("relevance", ""),
             "highlight": it.get("relevance") == "high",
