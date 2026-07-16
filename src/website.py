@@ -251,12 +251,8 @@ def _cluster_card(members: list[dict], prefix: str = "") -> str:
                 seen_kw.add(k); kws.append(k)
     tags = "".join(_tag(k, prefix) for k in kws)
 
-    seen_fig, figs = set(), []
-    for m in members:
-        for f in m.get("key_figures", []):
-            kf = f.strip().lower()
-            if kf and kf not in seen_fig:
-                seen_fig.add(kf); figs.append(f.strip())
+    from src.cluster import _merge_figures
+    figs = _merge_figures(members)
     figs_html = ""
     if figs:
         lis = "".join(f"<li>{html.escape(f)}</li>" for f in figs)
@@ -332,7 +328,7 @@ def build_site() -> None:
     hero = f"""
 <header class="hero"><div class="thermline"></div><div class="wrap">
   <p class="eyebrow">Deep geothermal &middot; drilling to sensing</p>
-  <h1>Heat from rock hot enough to glow.</h1>
+  <h1>Super Hot News</h1>
   <p class="lede">A daily, plain-language tracker of superhot rock geothermal
      progress &mdash; the drilling, materials, electronics, sensing and
      subsurface work moving it from lab to field.</p>
