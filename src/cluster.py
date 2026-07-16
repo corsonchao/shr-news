@@ -27,13 +27,36 @@ import os
 import anthropic
 
 MODEL = "claude-haiku-4-5"
-_client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+
+# Lazily created so importing this module (e.g. for _merge_figures during a
+# site-only rebuild) does NOT require an API key. The client is only built when
+# an actual LLM call is made.
+_client = None
+
+
+def _get_client():
+    global _client
+    if _client is None:
+        _client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
+    return _client
 
 _CLUSTER_PROMPT = """You are given a numbered list of geothermal news articles \
-(index, title, source). Group together the ones that report the SAME underlying \
-story or event (e.g. the same funding round, the same drilling milestone, the \
-same partnership), even if the wording differs. Articles about DIFFERENT stories \
-must stay in separate groups. When unsure, keep them separate.
+(index, title, source). Group the ones that report the SAME underlying event, \
+even when headlines differ in wording, angle, or detail.
+
+GROUP TOGETHER when the core event is the same, for example:
+- the same funding round or investment (e.g. all articles about a company's \
+$134M raise belong in ONE group, no matter how many outlets covered it)
+- the same drilling milestone, well, or test result
+- the same partnership, acquisition, contract, or government action
+Different framings of one event are still ONE event. A company name plus a \
+dollar amount that match across articles almost always means the same story.
+
+KEEP SEPARATE only when the events are genuinely different (different companies, \
+different projects, different announcements, or clearly different dates/amounts).
+
+Bias toward MERGING when the same company + same milestone or amount appears. \
+It is better to group ten articles about one raise together than to split them.
 
 Return ONLY a valid JSON object (no markdown, no fences) of this form:
 {{"groups": [[0, 3], [1], [2, 4, 5]]}}
@@ -43,7 +66,7 @@ index from 0 to {maxindex} must appear exactly once.
 ARTICLES:
 {listing}"""
 
-_MERGE_PROMPT = """These articles all cover the same geothermal story, from \
+_MERGE_PROMPT = """These articles all cover the SAME geothermal story, from \
 different outlets. Write ONE combined summary for a NON-EXPERT reader.
 
 Return ONLY valid JSON (no markdown, no fences):
@@ -51,9 +74,12 @@ Return ONLY valid JSON (no markdown, no fences):
   "title": "a clear headline for the combined story",
   "plain_summary": "3-4 sentences in plain language combining what the sources \
 report. Define technical terms in-line. Do not repeat the same point.",
-  "key_figures": ["merged list of specific numbers/quantities with units that \
-appear across these articles, de-duplicated. Only figures actually stated. \
-Empty list if none."]
+  "key_figures": ["The consolidated list of distinct numeric facts. CRITICAL: \
+merge duplicates and near-duplicates into a SINGLE entry each. If one article \
+says '$134 million series B funding' and another says '$134 million funding', \
+output only ONE entry, the most descriptive: '$134 million Series B funding'. \
+Do not list the same quantity twice with different wording. Each entry is a \
+distinct fact with its unit. Only figures actually stated. Empty list if none."]
 }}
 
 ARTICLES (each: source, title, summary, figures):
@@ -61,7 +87,7 @@ ARTICLES (each: source, title, summary, figures):
 
 
 def _llm_json(prompt: str, max_tokens: int = 600) -> dict | None:
-    msg = _client.messages.create(
+    msg = _get_client().messages.create(
         model=MODEL, max_tokens=max_tokens,
         messages=[{"role": "user", "content": prompt}],
     )
@@ -73,14 +99,55 @@ def _llm_json(prompt: str, max_tokens: int = 600) -> dict | None:
         return None
 
 
+import re as _re
+
+
+def _figure_numbers(fig: str) -> frozenset:
+    """Extract the set of number-like tokens (with adjacent unit) from a figure,
+    so two figures sharing the same core quantity are seen as duplicates even if
+    surrounding words differ. '$134 million series B funding' and '$134 million
+    funding' both yield the token {'134million'}."""
+    f = fig.lower().replace(",", "").replace("$", "")
+    # find number optionally followed by a unit word (million/billion/m/b/k/mw/
+    # ft/km/c/etc.) - capture number + immediate unit token
+    toks = set()
+    for m in _re.finditer(r"(\d+(?:\.\d+)?)\s*([a-z]+)?", f):
+        num, unit = m.group(1), (m.group(2) or "")
+        # normalize common unit synonyms
+        unit = {"m": "million", "b": "billion", "k": "thousand"}.get(unit, unit)
+        toks.add(num + unit)
+    return frozenset(toks)
+
+
 def _merge_figures(items: list[dict]) -> list[str]:
-    seen, out = set(), []
+    """De-duplicate figures across articles. Two figures are duplicates if they
+    share the same numeric token set (e.g. both are about '$134 million'); the
+    longer, more descriptive phrasing is kept."""
+    candidates: list[str] = []
     for it in items:
         for f in it.get("key_figures", []):
-            k = f.strip().lower()
-            if k and k not in seen:
-                seen.add(k); out.append(f.strip())
-    return out
+            f = f.strip()
+            if f:
+                candidates.append(f)
+
+    kept: list[tuple[str, frozenset]] = []
+    for f in sorted(candidates, key=len, reverse=True):  # longest (most descriptive) first
+        nums = _figure_numbers(f)
+        dup = False
+        for _, kn in kept:
+            # duplicate if they share numeric tokens (and this one has numbers)
+            if nums and kn and nums & kn:
+                dup = True
+                break
+        if not dup:
+            kept.append((f, nums))
+
+    kept_texts = {k for k, _ in kept}
+    seen, final = set(), []
+    for c in candidates:  # stable order by first appearance
+        if c in kept_texts and c not in seen:
+            seen.add(c); final.append(c)
+    return final
 
 
 def _merge_keywords(items: list[dict]) -> list[str]:
