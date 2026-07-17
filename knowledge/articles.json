@@ -559,5 +559,23 @@
     "relevance": "high",
     "highlight": true,
     "cluster_id": "c_bf2cc57e99"
+  },
+  "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjVJTS1LLWwxR3BxWUlMV2FYY3dNOXluWWRXVEUzNWJlRTZrU0NEZFhhWnh4aHBfbklpX0NpN1JtQzhHaHVoRTdUbHpVYTM2MFVhdGNlcjhEVFpwOEJDSjNLdlJfbk9uTzFTZFFXZk9wSFlPcC0zM0JaSVBmY0tRZy1XRU53eUk1bFU5cWwzblBtR3l6empteFg5RUFicTNrX0xaRFNPcFZfdG5nbFNJ?oc=5": {
+    "id": "decfd96beae6",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQjVJTS1LLWwxR3BxWUlMV2FYY3dNOXluWWRXVEUzNWJlRTZrU0NEZFhhWnh4aHBfbklpX0NpN1JtQzhHaHVoRTdUbHpVYTM2MFVhdGNlcjhEVFpwOEJDSjNLdlJfbk9uTzFTZFFXZk9wSFlPcC0zM0JaSVBmY0tRZy1XRU53eUk1bFU5cWwzblBtR3l6empteFg5RUFicTNrX0xaRFNPcFZfdG5nbFNJ?oc=5",
+    "title": "Quaise Energy raises $134m to advance superhot geothermal power project",
+    "source": "TradeArabia",
+    "published": "2026-07-12T07:34:25+00:00",
+    "date_added": "2026-07-17",
+    "plain_summary": "Quaise Energy, a company developing superhot rock geothermal technology (which uses extremely hot underground rock to generate electricity), has secured $134 million in funding to advance its projects. This investment will help the company further develop and scale up its superhot geothermal power systems.",
+    "key_figures": [
+      "$134 million funding"
+    ],
+    "keywords": [
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_decfd96bea"
   }
 }
