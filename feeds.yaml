@@ -13,6 +13,30 @@ rss_feeds:
     url: "https://www.energy.gov/rss/hgeo-geothermal/900546"
   - name: "Daily Energy Insider — Clean Energy"
     url: "https://dailyenergyinsider.com/clean-energy/feed/"
+  - name: "The Driller"
+    url: "https://www.thedriller.com/rss/topic/2662-geothermal"
+  - name: "POWER Magazine — Geothermal"
+    url: "https://www.powermag.com/category/geothermal/feed/"
+  - name: "MIT News — Geothermal"
+    url: "https://news.mit.edu/rss/topic/geothermal"
+  - name: "Nature"
+    url: "https://www.nature.com/nature.rss"  
+  - name: "Geothermics (Elsevier)"
+    url: "https://rss.sciencedirect.com/publication/science/03756505"  # candidate (ISSN 0375-6505)
+  - name: "J. Volcanology & Geothermal Research (Elsevier)"
+    url: "https://rss.sciencedirect.com/publication/science/03770273"  # candidate (ISSN 0377-0273)
+  - name: "Renewable Energy (Elsevier)"
+    url: "https://rss.sciencedirect.com/publication/science/09601481"  # candidate (ISSN 0960-1481); broad
+  - name: "GECO project (blog)"
+    url: "https://geco-h2020.eu/category/blog/feed/"        # candidate
+  - name: "Geothermal Canada"
+    url: "https://www.geothermalcanada.org/news?format=rss" # candidate
+  - name: "Eavor (blog)"
+    url: "https://eavor.com/feed/"                          # candidate
+  - name: "GreenFire Energy (blog)"
+    url: "https://www.greenfireenergy.com/category/blog/feed/"  # candidate
+  - name: "Eden Geothermal (blog)"
+    url: "https://www.edengeothermal.com/feed/"  
 
 google_news:
   - name: "SHR core"
