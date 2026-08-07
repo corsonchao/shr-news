@@ -61,7 +61,16 @@
     "6673bfc50bbe",
     "4f881ec35207",
     "ff65b83b4099",
-    "76872faca218"
+    "76872faca218",
+    "4fcedd0d7db6",
+    "b23281698111",
+    "d1203f33319c",
+    "2d79deae9b7d",
+    "f1e4e35ad5d2",
+    "df45a76bdc3d",
+    "e8110c84767b",
+    "ad6ed36f09fd",
+    "ec5f33b5cbd2"
   ],
   "well construction": [
     "1272fa965727",
@@ -108,7 +117,17 @@
     "6673bfc50bbe",
     "bb5a10e9f164",
     "76872faca218",
-    "edd89ad0dd7e"
+    "edd89ad0dd7e",
+    "b8c9e61b2cc4",
+    "ec79e564b139",
+    "f1e4e35ad5d2",
+    "3ec8b0e0a84d",
+    "df45a76bdc3d",
+    "e8110c84767b",
+    "ec5f33b5cbd2",
+    "bbec20986fc6",
+    "a3e910417057",
+    "0cb9cf9a58e4"
   ],
   "New geothermal projects": [
     "33cd8ca46ea2",
@@ -189,7 +208,21 @@
     "3203acae781f",
     "e2407f6d8200",
     "fdeab3714384",
-    "edd89ad0dd7e"
+    "edd89ad0dd7e",
+    "4fcedd0d7db6",
+    "b23281698111",
+    "d1203f33319c",
+    "402754138f7e",
+    "f1e4e35ad5d2",
+    "3ec8b0e0a84d",
+    "df45a76bdc3d",
+    "ad6ed36f09fd",
+    "75f214adb9f1",
+    "ba3a8888dbba",
+    "bbec20986fc6",
+    "a3e910417057",
+    "956f8b0e83fd",
+    "7d279ca85764"
   ],
   "legislation": [
     "55072d4b9fd3",
@@ -200,7 +233,8 @@
     "e636c5438daa",
     "957fa7ec09f9",
     "020888e1ba3f",
-    "4f881ec35207"
+    "4f881ec35207",
+    "d1203f33319c"
   ],
   "funding": [
     "3b10808d4572",
@@ -239,7 +273,19 @@
     "020888e1ba3f",
     "4f881ec35207",
     "add83222c23c",
-    "1c1e85eb6dd5"
+    "1c1e85eb6dd5",
+    "4fcedd0d7db6",
+    "b23281698111",
+    "2d79deae9b7d",
+    "b8c9e61b2cc4",
+    "3ec8b0e0a84d",
+    "df45a76bdc3d",
+    "e8110c84767b",
+    "ad6ed36f09fd",
+    "75f214adb9f1",
+    "ba3a8888dbba",
+    "0de7edb8bf45",
+    "0cb9cf9a58e4"
   ],
   "materials": [
     "775f8fb223c6",
@@ -255,12 +301,19 @@
     "59cdf18d83d0",
     "5552bde7b211",
     "b13a0224addd",
-    "e2407f6d8200"
+    "e2407f6d8200",
+    "4f8a3968de0c"
   ],
   "sensors": [
     "455bb5bb4a94",
     "4bda307e35b1",
     "af28b9917bca",
-    "bf157fb0dc49"
+    "bf157fb0dc49",
+    "b23281698111",
+    "f1e4e35ad5d2",
+    "956f8b0e83fd"
+  ],
+  "electronics": [
+    "b23281698111"
   ]
 }

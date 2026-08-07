@@ -2208,5 +2208,437 @@
     "relevance": "medium",
     "highlight": false,
     "cluster_id": "c_1c1e85eb6d"
+  },
+  "https://www.thinkgeoenergy.com/eoi-agencies-for-geothermal-assessment-and-development-in-andaman-nicobar-islands-india/": {
+    "id": "4fcedd0d7db6",
+    "url": "https://www.thinkgeoenergy.com/eoi-agencies-for-geothermal-assessment-and-development-in-andaman-nicobar-islands-india/",
+    "title": "EOI – Agencies for geothermal assessment, development in Andaman & Nicobar Islands, India",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-06T09:05:24+00:00",
+    "date_added": "2026-08-07",
+    "plain_summary": "India's government energy company is seeking qualified organizations to help assess and develop geothermal energy projects in the Andaman and Nicobar Islands, a remote territory that currently depends heavily on imported fossil fuels. The region has been identified as having suitable underground geological conditions for tapping into Earth's heat as a renewable energy source. The government wants partners with expertise in exploring geothermal resources, drilling wells, mapping underground rock layers, and building power generation systems.",
+    "key_figures": [
+      "18 September 2026 deadline",
+      "17 August 2026 pre-submission meeting"
+    ],
+    "keywords": [
+      "drilling",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_4fcedd0d7d"
+  },
+  "https://www.thinkgeoenergy.com/nlr-highlights-licensable-technologies-for-deeper-more-profitable-geothermal-drilling/": {
+    "id": "b23281698111",
+    "url": "https://www.thinkgeoenergy.com/nlr-highlights-licensable-technologies-for-deeper-more-profitable-geothermal-drilling/",
+    "title": "NLR highlights licensable technologies for deeper, more profitable geothermal drilling",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-05T12:40:30+00:00",
+    "date_added": "2026-08-07",
+    "plain_summary": "The National Laboratory of the Rockies has identified three ready-to-use technologies that could make geothermal drilling deeper and more cost-effective. These include a high-temperature power generator that works in extreme heat, specialized sensors and electronics that collect drilling data in harsh conditions, and software that predicts costs for new geothermal projects. These innovations are already available for geothermal companies to license and use.",
+    "key_figures": [
+      "500°F (260°C) temperature rating for alternator",
+      "500 MW Cape Station project capacity"
+    ],
+    "keywords": [
+      "drilling",
+      "sensors",
+      "electronics",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_b232816981"
+  },
+  "https://www.thinkgeoenergy.com/geothermal-exploration-permit-in-guadeloupe-granted-to-albioma/": {
+    "id": "d1203f33319c",
+    "url": "https://www.thinkgeoenergy.com/geothermal-exploration-permit-in-guadeloupe-granted-to-albioma/",
+    "title": "Geothermal exploration permit in Guadeloupe granted to Albioma",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-04T14:38:48+00:00",
+    "date_added": "2026-08-07",
+    "plain_summary": "A French energy company called Albioma has received permission to explore for geothermal resources (heat from deep underground rock) at a site in Guadeloupe. Over the next five years, they will study existing geological data, conduct surface surveys, and create models to determine if there is a high-temperature geothermal reservoir (an underground area containing hot rock suitable for energy production) in the region. The company will need to apply separately for drilling permission if their exploration is successful.",
+    "key_figures": [
+      "62 square kilometers exploration area",
+      "5 year permit duration",
+      "15.5 MW Bouillante power plant capacity"
+    ],
+    "keywords": [
+      "subsurface mapping",
+      "drilling",
+      "legislation"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_d1203f3331"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526001938?dgcid=rss_sd_all": {
+    "id": "402754138f7e",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526001938?dgcid=rss_sd_all",
+    "title": "From magnetic anomaly to geothermal resource: An updated Curie depth map for the geothermal assessment of Colombia",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-07",
+    "plain_summary": "Researchers in Colombia have created an updated map showing the depth of the Curie point—the depth in the Earth where rocks lose their magnetic properties due to extreme heat—to help identify promising locations for geothermal energy development. By analyzing magnetic data from the region, scientists can now better pinpoint areas where rocks underground are hot enough to be useful for geothermal energy production.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_402754138f"
+  },
+  "https://www.thinkgeoenergy.com/strataphy-taqa-geothermal-partner-to-accelerate-geothermal-cooling-deployment-in-saudi-arabia/": {
+    "id": "2d79deae9b7d",
+    "url": "https://www.thinkgeoenergy.com/strataphy-taqa-geothermal-partner-to-accelerate-geothermal-cooling-deployment-in-saudi-arabia/",
+    "title": "Strataphy, TAQA Geothermal partner to accelerate geothermal cooling deployment in Saudi Arabia",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-07T11:56:18+00:00",
+    "date_added": "2026-08-07",
+    "plain_summary": "Two companies have partnered to bring geothermal cooling technology to Saudi Arabia. TAQA Geothermal will handle project management and development, while Strataphy contributes its PrimeLoop® technology—a ground-based cooling system that uses heat from beneath the earth's surface to cool buildings without needing water. The partnership aims to expand this sustainable cooling approach across the country to reduce electricity consumption.",
+    "key_figures": [],
+    "keywords": [
+      "drilling",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_2d79deae9b"
+  },
+  "https://www.thinkgeoenergy.com/burghausen-germany-to-invest-e27m-to-build-geothermal-heating-network/": {
+    "id": "b8c9e61b2cc4",
+    "url": "https://www.thinkgeoenergy.com/burghausen-germany-to-invest-e27m-to-build-geothermal-heating-network/",
+    "title": "Burghausen, Germany to invest €27m to build geothermal heating network",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-06T13:24:40+00:00",
+    "date_added": "2026-08-07",
+    "plain_summary": "The city of Burghausen in Germany is investing €27 million to build a heating network that will deliver geothermal heat (heat extracted from hot rock beneath the Earth's surface) from a nearby geothermal plant to homes and buildings in the city. A 10-kilometer pipeline is being constructed to transport this heat, with the system expected to start operating by 2028, helping the city reduce carbon emissions and transition to more sustainable heating.",
+    "key_figures": [
+      "€27 million investment",
+      "10-kilometer pipeline",
+      "2028 operational date"
+    ],
+    "keywords": [
+      "well construction",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_b8c9e61b2c"
+  },
+  "https://www.thinkgeoenergy.com/small-scale-hydropower-and-geothermal-power-project-implemented-in-taitung-taiwan/": {
+    "id": "ec79e564b139",
+    "url": "https://www.thinkgeoenergy.com/small-scale-hydropower-and-geothermal-power-project-implemented-in-taitung-taiwan/",
+    "title": "Small-scale hydropower and geothermal power project implemented in Taitung, Taiwan",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-06T07:47:12+00:00",
+    "date_added": "2026-08-07",
+    "plain_summary": "A pilot project in Taiwan combined small-scale hydropower (electricity generated from flowing water) with a geothermal thermoelectric generator (a device that converts heat from hot springs into electricity) to produce power at a hot spring resort. Though the total output is modest, the project demonstrates how communities can generate their own renewable energy and provides educational value, with potential to be replicated at other hot spring locations across Taiwan.",
+    "key_figures": [
+      "1900 W hybrid system capacity",
+      "18 meters elevation difference"
+    ],
+    "keywords": [
+      "well construction"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_ec79e564b1"
+  },
+  "https://www.thinkgeoenergy.com/gros-schonebeck-geothermal-research-site-in-germany-celebrates-25th-anniversary/": {
+    "id": "f1e4e35ad5d2",
+    "url": "https://www.thinkgeoenergy.com/gros-schonebeck-geothermal-research-site-in-germany-celebrates-25th-anniversary/",
+    "title": "Groß Schönebeck geothermal research site in Germany celebrates 25th anniversary",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-05T16:28:42+00:00",
+    "date_added": "2026-08-07",
+    "plain_summary": "A research facility in Germany called Groß Schönebeck has been studying geothermal energy (heat from deep underground rocks) for 25 years, using a converted old natural gas well. Scientists there have developed important techniques for finding and accessing geothermal resources, including methods to map underground rock structures and measure their properties. Recently, they're testing new technology that can extract heat directly from deep boreholes without pumping water to the surface, which could make geothermal energy more practical and scalable worldwide.",
+    "key_figures": [
+      "25 years of operation",
+      "Research site established in 2001"
+    ],
+    "keywords": [
+      "well construction",
+      "subsurface mapping",
+      "drilling",
+      "sensors"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_f1e4e35ad5"
+  },
+  "https://www.thinkgeoenergy.com/pakistan-moves-toward-developing-lithium-extraction-technology-for-geothermal-brine/": {
+    "id": "3ec8b0e0a84d",
+    "url": "https://www.thinkgeoenergy.com/pakistan-moves-toward-developing-lithium-extraction-technology-for-geothermal-brine/",
+    "title": "Pakistan moves toward developing lithium extraction technology for geothermal brine",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-05T10:02:55+00:00",
+    "date_added": "2026-08-07",
+    "plain_summary": "Pakistan's state energy company has discovered lithium (a mineral used in batteries) in hot, salty water from a geothermal well in the Sindh region. They've partnered with a nuclear research institute to develop technology for extracting lithium from this geothermal brine (salt water heated deep underground). If successful, this could provide Pakistan with access to a valuable resource while also demonstrating how geothermal systems can be used for more than just energy production.",
+    "key_figures": [
+      "275 mg/L lithium concentration",
+      "8 to 10 additional wells identified for exploration"
+    ],
+    "keywords": [
+      "well construction",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_3ec8b0e0a8"
+  },
+  "https://www.thinkgeoenergy.com/geothermal-exploration-drilling-starts-in-nowy-dwor-mazowiecki-poland/": {
+    "id": "df45a76bdc3d",
+    "url": "https://www.thinkgeoenergy.com/geothermal-exploration-drilling-starts-in-nowy-dwor-mazowiecki-poland/",
+    "title": "Geothermal exploration drilling starts in Nowy Dwór Mazowiecki, Poland",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-04T11:24:52+00:00",
+    "date_added": "2026-08-07",
+    "plain_summary": "A new geothermal exploration well has begun drilling in Poland to test whether hot water beneath the city can be used for heating and other purposes. The well will go down about 2,070 meters to reach the thermal water deposits. The project received government funding and is expected to cost approximately 12.9 million Polish zloty.",
+    "key_figures": [
+      "2,070 meters drilling depth",
+      "12.9 million PLN total project cost"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_df45a76bdc"
+  },
+  "https://www.thinkgeoenergy.com/85-degrees-secures-e200m-financing-for-geothermal-heating-projects-in-the-netherlands/": {
+    "id": "e8110c84767b",
+    "url": "https://www.thinkgeoenergy.com/85-degrees-secures-e200m-financing-for-geothermal-heating-projects-in-the-netherlands/",
+    "title": "85 Degrees secures €200m financing for geothermal heating projects in the Netherlands",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-04T09:13:40+00:00",
+    "date_added": "2026-08-07",
+    "plain_summary": "A renewable heat company called 85 Degrees has secured €200 million in financing from two major banks to develop geothermal heating projects in the Netherlands. These projects will extract heat from hot rock layers underground to supply greenhouses, reducing their need for natural gas. The company has already drilled five wells in one area and plans to expand this heating infrastructure across the country.",
+    "key_figures": [
+      "€200 million financing amount",
+      "5 wells drilled in Bleiswijk study area"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_e8110c8476"
+  },
+  "https://www.thinkgeoenergy.com/mou-signed-for-first-open-space-cooling-geothermal-system-in-riyadh-saudi-arabia/": {
+    "id": "ad6ed36f09fd",
+    "url": "https://www.thinkgeoenergy.com/mou-signed-for-first-open-space-cooling-geothermal-system-in-riyadh-saudi-arabia/",
+    "title": "MoU signed for first open-space cooling geothermal system in Riyadh, Saudi Arabia",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-03T13:55:46+00:00",
+    "date_added": "2026-08-07",
+    "plain_summary": "A major agreement has been signed to build the world's first geothermal cooling system for open spaces at a university campus in Riyadh, Saudi Arabia. The PrimeLoop technology pumps heat into the earth rather than cooling towers that spray water into the air, which means it uses zero water and cuts electricity needs by up to half—a huge benefit in a water-scarce region. This project demonstrates how shallow geothermal (heat from underground rock layers) can cool large areas sustainably and efficiently.",
+    "key_figures": [
+      "10,000 TR (~35 MWth) cooling load",
+      "50% electricity reduction compared to conventional cooling"
+    ],
+    "keywords": [
+      "subsurface mapping",
+      "drilling",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_ad6ed36f09"
+  },
+  "https://www.thinkgeoenergy.com/gdc-breaks-ground-on-geothermal-laboratory-in-nakuru-county-kenya/": {
+    "id": "75f214adb9f1",
+    "url": "https://www.thinkgeoenergy.com/gdc-breaks-ground-on-geothermal-laboratory-in-nakuru-county-kenya/",
+    "title": "GDC breaks ground on geothermal laboratory in Nakuru County, Kenya",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-03T13:14:12+00:00",
+    "date_added": "2026-08-07",
+    "plain_summary": "Kenya's Geothermal Development Company has started building a new science laboratory at its facility in Nakuru County to improve how it studies and manages geothermal resources (heat and energy from underground rock). The lab will conduct geological analysis (studying rock types and composition) and help the company better understand underground reservoirs (pockets of hot water and steam), replacing temporary facilities they've used for 17 years.",
+    "key_figures": [
+      "17 years using temporary laboratory facilities",
+      "105 MW installed capacity target at Menengai steam field"
+    ],
+    "keywords": [
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_75f214adb9"
+  },
+  "https://www.thinkgeoenergy.com/drilling-contract-signed-for-second-doublet-for-afk-geothermal-heating-project-germany/": {
+    "id": "ec5f33b5cbd2",
+    "url": "https://www.thinkgeoenergy.com/drilling-contract-signed-for-second-doublet-for-afk-geothermal-heating-project-germany/",
+    "title": "Drilling contract signed for second doublet for AFK geothermal heating project, Germany",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-03T11:49:11+00:00",
+    "date_added": "2026-08-07",
+    "plain_summary": "A German geothermal heating company has hired a drilling contractor to build a second deep geothermal system (called a doublet—two connected wells that extract and return hot water) to expand heat service to nearby communities. The new wells will tap into hot water at about 89°C from 2,700 meters underground, which will be circulated through heat exchangers to warm homes and businesses, then returned to the ground through a second well.",
+    "key_figures": [
+      "1600 current customers",
+      "89°C thermal water temperature",
+      "2700 meters well depth",
+      "1200 additional households and businesses planned",
+      "90-100% of regional heat demand target"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_ec5f33b5cb"
+  },
+  "https://www.thinkgeoenergy.com/266m-to-be-invested-to-restore-full-capacity-of-sarulla-geothermal-power-plant-indonesia/": {
+    "id": "ba3a8888dbba",
+    "url": "https://www.thinkgeoenergy.com/266m-to-be-invested-to-restore-full-capacity-of-sarulla-geothermal-power-plant-indonesia/",
+    "title": "$266m to be invested to restore full capacity of Sarulla geothermal power plant, Indonesia",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-03T10:33:43+00:00",
+    "date_added": "2026-08-07",
+    "plain_summary": "Indonesia is investing approximately $267 million to restore a major geothermal power plant in North Sumatra called Sarulla back to its full operating capacity of 330 megawatts (a unit of electrical power). The plant is currently producing only 220 megawatts because underground steam pressure in the geothermal reservoir—the hot rock layer beneath the surface that provides the heat—has changed. Work on this restoration is scheduled to begin in 2027 after administrative approvals are completed.",
+    "key_figures": [
+      "$266.87 million investment",
+      "330 MW installed capacity",
+      "220 MW current operating capacity",
+      "1100 MW potential resource",
+      "Three power units operational 2017-2018"
+    ],
+    "keywords": [
+      "funding",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_ba3a8888db"
+  },
+  "https://www.thinkgeoenergy.com/energy-investment-firm-considers-investing-in-furusato-netsuden-geothermal-projects-in-japan/": {
+    "id": "0de7edb8bf45",
+    "url": "https://www.thinkgeoenergy.com/energy-investment-firm-considers-investing-in-furusato-netsuden-geothermal-projects-in-japan/",
+    "title": "Energy investment firm considers investing in Furusato Netsuden geothermal projects in Japan",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-07-31T15:48:26+00:00",
+    "date_added": "2026-08-07",
+    "plain_summary": "An investment firm called HEXA Energy Services has agreed to explore funding opportunities with Furusato Netsuden, a Japanese company that develops geothermal power plants (facilities that generate electricity from heat deep underground). The two companies plan to work together to expand geothermal energy projects in Japan, combining HEXA's investment expertise with Furusato Netsuden's experience building and operating these plants.",
+    "key_figures": [
+      "4.95 MW Waita No. 2 plant capacity",
+      "1,000 kW minimum plant size",
+      "16 years since previous 1+ MW plant commissioned in Japan (as of 2015)"
+    ],
+    "keywords": [
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_0de7edb8bf"
+  },
+  "https://www.canarymedia.com/articles/geothermal/zanskar-brings-geothermal-well-back": {
+    "id": "bbec20986fc6",
+    "url": "https://www.canarymedia.com/articles/geothermal/zanskar-brings-geothermal-well-back",
+    "title": "How to bring a geothermal well back from the dead",
+    "source": "Canary Media",
+    "published": "2026-08-04T07:30:00+00:00",
+    "date_added": "2026-08-07",
+    "plain_summary": "A geothermal company called Zanskar purchased an underperforming power plant in New Mexico that was losing heat from its shallow wells (boreholes that tap into Earth's warmth underground). The company is working to restore the plant's productivity, essentially reviving geothermal infrastructure that had begun to fail.",
+    "key_figures": [],
+    "keywords": [
+      "well construction",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_bbec20986f"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526001896?dgcid=rss_sd_all": {
+    "id": "a3e910417057",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526001896?dgcid=rss_sd_all",
+    "title": "Effects of reservoir permeability heterogeneity on the size of solute and thermal protection zone around a geothermal reinjection well in a porous reservoir, Hungary",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-07",
+    "plain_summary": "This scientific research examines how uneven distribution of permeability (the ability of rock to let fluids flow through it) in underground reservoirs affects the safety zones around wells where cooled geothermal water is pumped back into the ground. The study, conducted in Hungary, looks at how these protection zones change depending on the rock's varying flow characteristics.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping",
+      "well construction"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_a3e9104170"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0377027326001812?dgcid=rss_sd_all": {
+    "id": "956f8b0e83fd",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0377027326001812?dgcid=rss_sd_all",
+    "title": "Geothermal cell connectivity between Cerro Pabellón Dome and Apacheta-Aguilucho Volcanic complex (northern Chile) as confirmed by noble gas monitoring",
+    "source": "J. Volcanology & Geothermal Research (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-07",
+    "plain_summary": "Researchers used noble gases (rare gases naturally present in the Earth) to track connections between two geothermal systems in northern Chile: Cerro Pabellón Dome and Apacheta-Aguilucho Volcanic complex. This monitoring technique helps scientists understand how hot fluids and gases move underground between different geothermal reservoirs (underground formations containing hot water and steam), which is important for developing geothermal energy resources in the region.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping",
+      "sensors"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_956f8b0e83"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0377027326001708?dgcid=rss_sd_all": {
+    "id": "7d279ca85764",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0377027326001708?dgcid=rss_sd_all",
+    "title": "Stratigraphic and thermal constraints on the evolution of zeolite zonation in continental flood basalts: Insights from the Serra Geral Group, Paraná–Etendeka Magmatic Province",
+    "source": "J. Volcanology & Geothermal Research (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-07",
+    "plain_summary": "Scientists studied how minerals called zeolites formed and changed positions in ancient volcanic rock layers in Brazil, examining how temperature and rock structure influenced this process. Understanding zeolite distribution in these flood basalts (massive layers of hardened lava) can provide insights into subsurface conditions and rock properties relevant to geothermal exploration.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_7d279ca857"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0960148126010669?dgcid=rss_sd_all": {
+    "id": "0cb9cf9a58e4",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0960148126010669?dgcid=rss_sd_all",
+    "title": "Multi-energy liquid air energy storage powered by geothermal energy from an abandoned exploitation well – A techno-economic analysis",
+    "source": "Renewable Energy (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-07",
+    "plain_summary": "Researchers studied a system that combines liquid air energy storage (a method of storing energy by cooling air to extremely cold temperatures) with geothermal heat from old, unused oil and gas wells. The analysis examines whether this combination is technically practical and economically worthwhile, exploring how abandoned wells could be repurposed to support renewable energy systems.",
+    "key_figures": [],
+    "keywords": [
+      "well construction",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_0cb9cf9a58"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0960148126010578?dgcid=rss_sd_all": {
+    "id": "4f8a3968de0c",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0960148126010578?dgcid=rss_sd_all",
+    "title": "Energy and Exergy Analysis of Geothermal–ORC Hybrid Trigeneration System with a Self-Superheater using Low-GWP Working Fluids",
+    "source": "Renewable Energy (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-07",
+    "plain_summary": "Researchers analyzed a hybrid system that combines geothermal energy with an Organic Rankine Cycle (ORC), which is a heat engine that converts thermal energy into electricity using special working fluids. The system includes a self-superheater (a device that further heats the working fluid) and uses low-GWP fluids (refrigerants designed to minimize environmental impact). The study examined both energy efficiency and exergy (the maximum useful work that can be extracted from energy) to evaluate how well this combined system could generate power, heating, and cooling simultaneously.",
+    "key_figures": [],
+    "keywords": [
+      "materials"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_4f8a3968de"
   }
 }
