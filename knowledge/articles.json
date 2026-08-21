@@ -3210,5 +3210,549 @@
     "relevance": "medium",
     "highlight": false,
     "cluster_id": "c_532c9f029c"
+  },
+  "https://www.thinkgeoenergy.com/geothermal-could-transform-the-uk-energy-industry/": {
+    "id": "0e15c3048ddf",
+    "url": "https://www.thinkgeoenergy.com/geothermal-could-transform-the-uk-energy-industry/",
+    "title": "Geothermal could transform the UK energy industry",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-21T10:04:06+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "The UK could reduce its reliance on imported natural gas by developing geothermal energy—heat extracted from deep underground—which would improve energy security and lower carbon emissions. The country has valuable expertise from decades of oil and gas drilling in the North Sea that could be redirected to access geothermal resources. A recent estimate suggests the UK's geothermal potential could meet heating demands for a century, and the National Geothermal Centre is working with government, companies, and universities to create a roadmap for making geothermal a standard part of Britain's low-carbon energy system.",
+    "key_figures": [
+      "70% of UK households use gas for heating",
+      "geothermal resources could meet heat demand for a century"
+    ],
+    "keywords": [
+      "drilling",
+      "funding",
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_0e15c3048d"
+  },
+  "https://www.thinkgeoenergy.com/baseload-capital-continues-geothermal-ambition-with-more-focused-strategy/": {
+    "id": "ff911fa8c628",
+    "url": "https://www.thinkgeoenergy.com/baseload-capital-continues-geothermal-ambition-with-more-focused-strategy/",
+    "title": "Baseload Capital continues geothermal ambition with more focused strategy",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-21T06:00:34+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "Baseload Capital, a major investment firm focused on geothermal energy (heat from underground rock), is changing its strategy under new leadership. Instead of building large offices in each country, the company will now partner with local geothermal developers who already understand their region's unique geological conditions, permitting requirements, and communities. This shift reflects a key reality of geothermal development: unlike solar or wind, each geothermal project is heavily dependent on local conditions and takes years to develop, making rapid international expansion difficult to standardize.",
+    "key_figures": [
+      "$12.5 million funding from Breakthrough Energy Ventures (2019)",
+      "$25 million equity financing round (2021)",
+      "€53 million Series B financing round (September 2024)",
+      "10 MW corporate power purchase agreement in Taiwan (2025)",
+      "4.995 MW Waita No. 2 geothermal plant capacity (Japan, 2026)",
+      "2029 expected commercial operation date for Taiwan projects"
+    ],
+    "keywords": [
+      "funding",
+      "drilling",
+      "well construction"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_ff911fa8c6"
+  },
+  "https://www.thinkgeoenergy.com/eig-announces-investment-in-enhanced-geothermal-developer-power-planet/": {
+    "id": "c34bef4ef87c",
+    "url": "https://www.thinkgeoenergy.com/eig-announces-investment-in-enhanced-geothermal-developer-power-planet/",
+    "title": "EIG announces investment in Enhanced Geothermal developer Power Planet",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-20T14:31:07+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "A major investment firm called EIG has provided funding to Power Planet, a company developing Enhanced Geothermal Systems (EGS)—a technology that creates artificial heat reservoirs in hot rock deep underground by fracturing it and circulating fluid through it. The investment will help Power Planet build its Star Peak project in Nevada, which aims to generate electricity from these superhot rocks by 2027 or 2028. The Star Peak location is favorable because it already has some geothermal infrastructure and good geological data in place.",
+    "key_figures": [
+      "2027/2028 expected electricity generation start date"
+    ],
+    "keywords": [
+      "funding",
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_c34bef4ef8"
+  },
+  "https://www.thinkgeoenergy.com/portland-state-leads-initiative-on-siting-enhanced-geothermal-projects-using-ai/": {
+    "id": "aee4936f8a72",
+    "url": "https://www.thinkgeoenergy.com/portland-state-leads-initiative-on-siting-enhanced-geothermal-projects-using-ai/",
+    "title": "Portland State leads initiative on siting Enhanced Geothermal projects using AI",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-20T11:23:33+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "Portland State University is leading a research project that uses artificial intelligence to help identify the best locations for Enhanced Geothermal Systems (EGS)—a technology that taps into extremely hot rock deep underground to generate electricity. The team is combining machine learning models that predict underground temperatures and electricity costs with a special algorithm that groups similar geological regions together, aiming to reduce the uncertainty and expense of finding suitable EGS sites by at least 10%.",
+    "key_figures": [
+      "10% reduction in cost estimate range (project goal)"
+    ],
+    "keywords": [
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_aee4936f8a"
+  },
+  "https://www.thinkgeoenergy.com/sage-geosystems-validates-enhanced-geothermal-approach-over-120-days-of-operation-in-texas/": {
+    "id": "0bf09840da70",
+    "url": "https://www.thinkgeoenergy.com/sage-geosystems-validates-enhanced-geothermal-approach-over-120-days-of-operation-in-texas/",
+    "title": "Sage Geosystems validates Enhanced Geothermal approach over 120 days of operation in Texas",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-20T09:06:13+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "Sage Geosystems successfully operated a test facility in Texas for over 120 days, proving their Enhanced Geothermal Systems (EGS) approach works—this is a method that stores water under pressure in hot rock underground to generate electricity. The 3-megawatt facility lost less than 10% of its water during operation and performed exactly as their computer prediction model (called GeoTwin) forecasted, showing that engineers can now reliably design and control these artificial reservoirs for commercial power production.",
+    "key_figures": [
+      "120 days of operation",
+      "3 MW facility capacity",
+      "Less than 10% water loss over multiple cycles",
+      "5% water loss target"
+    ],
+    "keywords": [
+      "subsurface mapping",
+      "well construction",
+      "materials"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_0bf09840da"
+  },
+  "https://www.thinkgeoenergy.com/webinar-the-geothermal-frontier-a-global-knowledge-sharing-platform-28-august-2026/": {
+    "id": "53ef5f834ee7",
+    "url": "https://www.thinkgeoenergy.com/webinar-the-geothermal-frontier-a-global-knowledge-sharing-platform-28-august-2026/",
+    "title": "Webinar – The Geothermal Frontier: A Global Knowledge Sharing Platform, 28 August 2026",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-19T17:06:44+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "This webinar features an expert from the Clean Air Task Force discussing a new online platform designed to help organizations collaborate on geothermal energy research and development. The platform connects researchers, testing facilities, and companies working on next-generation geothermal technologies, particularly those targeting higher-temperature underground resources (called higher-enthalpy resources) that could make geothermal energy more cost-effective and widely available as a clean power source.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_53ef5f834e"
+  },
+  "https://www.thinkgeoenergy.com/more-2d-seismic-surveys-to-be-done-in-the-netherlands-as-part-of-scan-program/": {
+    "id": "e2084b269e02",
+    "url": "https://www.thinkgeoenergy.com/more-2d-seismic-surveys-to-be-done-in-the-netherlands-as-part-of-scan-program/",
+    "title": "More 2D seismic surveys to be done in the Netherlands as part of SCAN program",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-19T11:08:35+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "The Netherlands is conducting seismic surveys (detailed sound-based scans of underground rock layers) across its western regions to map the subsurface and find better locations for geothermal energy projects. These surveys use different seismic techniques to create both detailed 3D images and wider 2D coverage of the underground, building on data from previous drilling and exploration work.",
+    "key_figures": [
+      "8 geothermal wells drilled"
+    ],
+    "keywords": [
+      "subsurface mapping",
+      "drilling",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_e2084b269e"
+  },
+  "https://www.thinkgeoenergy.com/job-opening-program-director-for-superhot-rock-geothermal-clean-air-task-force/": {
+    "id": "30efb8445183",
+    "url": "https://www.thinkgeoenergy.com/job-opening-program-director-for-superhot-rock-geothermal-clean-air-task-force/",
+    "title": "Job opening – Program Director for Superhot Rock Geothermal, Clean Air Task Force",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-18T13:53:47+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "The Clean Air Task Force is hiring a Program Director to lead efforts in commercializing superhot rock (SHR) geothermal technology, which is an advanced form of geothermal energy that uses extremely hot rock deep underground. The director will coordinate work across policy, technology demonstration, and market development, bringing together partners from industry, government, academia, and other sectors to accelerate the deployment of this clean energy solution.",
+    "key_figures": [],
+    "keywords": [
+      "funding",
+      "legislation"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_30efb84451"
+  },
+  "https://www.thinkgeoenergy.com/call-for-proposals-eu-funding-call-for-geothermal-for-deep-sedimentary-and-basement-reservoirs/": {
+    "id": "5105c6a3b039",
+    "url": "https://www.thinkgeoenergy.com/call-for-proposals-eu-funding-call-for-geothermal-for-deep-sedimentary-and-basement-reservoirs/",
+    "title": "Call for proposals – EU funding call for geothermal for deep sedimentary and basement reservoirs",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-17T16:04:54+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "The European Union is offering funding for research projects that develop better methods to find and extract geothermal energy (heat from deep underground) in challenging geological settings, particularly in deep rock layers between 2 to 6 kilometers down where natural water flow is limited. The funding supports technologies like Enhanced Geothermal Systems (EGS—artificially created fractures to allow heat extraction) and closed-loop systems (sealed pipes that circulate fluid without needing natural water pathways), along with studies on environmental impacts and community engagement. Proposals are being accepted until December 1, 2026.",
+    "key_figures": [
+      "2000-6000 m depth range for target reservoirs",
+      "1 December 2026 proposal deadline",
+      "TRL 4-5 technology readiness level target"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_5105c6a3b0"
+  },
+  "https://www.canarymedia.com/articles/geothermal/sage-geosystems-next-gen-geothermal-online": {
+    "id": "8d81a0cd10ef",
+    "url": "https://www.canarymedia.com/articles/geothermal/sage-geosystems-next-gen-geothermal-online",
+    "title": "Sage Geosystems brings its first next-gen geothermal plant online",
+    "source": "Canary Media",
+    "published": "2026-08-19T11:00:00+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "Sage Geosystems has successfully started operating its first advanced geothermal power plant near San Antonio, making it only the third such facility to begin producing electricity in the United States. This represents a significant step forward as the geothermal industry works to bring next-generation systems that can generate clean electricity on-demand to the commercial market.",
+    "key_figures": [],
+    "keywords": [
+      "drilling"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_8d81a0cd10"
+  },
+  "https://www.canarymedia.com/articles/geothermal/geothermal-big-potential-states": {
+    "id": "ada075317fdc",
+    "url": "https://www.canarymedia.com/articles/geothermal/geothermal-big-potential-states",
+    "title": "Geothermal has big potential. Here’s how states can help realize it.",
+    "source": "Canary Media",
+    "published": "2026-08-18T09:00:00+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "Advanced geothermal energy systems (which use new methods to tap heat from underground rock in places where traditional geothermal plants can't operate) could generate significant power in western U.S. states, but high costs are preventing these projects from moving forward. State governments have a role to play in removing the financial obstacles that are slowing development of these innovative technologies.",
+    "key_figures": [],
+    "keywords": [
+      "funding",
+      "legislation"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_ada075317f"
+  },
+  "https://www.energy.gov/hgeo/geothermal/articles/running-hot-keeping-cool-forge-embarks-extended-circulation-test": {
+    "id": "7db42b291f61",
+    "url": "https://www.energy.gov/hgeo/geothermal/articles/running-hot-keeping-cool-forge-embarks-extended-circulation-test",
+    "title": "Running Hot, Keeping Cool: FORGE Embarks on Extended Circulation Test",
+    "source": "DOE Office of Geothermal",
+    "published": "2026-08-17T18:07:35+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "Utah FORGE, a government-funded research project, is conducting an extended test to pump cool water through hot underground rock and extract heat from it—a process called enhanced geothermal systems (EGS). This lengthy test is rare and important because it will show whether the system can sustain steady heat and water flow over months, providing real-world data that will help the geothermal industry build reliable power plants and determine if the technology makes economic sense.",
+    "key_figures": [
+      "10 bpm injection flow rate target",
+      "48 hours ramp-up period",
+      "30-day initial circulation test in August 2024",
+      "370°F production temperature",
+      "months-long extended circulation test duration"
+    ],
+    "keywords": [
+      "well construction",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_c00906887d"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S037565052600221X?dgcid=rss_sd_all": {
+    "id": "09bfff9864cf",
+    "url": "https://www.sciencedirect.com/science/article/pii/S037565052600221X?dgcid=rss_sd_all",
+    "title": "Analytical modeling of tracer pulse tests with significant background concentration at the Utah FORGE geothermal site",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-21",
+    "plain_summary": "Researchers developed mathematical models to analyze tracer pulse tests (experiments where special marker substances are injected into rock to track fluid flow) conducted at the Utah FORGE superhot rock geothermal site. The study specifically addressed the challenge of interpreting these tests when background concentrations (existing marker levels already present) complicate the measurements, helping scientists better understand how fluids move through very hot underground rock formations.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_c00906887d"
+  },
+  "https://www.geothermalcanada.org/news/2026/8/18/acho-dene-koe-looking-at-geothermal-heat-to-warm-homes-and-grow-food": {
+    "id": "50991ed0bf0b",
+    "url": "https://www.geothermalcanada.org/news/2026/8/18/acho-dene-koe-looking-at-geothermal-heat-to-warm-homes-and-grow-food",
+    "title": "Acho Dene Koe Looking at Geothermal Heat to Warm Homes and Grow Food",
+    "source": "Geothermal Canada",
+    "published": "2026-08-14T23:36:00+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "A First Nation in Canada is exploring superhot rock geothermal energy—heat extracted from deep underground rock formations—to warm homes and grow food without converting it to electricity. The project would use a closed loop system where water is circulated underground to absorb heat, brought to the surface to warm buildings and greenhouses, then re-injected back down with no water lost. Drilling is planned for late 2027 or early 2028 to confirm the heat potential of a rock formation called the Mattson Formation beneath Fort Liard.",
+    "key_figures": [
+      "$2 million federal funding committed in 2024",
+      "drilling planned end of 2027 or early 2028"
+    ],
+    "keywords": [
+      "drilling",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_50991ed0bf"
+  },
+  "https://www.thinkgeoenergy.com/geothermal-energy-a-solution-for-turkiyes-growing-cooling-demand/": {
+    "id": "5524011da53e",
+    "url": "https://www.thinkgeoenergy.com/geothermal-energy-a-solution-for-turkiyes-growing-cooling-demand/",
+    "title": "Geothermal energy a solution for Türkiye’s growing cooling demand",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-21T13:21:38+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "Türkiye is facing growing electricity demand from air conditioning, which accounts for about 10% of the country's power consumption during peak hours. A geothermal energy association leader is advocating for using geothermal energy (heat from within the Earth) for cooling buildings, not just for heating or electricity generation. This technology, which uses either heat pumps (devices that transfer heat from the ground) or direct absorption systems, could reduce strain on the electrical grid and help meet expected doubled cooling demand over the next decade.",
+    "key_figures": [
+      "10% of Türkiye's electricity consumption during peak cooling hours",
+      "5,000-6,000 GWh cooling electricity demand in 2025",
+      "12,000 GWh cooling electricity demand expected in 2035",
+      "0.77 GW additional electricity capacity per 1°C temperature increase",
+      "12 times difference between summer and winter peak demand in 2025 vs 2008",
+      "1,600 TWh potential global cooling electricity increase by 2035",
+      "10% global electricity for cooling currently, up to 30% during peak hours"
+    ],
+    "keywords": [
+      "funding",
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_5524011da5"
+  },
+  "https://www.thinkgeoenergy.com/prior-consultation-opened-for-tender-geothermal-exploration-drilling-in-croatia/": {
+    "id": "1e22a9276142",
+    "url": "https://www.thinkgeoenergy.com/prior-consultation-opened-for-tender-geothermal-exploration-drilling-in-croatia/",
+    "title": "Prior consultation opened for geothermal exploration drilling tender in Croatia",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-21T12:00:02+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "Croatia is opening a bidding process to hire companies to drill four exploratory wells (test boreholes to assess underground heat resources) at different locations across the country. The project is worth approximately 35 million euros and will be managed as a single contract to streamline coordination. This follows successful initial drilling at these same sites that confirmed the presence of usable geothermal energy resources.",
+    "key_figures": [
+      "EUR 35.15 million procurement value",
+      "4 exploratory wells",
+      "31 August 2026 consultation deadline"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_1e22a92761"
+  },
+  "https://www.thinkgeoenergy.com/indonesian-energy-minister-proposes-measures-to-accelerate-geothermal-growth/": {
+    "id": "9188272fdc24",
+    "url": "https://www.thinkgeoenergy.com/indonesian-energy-minister-proposes-measures-to-accelerate-geothermal-growth/",
+    "title": "Indonesian Energy Minister proposes measures to accelerate geothermal growth",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-19T16:29:18+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "Indonesia's energy minister is pushing to develop more geothermal power—energy generated from heat deep underground—because the country has only used about 12% of its geothermal potential so far. The government is revising financial incentive programs and regulations to make it easier and more profitable for companies to build geothermal projects, and is also increasing the price paid for geothermal electricity to make projects more commercially attractive.",
+    "key_figures": [
+      "2,776.39 MW current geothermal capacity",
+      "23,202.77 MW total geothermal potential",
+      "~90% of potential undeveloped",
+      "USD 9.5 cents/kWh current geothermal electricity price"
+    ],
+    "keywords": [
+      "funding",
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_9188272fdc"
+  },
+  "https://www.thinkgeoenergy.com/blm-receives-record-breaking-24m-in-winning-bids-in-utah-geothermal-lease-sale/": {
+    "id": "ea50c8b8d726",
+    "url": "https://www.thinkgeoenergy.com/blm-receives-record-breaking-24m-in-winning-bids-in-utah-geothermal-lease-sale/",
+    "title": "BLM receives record-breaking $24m in winning bids in Utah geothermal lease sale",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-19T14:07:13+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "The U.S. Bureau of Land Management sold rights to develop geothermal energy on federal land in Utah, receiving record-breaking bids totaling $24.7 million. This sale broke previous records set just months earlier in New Mexico, with companies bidding significantly higher prices per acre of land, showing strong and growing investor interest in geothermal projects—especially newer technologies that use artificially created fractures (Enhanced Geothermal Systems) or sealed loops to extract heat from deep rock.",
+    "key_figures": [
+      "$24.7 million total bids",
+      "32 of 37 parcels bid on",
+      "$4.16 million highest bid per parcel",
+      "$1,207 highest bid per acre",
+      "$16.5 million New Mexico sale receipts",
+      "$3.14 New Mexico highest bid per parcel",
+      "$701 New Mexico highest bid per acre"
+    ],
+    "keywords": [
+      "funding",
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_ea50c8b8d7"
+  },
+  "https://www.thinkgeoenergy.com/infrastructure-work-to-begin-soon-for-kepahiang-geothermal-site-in-indonesia/": {
+    "id": "a6af871ef164",
+    "url": "https://www.thinkgeoenergy.com/infrastructure-work-to-begin-soon-for-kepahiang-geothermal-site-in-indonesia/",
+    "title": "Infrastructure work to begin soon for Kepahiang geothermal site in Indonesia",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-18T16:22:33+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "Indonesia is preparing to build roads and bridges leading to a geothermal energy site in Kepahiang, Bengkulu, where heat from deep underground rocks will be used to generate electricity. The infrastructure work, expected to finish by November 2026, will cover about 12 kilometers and includes compensation for local landowners affected by construction. The project is estimated to eventually produce 180 MW of power (a measure of electrical capacity).",
+    "key_figures": [
+      "180 MW estimated reserves",
+      "12 kilometers of road and bridge work",
+      "November 2026 completion target"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_a6af871ef1"
+  },
+  "https://www.thinkgeoenergy.com/smart-geothermal-power-plant-management-demonstrated-in-taiwan/": {
+    "id": "c8bc5a45c341",
+    "url": "https://www.thinkgeoenergy.com/smart-geothermal-power-plant-management-demonstrated-in-taiwan/",
+    "title": "Smart geothermal power plant management demonstrated in Taiwan",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-18T15:16:43+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "A geothermal power plant in Taiwan tested new smart management technologies using 5G networks (wireless communication) and artificial intelligence (computer systems that learn and make decisions). The system improved how efficiently the plant operates and is inspected, using robots and cameras instead of requiring workers on-site. These tools could help expand geothermal energy projects by reducing the need for constant human oversight.",
+    "key_figures": [
+      "20% improvement in inspection efficiency",
+      "5% increase in power generation efficiency"
+    ],
+    "keywords": [
+      "sensors",
+      "electronics"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_c8bc5a45c3"
+  },
+  "https://www.thinkgeoenergy.com/neptune-energy-proceeds-to-pilot-testing-phase-of-geothermal-lithium-project-in-germany/": {
+    "id": "971ca3c9bd59",
+    "url": "https://www.thinkgeoenergy.com/neptune-energy-proceeds-to-pilot-testing-phase-of-geothermal-lithium-project-in-germany/",
+    "title": "Neptune Energy proceeds to pilot testing phase of geothermal lithium project in Germany",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-18T12:43:21+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "Neptune Energy is testing a new way to extract lithium from hot underground water (called geothermal brine) in Germany. The company is using a process called adsorption, where special materials attract lithium ions from the thermal water, then release them to create a concentrated lithium solution that can be turned into battery material. If successful, they aim to produce enough lithium by 2030 to power around 500,000 electric vehicles per year.",
+    "key_figures": [
+      "43 million tons lithium carbonate equivalent resource",
+      "25,000 tons lithium carbonate equivalent annual production target",
+      "500,000 electric vehicles equivalent annual capacity",
+      "1000 liters thermal water per day pilot plant capacity",
+      "2030 commercial production target"
+    ],
+    "keywords": [
+      "materials",
+      "subsurface mapping",
+      "well construction"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_971ca3c9bd"
+  },
+  "https://www.thinkgeoenergy.com/new-geothermal-well-to-augment-heat-supply-in-ashildarmyri-iceland/": {
+    "id": "56b3cc7cdeb7",
+    "url": "https://www.thinkgeoenergy.com/new-geothermal-well-to-augment-heat-supply-in-ashildarmyri-iceland/",
+    "title": "New geothermal well to augment heat supply in Áshildarmýri, Iceland",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-17T11:11:02+00:00",
+    "date_added": "2026-08-21",
+    "plain_summary": "Iceland has successfully drilled a new geothermal well (a borehole that taps into naturally hot rock underground) in the Áshildarmýri region to supply heating water to the local area. The well reaches 792 meters deep and can produce over 50 liters per second of water heated to around 80°C, which should provide enough heat for the entire municipality and support a new residential complex being built there.",
+    "key_figures": [
+      "792 meters drilling depth",
+      "50 L/s flowrate",
+      "80°C temperature",
+      "About 10 years of prior exploration"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_56b3cc7cde"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002208?dgcid=rss_sd_all": {
+    "id": "feb25e5e0b33",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002208?dgcid=rss_sd_all",
+    "title": "Learning with constraints: A physics-guided Bayesian framework for reliable geothermal temperature mapping in northeastern Italy",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-21",
+    "plain_summary": "Researchers developed a new computer method to create accurate maps of underground temperature in northeastern Italy, which is important for geothermal energy projects. The method uses physics-based rules and Bayesian statistics (a way of combining known information with measurements to make better predictions) to ensure the temperature estimates are reliable and useful for identifying where geothermal resources might be located.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_feb25e5e0b"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S037565052600218X?dgcid=rss_sd_all": {
+    "id": "44feaef09ac4",
+    "url": "https://www.sciencedirect.com/science/article/pii/S037565052600218X?dgcid=rss_sd_all",
+    "title": "Curie-point depth, geothermal gradient and near-surface heat flow estimation from spectral analysis of aeromagnetic data over Natron Rift Basin, Tanzania",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-21",
+    "plain_summary": "Researchers studied the Natron Rift Basin in Tanzania using magnetic field data collected from aircraft to estimate the Curie-point depth (the depth at which rocks lose their magnetic properties due to high temperature), geothermal gradient (how much temperature increases with depth), and near-surface heat flow (the rate at which heat moves upward through the ground). This type of analysis helps identify areas with geothermal potential by mapping subsurface temperature conditions without needing to drill exploratory wells.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_44feaef09a"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0377027326001769?dgcid=rss_sd_all": {
+    "id": "2a80c619f44b",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0377027326001769?dgcid=rss_sd_all",
+    "title": "Fumarolic CO<sub>2</sub> emissions measured by drone at Campi Flegrei, Italy",
+    "source": "J. Volcanology & Geothermal Research (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-21",
+    "plain_summary": "Researchers used drone technology to measure carbon dioxide emissions from fumaroles (natural vents releasing volcanic gases) at Campi Flegrei in Italy. This study, published in a volcanology journal, helps scientists better understand gas emissions from geothermal areas, which is relevant for monitoring geothermal systems and assessing subsurface conditions.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping",
+      "sensors"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_2a80c619f4"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0377027326001927?dgcid=rss_sd_all": {
+    "id": "9da8425c8cc6",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0377027326001927?dgcid=rss_sd_all",
+    "title": "Deep magmatic plumbing system beneath Harrat Al-Madinah revealed by borehole seismic ambient noise interferometry",
+    "source": "J. Volcanology & Geothermal Research (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-21",
+    "plain_summary": "Scientists used seismic sensors placed in boreholes (deep holes drilled into the earth) to study the underground magma (molten rock) system beneath a volcanic region in Saudi Arabia called Harrat Al-Madinah. By analyzing vibrations that occur naturally in the ground, they were able to create detailed maps of the hot rock structures deep underground, which could help identify areas suitable for superhot rock geothermal energy development.",
+    "key_figures": [],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_9da8425c8c"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0377027326001988?dgcid=rss_sd_all": {
+    "id": "24ef32e86007",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0377027326001988?dgcid=rss_sd_all",
+    "title": "Structural characterization of the Laguna de Los Palau Crater feeder system using gravity surveys and 3D inversion",
+    "source": "J. Volcanology & Geothermal Research (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-21",
+    "plain_summary": "Researchers used gravity surveys (measurements of how Earth's gravitational pull varies across a location) and 3D computer modeling to map the underground structure of a volcanic crater system in Laguna de Los Palaus. This type of subsurface mapping technique could help identify geothermal reservoirs by revealing the rock layers and fluid pathways beneath volcanic areas.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_24ef32e860"
   }
 }
