@@ -3754,5 +3754,618 @@
     "relevance": "medium",
     "highlight": false,
     "cluster_id": "c_24ef32e860"
+  },
+  "https://www.thinkgeoenergy.com/request-for-information-geothermal-exploration-and-development-in-texas/": {
+    "id": "3918cba857bc",
+    "url": "https://www.thinkgeoenergy.com/request-for-information-geothermal-exploration-and-development-in-texas/",
+    "title": "Request for Information – Geothermal exploration and development in Texas",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-28T12:29:53+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "Texas's state land office is asking companies to express interest in exploring and developing geothermal energy (heat from deep underground rock) on state-owned land. The agency will use responses to decide which lands to offer for leasing and what types of geothermal projects to pursue, such as power generation or enhanced geothermal systems (EGS, which involve creating artificial reservoirs in hot rock). This is an early information-gathering step, not yet an official bidding process.",
+    "key_figures": [
+      "10 December 2026 deadline"
+    ],
+    "keywords": [
+      "drilling",
+      "legislation"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_3918cba857"
+  },
+  "https://www.thinkgeoenergy.com/quaise-raises-180-million-in-final-close-of-series-b-to-fund-superhot-geothermal-project/": {
+    "id": "73c66f606fba",
+    "url": "https://www.thinkgeoenergy.com/quaise-raises-180-million-in-final-close-of-series-b-to-fund-superhot-geothermal-project/",
+    "title": "Quaise raises $180 million in final close of Series B to fund superhot geothermal project",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-27T18:14:06+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "Quaise Energy has secured $180 million in final funding to develop superhot geothermal technology, which taps into extremely hot rock deep underground to generate clean electricity. The company plans to use this money to build Project Obsidian in Oregon, a demonstration plant using millimeter wave drilling (a novel technique that uses focused energy beams instead of traditional drill bits) to reach depths and temperatures previously impossible to access. With this funding, Quaise aims to eventually produce 250 megawatts of power and prove that geothermal energy can work almost anywhere on Earth.",
+    "key_figures": [
+      "$180 million final Series B funding",
+      "$35 million Nabors Industries investment",
+      "$280 million total company funding raised",
+      "$12 million previous Nabors financing",
+      "50 MW Phase I capacity target",
+      "250 MW total capacity target",
+      "5 km drilling depth target",
+      "July 2026 drilling start date"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_efe79cba25"
+  },
+  "https://www.thinkgeoenergy.com/geothermal-drilling-by-aardwarmte-wippolderlaan-in-the-netherlands-completed/": {
+    "id": "035d31d66277",
+    "url": "https://www.thinkgeoenergy.com/geothermal-drilling-by-aardwarmte-wippolderlaan-in-the-netherlands-completed/",
+    "title": "Geothermal drilling by Aardwarmte Wippolderlaan in the Netherlands completed",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-27T16:47:04+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "A geothermal project in the Netherlands has successfully completed drilling two wells nearly 2.4 kilometers deep into rock layers called Delft Sandstone, which will be used to extract heat from the earth for heating homes and businesses. The wells reached a temperature of 85°C and are positioned about one kilometer apart—one will pull hot water up (production well) and the other will return cooled water back down (reinjection well). The team now plans to install surface equipment like pipes and heat exchangers to transfer this geothermal heat to the local heating network, with heat delivery expected to begin in mid-2028.",
+    "key_figures": [
+      "2350 meters drilling depth",
+      "85°C reservoir temperature",
+      "1 kilometer well separation",
+      "18 geothermal wells currently operated",
+      "15 MWth heat supply capacity"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_035d31d662"
+  },
+  "https://www.thinkgeoenergy.com/2gre-secures-permit-for-geothermal-lithium-project-in-limagne-basin-in-france/": {
+    "id": "50e118b9afad",
+    "url": "https://www.thinkgeoenergy.com/2gre-secures-permit-for-geothermal-lithium-project-in-limagne-basin-in-france/",
+    "title": "2gré secures permit for geothermal lithium project in Limagne Basin in France",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-27T12:17:55+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "A French geothermal company called 2gré has received permission to search for lithium in the Limagne Basin region while also developing geothermal energy (heat extracted from hot rocks deep underground) in the same area. The company plans to invest at least €11.95 million over five years to explore this combined project, which could produce both renewable heat and lithium, a valuable mineral used in batteries.",
+    "key_figures": [
+      "442.68 square kilometers exploration area",
+      "60+ municipalities affected",
+      "EUR 11.95 million minimum research investment",
+      "5-year permit duration",
+      "1000 square kilometers seismic survey coverage"
+    ],
+    "keywords": [
+      "drilling",
+      "subsurface mapping",
+      "funding",
+      "legislation"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_50e118b9af"
+  },
+  "https://www.thinkgeoenergy.com/3400m-geothermal-well-drilled-to-supply-heat-to-airport-in-hunan-province-china/": {
+    "id": "270d72372679",
+    "url": "https://www.thinkgeoenergy.com/3400m-geothermal-well-drilled-to-supply-heat-to-airport-in-hunan-province-china/",
+    "title": "3400m geothermal well drilled to supply heat to airport in Hunan Province, China",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-26T12:38:36+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "A deep well was drilled in central China to tap into hot rock underground and supply heating to an airport terminal. The well reaches over 3,400 meters deep and found rock temperatures of about 104°C; using a closed-loop system that extracts heat without removing water, six such wells together will provide enough warmth to cover about one-third of the terminal's heating needs during winter months.",
+    "key_figures": [
+      "3406.8 m drilling depth",
+      "104.2 °C bottomhole temperature",
+      "6 geothermal wells",
+      "4,391 kW total heat extraction capacity",
+      "6.578 million kWh annual heat supply",
+      "35.2% of Terminal 3 heating load",
+      "24% renewable energy utilization rate"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_270d723726"
+  },
+  "https://www.thinkgeoenergy.com/chiyoda-to-conduct-feasibility-study-on-surface-equipment-to-support-sage-geothermal-project/": {
+    "id": "1f6c5fb68fe2",
+    "url": "https://www.thinkgeoenergy.com/chiyoda-to-conduct-feasibility-study-on-surface-equipment-to-support-sage-geothermal-project/",
+    "title": "Chiyoda to conduct feasibility study on surface equipment to support Sage geothermal project",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-26T10:33:24+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "Japanese engineering company Chiyoda has partnered with Sage GeoSystems to study the equipment needed on the surface (above ground) to support a commercial geothermal power plant using Sage's Enhanced Geothermal Systems (EGS) technology, which artificially creates heat reservoirs in hot rock by injecting water underground. Chiyoda will analyze the major equipment, costs, and power generation efficiency based on conditions from Sage's successful 120-day test in Texas, helping move this technology toward larger projects in Nevada.",
+    "key_figures": [
+      "120 days of operation at Christine, Texas facility"
+    ],
+    "keywords": [
+      "drilling",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_1f6c5fb68f"
+  },
+  "https://www.thinkgeoenergy.com/cornish-lithium-awards-drilling-contract-for-uk-geothermal-lithium-project-to-halliburton/": {
+    "id": "3bf51d3d7a97",
+    "url": "https://www.thinkgeoenergy.com/cornish-lithium-awards-drilling-contract-for-uk-geothermal-lithium-project-to-halliburton/",
+    "title": "Cornish Lithium awards drilling contract for UK geothermal lithium project to Halliburton",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-25T11:20:04+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "Cornish Lithium has hired Halliburton, a major drilling company, to drill and test two wells for a project in Cornwall that combines geothermal energy (heat from hot rock underground) with lithium extraction (removing the valuable metal lithium from hot mineral-rich water). The project received £7.2 million in government funding and will test whether they can sustainably produce both geothermal heat for local communities and extract lithium from deep underground reservoirs called the Cornubian Batholith.",
+    "key_figures": [
+      "2 appraisal wells",
+      "£7.2 million grant funding",
+      "70+ years geothermal experience (Halliburton)",
+      "100+ years well delivery expertise (Halliburton)"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_3bf51d3d7a"
+  },
+  "https://www.thinkgeoenergy.com/study-finds-geothermal-learning-remains-highly-local/": {
+    "id": "e3e6e6f809bd",
+    "url": "https://www.thinkgeoenergy.com/study-finds-geothermal-learning-remains-highly-local/",
+    "title": "Study finds geothermal learning remains highly local",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-24T15:54:19+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "A new study analyzing 514 geothermal power plants over 70 years found that costs have actually increased rather than decreased as more geothermal capacity was built globally, unlike solar and wind which get cheaper with scale. The research shows that geothermal knowledge (understanding of underground water systems, drilling techniques, and local regulations) stays within specific regions and doesn't transfer easily between countries, because each location has unique geology and regulatory requirements. The study suggests that successful geothermal markets need continuous project pipelines and stable policies to retain specialized expertise, rather than relying on occasional large projects.",
+    "key_figures": [
+      "514 geothermal power plants over seven decades",
+      "206 plants with installed-cost data",
+      "51 expert interviews",
+      "-20% global experience rate",
+      "97% confidence that costs rose with capacity increases",
+      "+18% experience rate in United States",
+      "-53% experience rate in New Zealand",
+      "5,927-metre Sawtooth 7 well",
+      "21 days drilling time",
+      "70% reduction in drilling time"
+    ],
+    "keywords": [
+      "drilling",
+      "subsurface mapping",
+      "legislation"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_e3e6e6f809"
+  },
+  "https://www.thinkgeoenergy.com/dmt-starts-3d-seismic-survey-campaign-for-geothermal-exploration-in-greater-munich-area-germany/": {
+    "id": "b3d3ffe656cd",
+    "url": "https://www.thinkgeoenergy.com/dmt-starts-3d-seismic-survey-campaign-for-geothermal-exploration-in-greater-munich-area-germany/",
+    "title": "DMT starts 3D seismic survey campaign for geothermal exploration in Greater Munich area, Germany",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-24T13:26:54+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "A major underground mapping project called GIGA-M has started in the Munich region of Germany to find suitable locations for geothermal energy development. Using 3D seismic surveys (a technique that sends sound waves into the earth to create detailed images of rock layers below the surface), researchers will scan an area around Munich to identify where hot rock deep underground could be tapped for geothermal energy. This large-scale survey is being coordinated by multiple organizations and funded by the German government.",
+    "key_figures": [
+      "11,000 square kilometers survey area",
+      "November completion date"
+    ],
+    "keywords": [
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_b3d3ffe656"
+  },
+  "https://www.thinkgeoenergy.com/birch-geothermal-rooted-in-speed-and-building-the-next-generation-of-enhanced-geothermal/": {
+    "id": "54c2e6309d15",
+    "url": "https://www.thinkgeoenergy.com/birch-geothermal-rooted-in-speed-and-building-the-next-generation-of-enhanced-geothermal/",
+    "title": "Birch Geothermal: Rooted in speed and building the next generation of Enhanced Geothermal",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-24T12:48:29+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "Birch Geothermal is a new Colorado startup developing enhanced geothermal systems (EGS), which are engineered reservoirs created by fracturing hot rock underground to extract heat for electricity. The company, founded by experienced engineers and consultants, is emphasizing speed of project development and using techniques from the oil and gas industry to better control how water flows through underground reservoirs, which is critical for long-term performance. Birch believes it can take projects from land acquisition to producing electricity in under five years and is targeting large developments over 100 MW in the Mountain West where electricity demand is growing rapidly.",
+    "key_figures": [
+      "100 MW+ target plant capacity",
+      "less than 5 years from land acquisition to operations"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "sensors"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_54c2e6309d"
+  },
+  "https://www.thinkgeoenergy.com/mexico-city-to-host-the-aapg-latin-america-geothermal-systems-workshop/": {
+    "id": "65e2b77fb338",
+    "url": "https://www.thinkgeoenergy.com/mexico-city-to-host-the-aapg-latin-america-geothermal-systems-workshop/",
+    "title": "Mexico City to host the AAPG Latin America Geothermal Systems Workshop",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-24T09:17:51+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "Mexico City will host a 2026 workshop focused on advanced geothermal systems (methods to extract heat from deep rock layers beyond traditional geothermal wells) in Latin America. The event will bring together scientists, engineers, and industry professionals to discuss Enhanced Geothermal Systems (EGS—technology that creates permeability in hot rock to improve heat extraction), well reuse strategies, and opportunities to combine geothermal energy production with lithium extraction from underground brines.",
+    "key_figures": [
+      "September 2-3, 2026"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_65e2b77fb3"
+  },
+  "https://www.canarymedia.com/articles/geothermal/geothermal-needs-better-tools-hephae": {
+    "id": "095595c679ee",
+    "url": "https://www.canarymedia.com/articles/geothermal/geothermal-needs-better-tools-hephae",
+    "title": "Geothermal needs better tools for superhot drilling. Hephae can help.",
+    "source": "Canary Media",
+    "published": "2026-08-26T07:30:00+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "A startup company called Hephae Energy Technology has developed a specialized tracking device that fits inside drill pipes used in superhot rock geothermal projects. This tool wirelessly sends data from deep underground to help operators above ground steer the drill accurately and take measurements in the hot granite rock, addressing a key challenge in accessing the extreme heat needed for this type of geothermal energy.",
+    "key_figures": [],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "sensors"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_ca295249de"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002312?dgcid=rss_sd_all": {
+    "id": "85fab14d9220",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002312?dgcid=rss_sd_all",
+    "title": "Estimating individual hydraulic fracture conductivity in enhanced geothermal systems using distributed strain sensing and thermo-hydro-mechanical modeling",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-28",
+    "plain_summary": "Researchers developed a method to measure how well artificial fractures (cracks created intentionally in rock) conduct hot fluid through enhanced geothermal systems, which are engineered reservoirs designed to extract heat from very hot rock. They combined sensor technology that detects movement in the rock with computer simulations that model how heat and fluid flow together, allowing engineers to better understand and optimize these engineered reservoirs.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping",
+      "sensors",
+      "materials"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_85fab14d92"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S037565052600235X?dgcid=rss_sd_all": {
+    "id": "729eb2e9efd2",
+    "url": "https://www.sciencedirect.com/science/article/pii/S037565052600235X?dgcid=rss_sd_all",
+    "title": "The effect of casing-cement cohesive zone bonding model on the geothermal wellhead growth prediction",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-28",
+    "plain_summary": "Researchers studied how the bond between a well's outer steel pipe (casing) and the cement layer surrounding it affects the structural integrity and movement at the top of geothermal wells. Understanding this casing-cement interface is important for predicting and preventing damage to geothermal wells that operate at extreme temperatures.",
+    "key_figures": [],
+    "keywords": [
+      "well construction",
+      "materials"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_729eb2e9ef"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002270?dgcid=rss_sd_all": {
+    "id": "84c0165388ba",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002270?dgcid=rss_sd_all",
+    "title": "Trans-dimensional Bayesian electromagnetic inversion for geothermal reservoir characterization in South China: Uncertainty analysis of subsurface conductivity recovered from CSAMT data",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-28",
+    "plain_summary": "Researchers in South China used a specialized electromagnetic surveying technique called CSAMT (Controlled-Source Audio-frequency Magnetotelluric) to map the underground rock layers of a geothermal reservoir. They employed a mathematical method called Bayesian inversion to process the data and create detailed maps showing where conductive (electricity-carrying) materials are located beneath the surface. This approach helps scientists better understand the structure of geothermal reservoirs and quantify the uncertainty or margin of error in their subsurface maps.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_84c0165388"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002269?dgcid=rss_sd_all": {
+    "id": "d324854b9ffc",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002269?dgcid=rss_sd_all",
+    "title": "3D seismic imaging of a fracture damage zone controlling reservoir compartmentalization at the Raft River EGS using multi-azimuth walkaway VSP",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-28",
+    "plain_summary": "Researchers used a specialized underground imaging technique called 3D seismic imaging to create detailed pictures of fractured rock at the Raft River enhanced geothermal system (EGS), which is an experimental site where artificial fractures are created to extract heat from hot rock deep underground. The imaging revealed how cracks in the rock divide the underground reservoir into separate sections, which is important information for understanding how fluids move through superhot rock geothermal systems.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_d324854b9f"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002282?dgcid=rss_sd_all": {
+    "id": "ac3e59d9e1f5",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002282?dgcid=rss_sd_all",
+    "title": "Frictional response of thermally treated granite joints under oscillatory normal stress: implications for fracture stability in enhanced geothermal systems",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-28",
+    "plain_summary": "This research paper studies how heat affects the friction and stability of rock fractures in enhanced geothermal systems (engineered reservoirs created by fracturing hot rock underground to extract heat). Scientists examined granite samples that were heated and then subjected to repetitive pressure changes to understand how cracks in superhot rock formations respond to stress over time.",
+    "key_figures": [],
+    "keywords": [
+      "materials",
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_ac3e59d9e1"
+  },
+  "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUjVGcTF5RjdXU1cxQnVGbjJBTDBpZV8waE9lUFFSMDJ4dFpLczN4NTM4T0IzeFdaZU9iZkJuV2hQMTVXTHZ4amp6WDh3RjQxcktwbFY0ZF9sT1JNV3VOeEY1dnc2d0lyUGl2dk9yTXNJTnRRTU9pWHdQbWJTZmlhMEdOeVpmTkRtd1RBMVdqOUVKWm1PSTkwZ3N0Y2Z4V2pkS1FjRXRoN0NJazFXSWlVZA?oc=5": {
+    "id": "822bd1c111fd",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNUjVGcTF5RjdXU1cxQnVGbjJBTDBpZV8waE9lUFFSMDJ4dFpLczN4NTM4T0IzeFdaZU9iZkJuV2hQMTVXTHZ4amp6WDh3RjQxcktwbFY0ZF9sT1JNV3VOeEY1dnc2d0lyUGl2dk9yTXNJTnRRTU9pWHdQbWJTZmlhMEdOeVpmTkRtd1RBMVdqOUVKWm1PSTkwZ3N0Y2Z4V2pkS1FjRXRoN0NJazFXSWlVZA?oc=5",
+    "title": "Nabors takes 14% of Quaise with $35M investment in superhot geothermal drilling",
+    "source": "Dealroom",
+    "published": "2026-08-27T11:35:36+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "",
+    "key_figures": [
+      "$35 million investment",
+      "14% equity stake"
+    ],
+    "keywords": [
+      "drilling",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_822bd1c111"
+  },
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxOay0zUTc0NHplWnRMUzdDZ0g0Nk9NbjNCekdINjh1WTdUeFpzMkhWTDVnQUUtbXNpaGE1R0Jtdl9BcDhzT1pJcFEwcUhIXzJSTmxyOGVEdVVkQzV6QzRTYXBpT1hidGN6UzlsUHJwS1ZrYS1uTjAxaXVnd0hQNnJWS1RzUFlvVWtQY2M2TDVNOE1PcFRqQ0Jicmc1TFlHYVRvc3RIU0NLRUg2V21QSzRsZFkzN24tS3dGTVduelg0Z3ltcEpw0gHEAUFVX3lxTE5rLTNRNzQ0emVadExTN0NnSDQ2T01uM0J6R0g2OHVZN1R4WnMySFZMNWdBRS1tc2loYTVHQm12X0FwOHNPWklwUTBxSEhfMlJObHI4ZUR1VWRDNXpDNFNhcGlPWGJ0Y3pTOWxQcnBLVmthLW5OMDFpdWd3SFA2clZLVHNQWW9Va1BjYzZMNU04TU9wVGpDQmJyZzVMWUdhVG9zdEhTQ0tFSDZXbVBLNGxkWTM3bi1Ld0ZNV256WDRneW1wSnA?oc=5": {
+    "id": "a6261b3f0280",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOay0zUTc0NHplWnRMUzdDZ0g0Nk9NbjNCekdINjh1WTdUeFpzMkhWTDVnQUUtbXNpaGE1R0Jtdl9BcDhzT1pJcFEwcUhIXzJSTmxyOGVEdVVkQzV6QzRTYXBpT1hidGN6UzlsUHJwS1ZrYS1uTjAxaXVnd0hQNnJWS1RzUFlvVWtQY2M2TDVNOE1PcFRqQ0Jicmc1TFlHYVRvc3RIU0NLRUg2V21QSzRsZFkzN24tS3dGTVduelg0Z3ltcEpw0gHEAUFVX3lxTE5rLTNRNzQ0emVadExTN0NnSDQ2T01uM0J6R0g2OHVZN1R4WnMySFZMNWdBRS1tc2loYTVHQm12X0FwOHNPWklwUTBxSEhfMlJObHI4ZUR1VWRDNXpDNFNhcGlPWGJ0Y3pTOWxQcnBLVmthLW5OMDFpdWd3SFA2clZLVHNQWW9Va1BjYzZMNU04TU9wVGpDQmJyZzVMWUdhVG9zdEhTQ0tFSDZXbVBLNGxkWTM3bi1Ld0ZNV256WDRneW1wSnA?oc=5",
+    "title": "Quaise raises $180 million in final close of Series B to fund superhot geothermal project",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-27T18:14:06+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "Quaise, a company developing superhot rock geothermal technology (which taps into extremely hot rock deep underground to generate energy), has completed raising $180 million in funding. This money will support their project to drill deep wells and extract heat from superhot rock formations to produce electricity.",
+    "key_figures": [
+      "$180 million Series B funding"
+    ],
+    "keywords": [
+      "drilling",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_efe79cba25"
+  },
+  "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRXVlQWdYVUUteTMtbDBnZzNXRVFobkk1dWNSZmljYnFrbVlaTDc4b0luRU4xQnNDbktpdV9sMjltaXN0NnZSRmJSdWV6ZVd0YVlzRExINkVNaHNjNEN4VzBvdzJ6NVVUQlRwOTlma1dvT1QyTW8xc0duTVdoVUFzalZva21DWU1LU0R2Zw?oc=5": {
+    "id": "0476b1c4eecd",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRXVlQWdYVUUteTMtbDBnZzNXRVFobkk1dWNSZmljYnFrbVlaTDc4b0luRU4xQnNDbktpdV9sMjltaXN0NnZSRmJSdWV6ZVd0YVlzRExINkVNaHNjNEN4VzBvdzJ6NVVUQlRwOTlma1dvT1QyTW8xc0duTVdoVUFzalZva21DWU1LU0R2Zw?oc=5",
+    "title": "Geothermal needs better tools for superhot drilling. Hephae can help.",
+    "source": "Canary Media",
+    "published": "2026-08-26T07:30:00+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "The geothermal industry needs improved drilling equipment and tools specifically designed for superhot rock environments, where temperatures are extremely high. Hephae, a company mentioned in the article, is working to develop solutions that can help the industry overcome these technical challenges in accessing and drilling into superhot rock formations.",
+    "key_figures": [],
+    "keywords": [
+      "drilling",
+      "materials"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_ca295249de"
+  },
+  "https://www.thinkgeoenergy.com/nrw-funds-geothermal-system-expansion-at-university-in-munster-germany/": {
+    "id": "5f43cc94fa26",
+    "url": "https://www.thinkgeoenergy.com/nrw-funds-geothermal-system-expansion-at-university-in-munster-germany/",
+    "title": "NRW funds geothermal system expansion at university in Münster, Germany",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-28T11:22:45+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "A German university is receiving €18.8 million to expand its geothermal system, which uses heat from underground rock to provide heating and cooling. The project involves deepening existing boreholes (holes drilled into the earth) and adding more geothermal probes (devices that extract heat from the ground), which will eventually provide about 64% of the university's heating needs while serving as a teaching facility for engineering students.",
+    "key_figures": [
+      "€18.8 million funding",
+      "150 meters initial borehole depth",
+      "12°C constant temperature in borehole",
+      "250 meters target borehole depth",
+      "80 new geothermal probes",
+      "37 existing geothermal probes",
+      "64% of heating demand to be supplied",
+      "€60 billion total NRW infrastructure investment",
+      "€2.3 billion for research and science"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_5f43cc94fa"
+  },
+  "https://www.thinkgeoenergy.com/work-to-start-on-permanent-closure-of-geothermal-borehole-in-basel-switzerland/": {
+    "id": "715f07c3cf57",
+    "url": "https://www.thinkgeoenergy.com/work-to-start-on-permanent-closure-of-geothermal-borehole-in-basel-switzerland/",
+    "title": "Work to start on permanent closure of geothermal borehole in Basel, Switzerland",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-27T13:36:19+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "A company in Switzerland is preparing to permanently seal a geothermal borehole (a deep hole drilled into the earth to access heat) that caused problems in 2006 when it triggered earthquakes and thousands of small tremors. Before sealing it, engineers will clean out the well down to about 4,700 meters deep and check its structural condition using special sensors. This closure is both practical and symbolic—the incident scared people away from geothermal projects, but the industry has since developed safer techniques and better monitoring systems.",
+    "key_figures": [
+      "3.4 magnitude earthquake in December 2006",
+      "200+ seismic events in following months",
+      "730 meters depth of blockage",
+      "4,700 meters depth for cleaning operations"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "sensors",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_715f07c3cf"
+  },
+  "https://www.thinkgeoenergy.com/geo-dipa-signs-mou-to-explore-geothermal-heat-supply-for-tea-processing-in-indonesia/": {
+    "id": "7512debeabd7",
+    "url": "https://www.thinkgeoenergy.com/geo-dipa-signs-mou-to-explore-geothermal-heat-supply-for-tea-processing-in-indonesia/",
+    "title": "Geo Dipa signs MOU to explore geothermal heat supply for tea processing in Indonesia",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-26T16:50:57+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "Two Indonesian companies have partnered to study using geothermal energy—heat from beneath the Earth's surface—to dry tea instead of relying on fossil fuels or wood. The companies will conduct technical and economic studies at an existing geothermal site to develop a practical model for this application, which could help tea producers become more environmentally friendly while potentially increasing their productivity.",
+    "key_figures": [],
+    "keywords": [
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_7512debeab"
+  },
+  "https://www.thinkgeoenergy.com/pertamina-pln-sign-loi-on-electricity-purchase-for-45-mw-of-geothermal-power/": {
+    "id": "a08947e9e1a5",
+    "url": "https://www.thinkgeoenergy.com/pertamina-pln-sign-loi-on-electricity-purchase-for-45-mw-of-geothermal-power/",
+    "title": "Pertamina, PLN sign LOI on electricity purchase for 45 MW of geothermal power",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-25T13:58:17+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "Two Indonesian energy companies have agreed to purchase electricity from geothermal power projects using bottoming technology, which means capturing waste heat from existing geothermal plants to generate additional power. This approach allows Indonesia to increase its geothermal electricity capacity without requiring entirely new drilling and development, making better use of resources already in place. The combined projects will produce 45 megawatts of electricity.",
+    "key_figures": [
+      "15 MW Lahendong Bottoming Unit capacity",
+      "30 MW Ulubelu Bottoming Unit capacity",
+      "45 MW total electricity generation"
+    ],
+    "keywords": [
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_a08947e9e1"
+  },
+  "https://www.thinkgeoenergy.com/geothermal-an-element-of-cooperation-agreement-between-turkiye-and-syria/": {
+    "id": "ddb56142df08",
+    "url": "https://www.thinkgeoenergy.com/geothermal-an-element-of-cooperation-agreement-between-turkiye-and-syria/",
+    "title": "Geothermal an element of cooperation agreement between Türkiye and Syria",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-25T13:07:55+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "Turkey and Syria have signed an agreement to cooperate on geothermal energy development and other natural resource projects. Turkey, which is among the world's leaders in generating electricity from geothermal sources (heat from within the Earth), plans to share its expertise and help Syria identify and develop geothermal resources in the country. Additional cooperation will focus on phosphate mining and electricity trade between the two nations.",
+    "key_figures": [
+      "800-900 MW electricity transmission capacity planned"
+    ],
+    "keywords": [
+      "funding",
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_ddb56142df"
+  },
+  "https://www.thinkgeoenergy.com/making-geothermal-investible-in-ireland-an-interview-with-rory-dunphy/": {
+    "id": "789b8c4e88f7",
+    "url": "https://www.thinkgeoenergy.com/making-geothermal-investible-in-ireland-an-interview-with-rory-dunphy/",
+    "title": "Making geothermal investible in Ireland – An interview with Rory Dunphy",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-08-24T16:14:56+00:00",
+    "date_added": "2026-08-28",
+    "plain_summary": "Ireland is developing geothermal energy as a heating solution despite having no volcanic activity or established geothermal industry. The country depends heavily on fossil fuels for heat (over 90%) and faces pressure to decarbonize, making geothermal attractive for heating buildings and district systems. Shallow geothermal resources (using ground-source heat pumps, which extract heat from the earth) are available across most of Ireland, while deeper resources are being investigated through research projects like GEMINI.",
+    "key_figures": [
+      "90% of Ireland's heat from fossil fuels in 2024",
+      "7.9% renewable heat share in 2024",
+      "40% of Ireland's energy-related emissions from heat",
+      "94% of Ireland suitable for shallow geothermal",
+      "200 MWth installed geothermal capacity",
+      "20,000 geothermal systems in Ireland",
+      "40% grant coverage under Support Scheme for Renewable Heat",
+      "15.8% renewable heat target by 2030"
+    ],
+    "keywords": [
+      "drilling",
+      "subsurface mapping",
+      "funding",
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_789b8c4e88"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0377027326001496?dgcid=rss_sd_all": {
+    "id": "275928e0d124",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0377027326001496?dgcid=rss_sd_all",
+    "title": "Characterization of the Shiretokoiozan volcano hydrothermal system in Hokkaido, North Japan: Possible source and mechanism of molten sulfur eruptions",
+    "source": "J. Volcanology & Geothermal Research (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-28",
+    "plain_summary": "Researchers studied a volcanic hydrothermal system (underground area with hot water and steam from volcanic heat) in Hokkaido, Japan to understand how it works and what causes unusual molten sulfur eruptions. This research helps scientists better understand how extreme heat and mineral-rich fluids behave in geothermal environments near volcanoes.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_275928e0d1"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0377027326002088?dgcid=rss_sd_all": {
+    "id": "56ceb10f08b2",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0377027326002088?dgcid=rss_sd_all",
+    "title": "Carbon dioxide release from cooling magmatic underplate: Implications for the origin of CO<sub>2</sub> emanations in the Cheb Basin, Western Ohře (Eger) Rift area, Bohemian Massif",
+    "source": "J. Volcanology & Geothermal Research (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-28",
+    "plain_summary": "Scientists studying the Cheb Basin in the Czech Republic investigated how carbon dioxide gas is released when hot molten rock beneath the Earth's surface cools down. Understanding where CO2 emissions come from in geothermal areas helps researchers better comprehend the geological processes in regions with active underground heat sources.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_56ceb10f08"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0377027326002076?dgcid=rss_sd_all": {
+    "id": "a27abec4b466",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0377027326002076?dgcid=rss_sd_all",
+    "title": "Permeability evolution during a viscous–brittle transition in crystal- and bubble-bearing magma",
+    "source": "J. Volcanology & Geothermal Research (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-28",
+    "plain_summary": "This scientific paper studies how the physical properties of magma (molten rock) change as it transitions from a fluid, flowing state to a more solid, rigid state. The research examines magma that contains crystals and gas bubbles, investigating how its permeability (ability for fluids to flow through it) evolves during this transformation. Understanding these changes is relevant to geothermal systems where hot rock and fluids interact.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_a27abec4b4"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0377027326002015?dgcid=rss_sd_all": {
+    "id": "ae8141c05d82",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0377027326002015?dgcid=rss_sd_all",
+    "title": "Spatially variable carbon transport pathways in a volcanic and geothermal environment, Menengai Caldera, Kenya",
+    "source": "J. Volcanology & Geothermal Research (Elsevier)",
+    "published": null,
+    "date_added": "2026-08-28",
+    "plain_summary": "Researchers studied how carbon moves through underground rock and fluids in Kenya's Menengai Caldera, an area with volcanic activity and geothermal resources. The study examined different pathways that carbon takes as it travels through the subsurface (the rock layers beneath Earth's surface), which is important for understanding geothermal systems and their environmental impacts.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_ae8141c05d"
   }
 }
