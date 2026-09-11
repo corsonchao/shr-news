@@ -5063,5 +5063,584 @@
     "relevance": "medium",
     "highlight": false,
     "cluster_id": "c_8b61b2c17d"
+  },
+  "https://www.thinkgeoenergy.com/icelandic-orkuveitan-sees-up-to-50-mw-potential-for-iddp-3/": {
+    "id": "0ed90b1ba474",
+    "url": "https://www.thinkgeoenergy.com/icelandic-orkuveitan-sees-up-to-50-mw-potential-for-iddp-3/",
+    "title": "Icelandic Orkuveitan sees up to 50 MW potential for IDDP-3",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-10T13:51:42+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "An Icelandic energy company is planning to drill a deep well called IDDP-3 to test whether superhot geothermal wells (boreholes that tap into extremely hot rock deep underground) can produce much more electricity than traditional geothermal wells. Currently, conventional geothermal wells reach temperatures of 250-350°C and produce 2-7 megawatts of power, but this new project targets depths of 4-5 kilometers where temperatures exceed 400°C, with the goal of producing 20-50 megawatts per well. The company plans a four-stage testing program starting in late 2026 to prove the concept works and to develop materials and equipment that can safely handle these extreme underground conditions.",
+    "key_figures": [
+      "20 to 50 MW potential output per well",
+      "400°C target temperature",
+      "4 to 5 kilometres drilling depth",
+      "250°C to 350°C conventional well temperatures",
+      "2 to 7 MW conventional well output",
+      "2 to 3 kilometres conventional drilling depth",
+      "350°C conventional temperature limit",
+      "Q4 2026 IDDP-3 drilling start",
+      "Q4 2027 second research well planned",
+      "Q3 2028 stimulation and power plant connection planned",
+      "EUR 10 million Horizon Europe funding"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "materials",
+      "sensors",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_0ed90b1ba4"
+  },
+  "https://www.thinkgeoenergy.com/trabzon-turkiye-will-host-the-geothermal-sector-with-dsg-2026/": {
+    "id": "a2a75d629f39",
+    "url": "https://www.thinkgeoenergy.com/trabzon-turkiye-will-host-the-geothermal-sector-with-dsg-2026/",
+    "title": "Trabzon, Türkiye will host the geothermal sector with DSG 2026",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-09T14:45:38+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "A major international workshop on geothermal energy will take place in Trabzon, Turkey in September 2026, bringing together scientists, engineers, and industry professionals to discuss the latest developments in the field. The event will feature presentations on advanced geothermal technologies including Enhanced Geothermal Systems (EGS—methods to artificially create or improve heat extraction from hot rock underground), hot dry rock approaches, well construction techniques, and new applications like extracting lithium from geothermal fluids and powering data centers with geothermal heat.",
+    "key_figures": [
+      "September 14-16, 2026 event dates",
+      "20-30 minute presentation slots"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "legislation"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_a2a75d629f"
+  },
+  "https://www.thinkgeoenergy.com/seismic-survey-to-start-soon-for-geothermal-exploration-in-lower-austria/": {
+    "id": "0762cc01e9e2",
+    "url": "https://www.thinkgeoenergy.com/seismic-survey-to-start-soon-for-geothermal-exploration-in-lower-austria/",
+    "title": "Seismic survey to start soon for geothermal exploration in Lower Austria",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-08T11:37:56+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "An Austrian power company is preparing to conduct a seismic survey—a technique that uses controlled vibrations and sensors to map underground rock formations—to explore whether deep geothermal energy (heat from rocks far below the surface) can be harvested in Lower Austria. The survey will take place over several months starting in late 2026 and cover a large area, with results helping determine if geothermal plants can eventually heat hundreds of thousands of homes.",
+    "key_figures": [
+      "3000 to 4500 meters depth",
+      "900,000 households potential supply",
+      "330 kilometers survey coverage",
+      "60 municipalities affected",
+      "300,000 geophones deployed",
+      "November 2026 to February 2027 survey period",
+      "First plant by 2030",
+      "Second plant by 2035"
+    ],
+    "keywords": [
+      "subsurface mapping",
+      "drilling"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_0762cc01e9"
+  },
+  "https://www.thinkgeoenergy.com/aapg-hosts-workshop-on-developing-geothermal-in-mexico-using-oil-and-gas-assets/": {
+    "id": "332cec458d0b",
+    "url": "https://www.thinkgeoenergy.com/aapg-hosts-workshop-on-developing-geothermal-in-mexico-using-oil-and-gas-assets/",
+    "title": "AAPG hosts workshop on developing geothermal in Mexico using oil and gas assets",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-07T15:10:47+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "The American Association of Petroleum Geologists held a workshop in Mexico City to discuss converting old oil and gas infrastructure into geothermal energy systems. Researchers identified 78 oil fields with temperatures above 90°C as candidates for conversion, with 5 wells reaching over 140°C selected for testing a technology called Organic Rankine Cycle (a system that generates electricity from heat) using closed-loop heat exchangers (pipes that capture underground heat without circulating fluids outside the system).",
+    "key_figures": [
+      "187 oil fields analyzed",
+      "78 fields with temperatures ≥90°C",
+      "39 onshore fields with high viability",
+      "5 wells with bottomhole temperatures >140°C",
+      "140°C minimum temperature for candidates"
+    ],
+    "keywords": [
+      "well construction",
+      "subsurface mapping",
+      "materials"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_332cec458d"
+  },
+  "https://www.thinkgeoenergy.com/can-heat-as-a-service-unlock-geothermal-scale/": {
+    "id": "d33d0ecc9273",
+    "url": "https://www.thinkgeoenergy.com/can-heat-as-a-service-unlock-geothermal-scale/",
+    "title": "Can Heat-as-a-Service unlock geothermal scale?",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-07T09:10:28+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "Heat-as-a-Service is a financing model where an investor owns and operates geothermal heating infrastructure while customers pay for heat through long-term contracts, removing the need for customers to fund expensive upfront costs. This approach can make geothermal more accessible to businesses and buildings, though larger utilities may prefer to maintain ownership and control of their heating systems. Combining multiple smaller projects into larger investment portfolios and offering both heating and cooling services can make geothermal financing more attractive to investors.",
+    "key_figures": [
+      "15 to 25 years contract duration",
+      "EUR 50 million to EUR 60 million target portfolio investment",
+      "EUR 15 million to EUR 20 million target EBITDA"
+    ],
+    "keywords": [
+      "funding",
+      "legislation"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_d33d0ecc92"
+  },
+  "https://www.canarymedia.com/articles/geothermal/dig-energy-novel-geothermal-drilling-tech": {
+    "id": "767458b2b5c9",
+    "url": "https://www.canarymedia.com/articles/geothermal/dig-energy-novel-geothermal-drilling-tech",
+    "title": "Dig Energy completes first project with novel geothermal drilling tech",
+    "source": "Canary Media",
+    "published": "2026-09-10T07:30:00+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "A startup company called Dig Energy has finished its first commercial project using new drilling technology designed to make geothermal work easier and more cost-effective. They drilled seven holes at the headquarters of a Boston construction company to set up a geothermal heating and cooling system, which uses heat from underground to warm and cool buildings.",
+    "key_figures": [
+      "7 boreholes"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_de0a982183"
+  },
+  "https://www.energy.gov/hgeo/geothermal/articles/office-geothermal-announces-geologic-enhanced-mapping-system-gems-prize": {
+    "id": "cc2b3357611a",
+    "url": "https://www.energy.gov/hgeo/geothermal/articles/office-geothermal-announces-geologic-enhanced-mapping-system-gems-prize",
+    "title": "Office of Geothermal Announces Geologic Enhanced Mapping System (GEMS) Prize",
+    "source": "DOE Office of Geothermal",
+    "published": "2026-09-10T14:43:39+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "The U.S. Department of Energy is offering a $300,000 prize competition to help find hidden geothermal energy resources. Competitors will develop computer algorithms that analyze underground geological data (geophysical data) to identify faults and rock structures that indicate where geothermal systems exist. This approach aims to speed up the discovery of new geothermal sites that could be commercially developed while reducing the risks and costs of exploration.",
+    "key_figures": [
+      "$300,000 total prize",
+      "$15,000 to $100,000 prize range",
+      "December 3, 2026 submission deadline"
+    ],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_f3f2c7213a"
+  },
+  "https://news.google.com/rss/articles/CBMirgFBVV95cUxQazkxVDQwRTVPTVdtWXVzcDZwZHdHNmhNZ3JuWHFxNHE4Tzc4YTEwSVp2SGNHbzRDX2dBTmxyQ040ekRhV2FjdDgxWjM0OEpzVzVGdTdWVlZINjBFOE5ZSUQxMWQ2RTFGeTFhcGFTX1ZZWGsyblV5NVVYWlpoQ0RERl90TGtTbWt5VldCa09xTzhmSmNnXy12MHJUN3N5N3dNWTNqTlRDYi1nYy00SUHSAbMBQVVfeXFMTTVTWmRmMFdXVGNiQU93RDJ5Rm9GdUU4RkVXOXlPdnNtWWNxcE4tVlRJY0djMlMtRlNjaXduakZYLTE4MW44bVFweG1COVJxZjlvVXNXX0RUQ21iSzFvelRYS0VCZ0I5SXRIV281bGRFVHZKc0RmT0x2b054ZHhfMWRLV1pjamVDdVpBMkZqYThUS25WMjNLOWhEUGdNME1DT0FlN2lJeU5IVWlRUTBhRGFCZ3c?oc=5": {
+    "id": "6008729a2612",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQazkxVDQwRTVPTVdtWXVzcDZwZHdHNmhNZ3JuWHFxNHE4Tzc4YTEwSVp2SGNHbzRDX2dBTmxyQ040ekRhV2FjdDgxWjM0OEpzVzVGdTdWVlZINjBFOE5ZSUQxMWQ2RTFGeTFhcGFTX1ZZWGsyblV5NVVYWlpoQ0RERl90TGtTbWt5VldCa09xTzhmSmNnXy12MHJUN3N5N3dNWTNqTlRDYi1nYy00SUHSAbMBQVVfeXFMTTVTWmRmMFdXVGNiQU93RDJ5Rm9GdUU4RkVXOXlPdnNtWWNxcE4tVlRJY0djMlMtRlNjaXduakZYLTE4MW44bVFweG1COVJxZjlvVXNXX0RUQ21iSzFvelRYS0VCZ0I5SXRIV281bGRFVHZKc0RmT0x2b054ZHhfMWRLV1pjamVDdVpBMkZqYThUS25WMjNLOWhEUGdNME1DT0FlN2lJeU5IVWlRUTBhRGFCZ3c?oc=5",
+    "title": "This enhanced geothermal project aims to unlock gigawatts of power to fuel the data center boom",
+    "source": "CNBC",
+    "published": "2026-09-05T12:20:42+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "A geothermal energy project using enhanced geothermal systems (EGS)—technology that creates artificial heat reservoirs in hot rock deep underground—is being developed to generate large amounts of electricity for data centers. The project aims to produce gigawatts (billions of watts) of power, which would be substantial enough to meet the growing energy demands of data centers that power artificial intelligence and cloud computing services.",
+    "key_figures": [],
+    "keywords": [
+      "drilling",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_6008729a26"
+  },
+  "https://www.thinkgeoenergy.com/rig-assembly-ongoing-for-geothermal-drilling-in-jelenia-gora-poland/": {
+    "id": "1ef24a296c23",
+    "url": "https://www.thinkgeoenergy.com/rig-assembly-ongoing-for-geothermal-drilling-in-jelenia-gora-poland/",
+    "title": "Rig assembly ongoing for geothermal drilling in Jelenia Gora, Poland",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-11T13:26:33+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "A Polish city is assembling drilling equipment to search for hot water underground near Jelenia Gora. The project will drill down 2,500 meters (about 8,200 feet) through hard granite rock to find thermal waters expected to be 90–100°C (194–212°F), which could be used to heat buildings and create a recreational spa complex if the exploration is successful.",
+    "key_figures": [
+      "PLN 18.8 million funding award",
+      "PLN 23 million total well cost",
+      "USD 6.2 million total well cost",
+      "2,500 meters target drilling depth",
+      "90–100°C expected temperature",
+      "4–6 months estimated drilling duration",
+      "14 hectares available land"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_1ef24a296c"
+  },
+  "https://www.thinkgeoenergy.com/us-doe-announces-prize-challenge-for-discovery-of-hidden-geothermal-systems/": {
+    "id": "9cd10d88dc8c",
+    "url": "https://www.thinkgeoenergy.com/us-doe-announces-prize-challenge-for-discovery-of-hidden-geothermal-systems/",
+    "title": "US DOE announces prize challenge for discovery of hidden geothermal systems",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-11T12:18:46+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "The U.S. Department of Energy is running a competition with a prize pool to help find new geothermal energy sources that are hidden underground. Participants will develop computer algorithms that can analyze underground data to identify geological faults and structures (cracks and formations in rock) that indicate where geothermal resources might exist. The competition uses data from Nevada and aims to improve how we discover viable geothermal systems that aren't yet known or mapped.",
+    "key_figures": [
+      "$300,000 total prize pool",
+      "December 3, 2026 submission deadline",
+      "Top 5 participants advance to final round"
+    ],
+    "keywords": [
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_f3f2c7213a"
+  },
+  "https://www.thinkgeoenergy.com/ongoing-geothermal-development-in-croatia-highlighted-at-greetgeo-study-tour/": {
+    "id": "81d987ca1828",
+    "url": "https://www.thinkgeoenergy.com/ongoing-geothermal-development-in-croatia-highlighted-at-greetgeo-study-tour/",
+    "title": "Ongoing geothermal development in Croatia highlighted at GreetGEO study tour",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-11T11:12:55+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "Croatia is developing geothermal energy projects (heat from underground rock) in two cities. Bjelovar is building a thermal spa complex that will use hot water from a deep well drilled over 1,200 meters underground. Krizevci is reviving an old geothermal well from the 1980s that can supply heat energy to public facilities like schools and swimming pools, and is now planning to drill an additional injection well (a well that returns cooled water back underground) to complete the system.",
+    "key_figures": [
+      "7,000 square meters of swimming pools",
+      "1,290 meters drilling depth (Korenovo GT-1 well)",
+      "1,496 meters drilling depth (Krizevcanka-1 well)",
+      "3-4 MWth production potential",
+      "79.5°C wellhead temperature",
+      "1985-1996 drilling period (Krizevcanka-1)",
+      "50 study tour participants"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_81d987ca18"
+  },
+  "https://www.thinkgeoenergy.com/dig-energy-completes-first-commercial-geothermal-heating-and-cooling-installation-in-boston/": {
+    "id": "daa802fe74aa",
+    "url": "https://www.thinkgeoenergy.com/dig-energy-completes-first-commercial-geothermal-heating-and-cooling-installation-in-boston/",
+    "title": "Dig Energy completes first commercial geothermal heating and cooling installation in Boston",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-10T14:17:27+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "Dig Energy has finished installing its first commercial geothermal system (a method that uses heat from underground rock to heat and cool buildings) at a Boston office building. The company uses an innovative drilling rig that pumps high-pressure fluid instead of traditional drill bits, which reduces drilling costs significantly and requires a much smaller work area and crew. This project demonstrates that their technology can work efficiently in tight urban spaces while maintaining tight construction schedules.",
+    "key_figures": [
+      "80% reduction in borehole installation costs",
+      "2 weeks drilling completion time",
+      "few parking spaces active work area"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_de0a982183"
+  },
+  "https://www.thinkgeoenergy.com/ireland-lays-groundwork-for-investable-geothermal-projects/": {
+    "id": "fd804f3d0f12",
+    "url": "https://www.thinkgeoenergy.com/ireland-lays-groundwork-for-investable-geothermal-projects/",
+    "title": "Ireland lays groundwork for investable geothermal projects",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-10T12:55:08+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "Ireland is running demonstration geothermal projects through a program called GEMINI to gather data, train workers, and develop business models that will make future geothermal projects easier to fund and build. The program includes test sites like a 2-kilometer exploration borehole in Dublin, along with creating training materials and planning tools that future projects can reuse, so developers don't have to start from scratch each time. The goal is to move geothermal heating and cooling from experimental demonstrations to something investors and private companies will confidently fund and operate.",
+    "key_figures": [
+      "EUR 20 million GEMINI project budget",
+      "15 partner organizations",
+      "2 km geothermal exploration borehole at TU Dublin",
+      "Project runs through 2028",
+      "Launched November 2024"
+    ],
+    "keywords": [
+      "drilling",
+      "subsurface mapping",
+      "funding",
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_fd804f3d0f"
+  },
+  "https://www.thinkgeoenergy.com/hexagon-energy-enters-agreement-for-geothermal-development-across-oregon-and-washington/": {
+    "id": "994a6beafcab",
+    "url": "https://www.thinkgeoenergy.com/hexagon-energy-enters-agreement-for-geothermal-development-across-oregon-and-washington/",
+    "title": "Hexagon Energy enters agreement for geothermal development across Oregon and Washington",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-10T12:12:31+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "Hexagon Energy, a clean energy company, has signed an agreement with Weyerhaeuser to develop geothermal projects (facilities that generate electricity from heat stored deep underground) on Weyerhaeuser's forest lands in Oregon and Washington. The company has leased geothermal rights across a large area and plans to build geothermal power plants with a combined capacity (total electrical output) large enough to power many homes and businesses.",
+    "key_figures": [
+      "145,000 acres leased",
+      "3 GW capacity planned"
+    ],
+    "keywords": [
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_eb670056dd"
+  },
+  "https://www.thinkgeoenergy.com/berlin-heat-planning-maps-geothermal-at-urban-scale/": {
+    "id": "f4f9bc79139a",
+    "url": "https://www.thinkgeoenergy.com/berlin-heat-planning-maps-geothermal-at-urban-scale/",
+    "title": "Berlin heat planning maps geothermal at urban scale",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-10T11:16:51+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "Berlin is using detailed mapping to identify where geothermal systems (which use boreholes to extract heat from underground rock and soil) could heat and cool entire neighborhoods and buildings, rather than just individual homes. The city analyzed about 26,000 city blocks to figure out which areas have enough geological potential, available space, and economic viability for these systems. A key finding is that systems work better and cheaper when they both extract heat in winter and return excess cooling heat to the ground in summer, essentially using the underground as thermal storage.",
+    "key_figures": [
+      "26,000 city blocks analyzed",
+      "100-400 metres borehole depths",
+      "EUR 0.35/kWh heating-only cost",
+      "EUR 0.26/kWh balanced heating and cooling cost",
+      "100,000+ inhabitant threshold for municipal heat planning requirement"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_f4f9bc7913"
+  },
+  "https://www.thinkgeoenergy.com/carbfix-achieves-99-6-capture-of-co2-and-h2s-from-geothermal-power-plant-in-iceland/": {
+    "id": "9a8e15f35f48",
+    "url": "https://www.thinkgeoenergy.com/carbfix-achieves-99-6-capture-of-co2-and-h2s-from-geothermal-power-plant-in-iceland/",
+    "title": "Carbfix achieves 99.6% capture of CO2 and H2S from geothermal power plant in Iceland",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-10T10:29:08+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "A company called Carbfix has successfully captured 99.6% of harmful gases (carbon dioxide and hydrogen sulfide) released from a geothermal power plant in Iceland. The captured gases are dissolved in water and injected deep into rock layers underground, where they permanently turn into minerals—a process that normally takes nature thousands of years but Carbfix speeds up to just two years. This achievement shows that geothermal energy can be made much cleaner by removing its pollutants before they escape into the atmosphere.",
+    "key_figures": [
+      "99.6% capture rate of CO2 and H2S",
+      "19,000 tonnes of CO2 injected",
+      "EUR 3.9 million in EU funding",
+      "120,000 tonnes of CO2 stored cumulatively",
+      "50,000 tonnes of H2S stored cumulatively",
+      "2 years mineralization time"
+    ],
+    "keywords": [
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_9a8e15f35f"
+  },
+  "https://www.thinkgeoenergy.com/drilling-of-geothermal-well-in-radoszyce-poland-completed-but-flow-is-insufficient/": {
+    "id": "eda3f696c307",
+    "url": "https://www.thinkgeoenergy.com/drilling-of-geothermal-well-in-radoszyce-poland-completed-but-flow-is-insufficient/",
+    "title": "Drilling of geothermal well in Radoszyce, Poland completed but flow is insufficient",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-09T11:08:35+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "A geothermal well in Poland was successfully drilled to 1,470 meters and found thermal water at 40°C, but the water is not flowing out fast enough to be useful commercially. Engineers are now studying whether they can boost the flow rate using techniques like chemical stimulation (which worked dramatically well at another Polish site), though success is uncertain and depends on the local geology.",
+    "key_figures": [
+      "1,470 meters drilling depth",
+      "40°C thermal water temperature",
+      "PLN 12 million (USD 3.2 million) drilling cost",
+      "9 m³/h initial flow rate at Kazimierza Wielka well",
+      "82 m³/h flow rate after stimulation at Kazimierza Wielka well"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_eda3f696c3"
+  },
+  "https://www.thinkgeoenergy.com/geothermal-heating-project-in-bad-bevensen-germany-secures-federal-funding/": {
+    "id": "99c6de9683af",
+    "url": "https://www.thinkgeoenergy.com/geothermal-heating-project-in-bad-bevensen-germany-secures-federal-funding/",
+    "title": "Geothermal heating project in Bad Bevensen, Germany secures federal funding",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-08T14:55:17+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "A German company has received €200,000 in federal funding to explore a geothermal heating project in Bad Bevensen that would pump hot water from 3,400 meters underground to provide heat to the district by 2029. The project plans to drill two wells and build a heating plant, with the hot water distributed through pipelines to reduce energy losses. The company will soon conduct seismic surveys (sound-based mapping of underground rock layers) to better understand the subsurface before drilling begins.",
+    "key_figures": [
+      "€200,000 federal funding commitment",
+      "3,400 meters drilling depth",
+      "€25.6 million estimated total project cost",
+      "2 wells planned",
+      "2029 target completion year",
+      "40% of pipeline costs potentially covered by federal funding"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_99c6de9683"
+  },
+  "https://www.thinkgeoenergy.com/new-study-highlights-high-potential-geothermal-areas-in-st-gallen-switzerland/": {
+    "id": "59851ae31cdf",
+    "url": "https://www.thinkgeoenergy.com/new-study-highlights-high-potential-geothermal-areas-in-st-gallen-switzerland/",
+    "title": "New study highlights high-potential geothermal areas in St. Gallen, Switzerland",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-08T12:55:45+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "A Swiss study identifies promising locations for geothermal energy development in St. Gallen, examining three depth ranges: shallow gravel deposits for seasonal heat storage, mid-depth fractures for heating systems, and very deep resources for both electricity and heating. The research builds on experience from a 2013 drilling attempt that was abandoned after triggering a small earthquake, and recommends careful public communication and risk management before proceeding with exploration.",
+    "key_figures": [
+      "4002 meters drilling depth (2013 well)",
+      "3.5 magnitude earthquake",
+      "200-600 meters depth for shallow gravel deposits",
+      "20-30°C temperature at shallow depths",
+      "1000 to 2000 meters depth for mid-depth resources",
+      "40 to 70°C temperature at mid-depth",
+      "3000+ meters depth for very deep resources"
+    ],
+    "keywords": [
+      "drilling",
+      "subsurface mapping",
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_59851ae31c"
+  },
+  "https://www.thinkgeoenergy.com/geothermal-greenhouse-project-in-simav-turkiye-aims-for-2027-harvest/": {
+    "id": "c155dd3665d7",
+    "url": "https://www.thinkgeoenergy.com/geothermal-greenhouse-project-in-simav-turkiye-aims-for-2027-harvest/",
+    "title": "Geothermal greenhouse project in Simav, Türkiye aims for 2027 harvest",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-07T17:13:03+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "A large agricultural greenhouse complex in Turkey is being built to use geothermal energy—heat from hot water naturally found deep underground. The facility will tap into 22 geothermal wells to extract hot water at 80°C (176°F) to heat about 800 acres of greenhouses, with the first crops expected to be ready in 2027.",
+    "key_figures": [
+      "90% infrastructure completion",
+      "735 liters per unit time of thermal water extraction",
+      "80°C average water temperature",
+      "22 geothermal wells",
+      "800 acres active greenhouse area",
+      "785 acres allocated to investors",
+      "TRY 1.1 billion (USD 22.72 million) total investment",
+      "1,500 jobs created",
+      "September 2027 planned harvest"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_c155dd3665"
+  },
+  "https://www.thinkgeoenergy.com/ngap-appeals-for-enhanced-financial-incentives-to-boost-geothermal-in-the-philippines/": {
+    "id": "15e2cde319cb",
+    "url": "https://www.thinkgeoenergy.com/ngap-appeals-for-enhanced-financial-incentives-to-boost-geothermal-in-the-philippines/",
+    "title": "NGAP appeals for enhanced financial incentives to boost geothermal in the Philippines",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-07T10:56:04+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "The National Geothermal Association of the Philippines is asking the government for better financial support to develop geothermal energy (heat from the Earth used to make electricity) across the country. They want improved tax breaks, research funding, and a pricing system that accounts for different development costs, since building geothermal plants in difficult terrain or remote areas is much more expensive than in easier locations. The Philippines has enormous untapped geothermal potential but has fallen behind other countries in developing it, so these incentives aim to encourage more companies to invest in the sector.",
+    "key_figures": [
+      "30 MW taken up out of 100 MW offered in Green Energy Auction",
+      "7-year income tax holiday for geothermal projects",
+      "2,100 MW untapped geothermal potential",
+      "$12.6 billion estimated investment needed"
+    ],
+    "keywords": [
+      "drilling",
+      "funding",
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_15e2cde319"
+  },
+  "https://www.powermag.com/hexagon-weyerhaeuser-ink-geothermal-development-deal-for-pacific-northwest/": {
+    "id": "59c1617a8e45",
+    "url": "https://www.powermag.com/hexagon-weyerhaeuser-ink-geothermal-development-deal-for-pacific-northwest/",
+    "title": "Hexagon, Weyerhaeuser Ink Geothermal Development Deal for Pacific Northwest",
+    "source": "POWER Magazine — Geothermal",
+    "published": "2026-09-10T16:29:57+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "Two companies—Hexagon Energy (a renewable energy developer) and Weyerhaeuser (a major timberland owner)—have partnered to build geothermal power projects on Weyerhaeuser's land in Washington and Oregon. Geothermal energy is clean power generated from heat beneath the Earth's surface that can run continuously, unlike solar or wind. The deal could create enough capacity to power millions of homes, taking advantage of growing demand for reliable renewable electricity.",
+    "key_figures": [
+      "3 GW potential geothermal power capacity",
+      "145,000 acres of leased geothermal rights",
+      "3 GW of previously developed power capacity by Hexagon",
+      "$4.5 billion in prior investment by Hexagon",
+      "10 GW current pipeline under development by Hexagon",
+      "10 million acres of timberland owned/controlled by Weyerhaeuser"
+    ],
+    "keywords": [
+      "funding",
+      "well construction"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_eb670056dd"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002506?dgcid=rss_sd_all": {
+    "id": "d227f47d3eda",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002506?dgcid=rss_sd_all",
+    "title": "Coaxial tube heat exchangers for medium-deep geothermal utilization: numerical analysis and layout optimization",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-09-11",
+    "plain_summary": "Researchers have analyzed and optimized coaxial tube heat exchangers (devices that transfer heat between two fluids flowing through concentric pipes) for medium-depth geothermal systems. This work focuses on improving the design and arrangement of these heat exchangers to make them more efficient for extracting geothermal energy from moderately deep underground sources.",
+    "key_figures": [],
+    "keywords": [
+      "well construction"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_d227f47d3e"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002373?dgcid=rss_sd_all": {
+    "id": "9c3c6cd17395",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002373?dgcid=rss_sd_all",
+    "title": "Unveiling a hidden upflow in the Nagasari Area, Dieng geothermal field, Indonesia: Fluid geochemical constraints",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-09-11",
+    "plain_summary": "Researchers studying the Dieng geothermal field in Indonesia discovered a previously unknown flow of hot fluid moving upward through the rock layers in the Nagasari area. By analyzing the chemical composition of fluids (geochemistry—the study of chemical elements and compounds in geological systems), they were able to identify and map this hidden pathway that could be important for understanding how geothermal resources are distributed and accessed in this region.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_9c3c6cd173"
+  },
+  "https://www.geothermalcanada.org/news/2026/9/9/winnipegs-1st-geothermal-district-being-developed-beside-university-of-manitoba": {
+    "id": "3c14bd81b28e",
+    "url": "https://www.geothermalcanada.org/news/2026/9/9/winnipegs-1st-geothermal-district-being-developed-beside-university-of-manitoba",
+    "title": "Winnipeg's 1st Geothermal District Being Developed Beside University of Manitoba",
+    "source": "Geothermal Canada",
+    "published": "2026-09-09T15:35:00+00:00",
+    "date_added": "2026-09-11",
+    "plain_summary": "Winnipeg is building its first neighbourhood powered entirely by geothermal energy (heat drawn from underground) at a site called Southwood Circle near the University of Manitoba. Instead of individual homes using their own heating systems, the entire neighbourhood will share one large geothermal district system that uses heat-pump technology (a device that moves heat efficiently) to provide heating and cooling to all residents in a carbon-free way. The project is expected to prevent 400 to 1,600 tonnes of greenhouse gas emissions and is part of Manitoba's broader plan to achieve net-zero emissions by 2050.",
+    "key_figures": [
+      "400 to 1,600 tonnes of greenhouse gas emissions avoided",
+      "$4 million provincial government funding for geothermal system",
+      "$6 billion total project cost",
+      "20 to 30 years estimated completion time",
+      "10 years estimated for first phase",
+      "1,000+ homes to be served",
+      "300,000 square feet of office and commercial space",
+      "$350 million total government spending in action plan",
+      "$55 million in grants for emissions reduction",
+      "$7.6 million for sustainable agriculture support"
+    ],
+    "keywords": [
+      "funding",
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_3c14bd81b2"
   }
 }

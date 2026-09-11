@@ -132,7 +132,22 @@
     "b36905a29844",
     "d7befa2532f4",
     "db36b12f4274",
-    "8b61b2c17de4"
+    "8b61b2c17de4",
+    "0ed90b1ba474",
+    "a2a75d629f39",
+    "0762cc01e9e2",
+    "767458b2b5c9",
+    "6008729a2612",
+    "1ef24a296c23",
+    "81d987ca1828",
+    "daa802fe74aa",
+    "fd804f3d0f12",
+    "f4f9bc79139a",
+    "eda3f696c307",
+    "99c6de9683af",
+    "59851ae31cdf",
+    "c155dd3665d7",
+    "15e2cde319cb"
   ],
   "well construction": [
     "1272fa965727",
@@ -235,7 +250,20 @@
     "f55f42e26422",
     "eea170bdbb78",
     "db36b12f4274",
-    "8b61b2c17de4"
+    "8b61b2c17de4",
+    "0ed90b1ba474",
+    "a2a75d629f39",
+    "332cec458d0b",
+    "767458b2b5c9",
+    "1ef24a296c23",
+    "81d987ca1828",
+    "daa802fe74aa",
+    "f4f9bc79139a",
+    "eda3f696c307",
+    "99c6de9683af",
+    "c155dd3665d7",
+    "59c1617a8e45",
+    "d227f47d3eda"
   ],
   "New geothermal projects": [
     "33cd8ca46ea2",
@@ -398,7 +426,20 @@
     "b36905a29844",
     "25bc64d66bb2",
     "e8819bf09537",
-    "e0e3d4c7c3ba"
+    "e0e3d4c7c3ba",
+    "a2a75d629f39",
+    "0762cc01e9e2",
+    "332cec458d0b",
+    "cc2b3357611a",
+    "1ef24a296c23",
+    "9cd10d88dc8c",
+    "fd804f3d0f12",
+    "f4f9bc79139a",
+    "9a8e15f35f48",
+    "eda3f696c307",
+    "99c6de9683af",
+    "59851ae31cdf",
+    "9c3c6cd17395"
   ],
   "legislation": [
     "55072d4b9fd3",
@@ -431,7 +472,13 @@
     "b36905a29844",
     "d7befa2532f4",
     "2ca47831febe",
-    "8b61b2c17de4"
+    "8b61b2c17de4",
+    "a2a75d629f39",
+    "d33d0ecc9273",
+    "fd804f3d0f12",
+    "59851ae31cdf",
+    "15e2cde319cb",
+    "3c14bd81b28e"
   ],
   "funding": [
     "3b10808d4572",
@@ -533,7 +580,21 @@
     "92d1664d6b36",
     "d7befa2532f4",
     "fb6cab5fc5ab",
-    "2ca47831febe"
+    "2ca47831febe",
+    "0ed90b1ba474",
+    "d33d0ecc9273",
+    "6008729a2612",
+    "1ef24a296c23",
+    "9cd10d88dc8c",
+    "81d987ca1828",
+    "daa802fe74aa",
+    "fd804f3d0f12",
+    "994a6beafcab",
+    "9a8e15f35f48",
+    "99c6de9683af",
+    "15e2cde319cb",
+    "59c1617a8e45",
+    "3c14bd81b28e"
   ],
   "materials": [
     "775f8fb223c6",
@@ -560,7 +621,9 @@
     "729eb2e9efd2",
     "ac3e59d9e1f5",
     "0476b1c4eecd",
-    "43f77795ca88"
+    "43f77795ca88",
+    "0ed90b1ba474",
+    "332cec458d0b"
   ],
   "sensors": [
     "455bb5bb4a94",
@@ -579,7 +642,8 @@
     "715f07c3cf57",
     "127b974c01ff",
     "eea170bdbb78",
-    "db36b12f4274"
+    "db36b12f4274",
+    "0ed90b1ba474"
   ],
   "electronics": [
     "b23281698111",
