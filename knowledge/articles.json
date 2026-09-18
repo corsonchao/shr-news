@@ -5642,5 +5642,648 @@
     "relevance": "medium",
     "highlight": false,
     "cluster_id": "c_3c14bd81b2"
+  },
+  "https://www.thinkgeoenergy.com/global-geophysics-company-launches-dedicated-geothermal-specialist-division/": {
+    "id": "1bacde89ac37",
+    "url": "https://www.thinkgeoenergy.com/global-geophysics-company-launches-dedicated-geothermal-specialist-division/",
+    "title": "Global geophysics company launches dedicated geothermal specialist division",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-18T15:20:45+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "A major geophysics company has created a new division called EchoVision that specializes in helping geothermal developers by managing underground investigations. The team uses advanced imaging technology (including seismic surveys, which create pictures of rock layers underground) to help determine the best locations to drill wells and to monitor how the geothermal reservoir performs over time. They recently completed a successful project in York, UK, where they mapped geothermal resources deep underground across a large city area.",
+    "key_figures": [
+      "30 km² survey area",
+      "4,000 metres depth imaged",
+      "60 days project delivery time"
+    ],
+    "keywords": [
+      "subsurface mapping",
+      "well construction",
+      "drilling"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_1bacde89ac"
+  },
+  "https://www.thinkgeoenergy.com/mazama-energy-raises-135m-to-support-commercial-scale-superhot-geothermal-development/": {
+    "id": "16ab004c59e6",
+    "url": "https://www.thinkgeoenergy.com/mazama-energy-raises-135m-to-support-commercial-scale-superhot-geothermal-development/",
+    "title": "Mazama Energy raises $135M to support commercial-scale superhot geothermal development",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-17T16:57:30+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "Mazama Energy has secured $135 million in funding to develop superhot rock (SHR) geothermal technology, which uses heat from extremely hot rock deep underground to generate electricity. The company's Project Ceres aims to build wells in Oregon that can each produce 15 megawatts of power by 2027, and they recently cut drilling time in half on their second well while reaching temperatures exceeding 400°C (750°F). This represents progress toward making superhot geothermal a commercially viable and scalable energy source.",
+    "key_figures": [
+      "$135 million in funding",
+      "15 MWe capacity per well",
+      "80% reduction in drilling time",
+      "15,500 feet drilling depth",
+      "750°F target temperature",
+      "629°F previous record temperature",
+      "10 GWe resource potential certification goal"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_822b6d7e3b"
+  },
+  "https://www.thinkgeoenergy.com/hephae-successfully-deploys-mwd-system-at-210-oc-circulation-temperature-in-geothermal-well/": {
+    "id": "877b0a3109a2",
+    "url": "https://www.thinkgeoenergy.com/hephae-successfully-deploys-mwd-system-at-210-oc-circulation-temperature-in-geothermal-well/",
+    "title": "Hephae successfully deploys MWD system at 210 ºC circulation temperature in geothermal well",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-16T17:43:07+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "A company called Hephae has successfully tested a specialized tool called Pandora210 that measures and guides drilling while equipment is deep underground in a geothermal well, operating at temperatures of 210°C (about 410°F). This tool is designed to withstand the extreme heat and vibrations that occur when drilling into very hot rock formations deep below the surface, which is essential for superhot rock geothermal energy projects. The achievement is important because reliable tools at these temperatures help reduce expensive drilling delays and make geothermal energy more economical.",
+    "key_figures": [
+      "210°C circulation temperature",
+      "USD 17.8 million Series A funding"
+    ],
+    "keywords": [
+      "drilling",
+      "sensors",
+      "electronics",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_fe76a754ce"
+  },
+  "https://www.thinkgeoenergy.com/ethiopia-advances-restart-of-two-geothermal-projects/": {
+    "id": "b6af47e7adea",
+    "url": "https://www.thinkgeoenergy.com/ethiopia-advances-restart-of-two-geothermal-projects/",
+    "title": "Ethiopia advances restart of two geothermal projects",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-15T15:48:12+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "Ethiopia is working to restart two stalled geothermal projects—Tulu Moye and Corbetti—that aim to generate electricity from heat deep underground. Both projects have faced delays due to contractual disagreements, but the government and project developers are now negotiating new terms and investment agreements to move forward with drilling activities.",
+    "key_figures": [
+      "150 MW planned capacity for Tulu Moye",
+      "50 MW initial phase for Tulu Moye",
+      "100 MW second phase for Tulu Moye",
+      "150 MW planned capacity for Corbetti",
+      "50 MW first phase for Corbetti",
+      "100 MW further phase for Corbetti",
+      "USD 27 million prospective investment in Corbetti"
+    ],
+    "keywords": [
+      "drilling",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_b6af47e7ad"
+  },
+  "https://www.thinkgeoenergy.com/potential-sale-of-50-stake-in-icelandic-hs-orka/": {
+    "id": "37a5e8e951c8",
+    "url": "https://www.thinkgeoenergy.com/potential-sale-of-50-stake-in-icelandic-hs-orka/",
+    "title": "Potential sale of 50% stake in Icelandic HS Orka",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-15T13:46:36+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "A British investment company may sell its 50% stake in HS Orka, an Icelandic geothermal energy producer that generates electricity from hot rocks beneath the earth's surface. The company has significantly grown since 2019, expanding its power plants and exploring new geothermal areas, but these developments have required substantial capital investment. The potential sale would test how investors value a mature, expanded geothermal business after years of development.",
+    "key_figures": [
+      "50% ownership stake being considered for sale",
+      "30 MW expansion at Reykjanes plant in 2023",
+      "130 MW total capacity at Reykjanes",
+      "55 MW new generating unit commissioned December 2025",
+      "ISK 14 billion (~USD 116 million) Svartsengi project cost",
+      "2,600 metres measured depth for KR-10 exploration well",
+      "ISK 15.7 billion (~USD 130 million) 2025 revenue",
+      "ISK 6.5 billion (~USD 54 million) 2025 EBITDA",
+      "ISK 89.6 billion (~USD 740 million) total assets",
+      "USD 290 million green refinancing in 2024"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_37a5e8e951"
+  },
+  "https://www.thinkgeoenergy.com/tender-geophysical-investigations-for-geothermal-exploration-in-brabant-massif-belgium/": {
+    "id": "ff0a3d3d0e12",
+    "url": "https://www.thinkgeoenergy.com/tender-geophysical-investigations-for-geothermal-exploration-in-brabant-massif-belgium/",
+    "title": "Tender – Geophysical investigations for geothermal exploration in Brabant Massif, Belgium",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-15T13:00:51+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "The Flemish Government in Belgium is seeking bids to conduct geophysical surveys (measurements using gravity and electromagnetic techniques) in two underground regions to explore both mineral deposits and deep geothermal energy potential. The surveys will map geological structures and fault zones that could be suitable for future drilling and geothermal development, with results expected to guide decisions about next-phase exploration activities.",
+    "key_figures": [
+      "11–16 km² first study area size",
+      "4 measurements per km² target resolution",
+      "14 October 2026 bid deadline"
+    ],
+    "keywords": [
+      "subsurface mapping",
+      "drilling"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_ff0a3d3d0e"
+  },
+  "https://www.thinkgeoenergy.com/six-geothermal-wells-to-be-drilled-in-izmir-turkiye-for-greenhouse-heating/": {
+    "id": "b2935f418390",
+    "url": "https://www.thinkgeoenergy.com/six-geothermal-wells-to-be-drilled-in-izmir-turkiye-for-greenhouse-heating/",
+    "title": "Six geothermal wells to be drilled in Izmir, Türkiye for greenhouse heating",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-14T12:54:33+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "Turkey is planning to drill six geothermal wells in Izmir to provide heating for a large greenhouse farming area. Geothermal energy—heat from hot rocks deep underground—will be extracted and piped to greenhouses to reduce expensive heating costs. The project is designed to produce enough thermal power to heat the greenhouses efficiently if suitable hot water is found during drilling.",
+    "key_figures": [
+      "6 geothermal wells to be drilled",
+      "594.49 hectares licensed area",
+      "29.85 MWt target thermal capacity",
+      "100 °C temperature for wells V-8, V-12, V-13",
+      "90 °C temperature for well V-9",
+      "TRY 8.5 million total investment cost",
+      "TRY 6.12 million allocated to drilling",
+      "18.7 MWt thermal energy from previous study"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_b2935f4183"
+  },
+  "https://www.thinkgeoenergy.com/geothermal-drilling-in-tenerife-reports-high-temperature-resource-at-2300-meters-depth/": {
+    "id": "a21c5dd270e3",
+    "url": "https://www.thinkgeoenergy.com/geothermal-drilling-in-tenerife-reports-high-temperature-resource-at-2300-meters-depth/",
+    "title": "Geothermal drilling in Tenerife reports high-temperature resource at 2300 meters depth",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-14T11:10:21+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "An exploratory drilling project in Tenerife has discovered hot rock at 150 degrees Celsius (a temperature useful for energy production) at a depth of 2,300 meters. The rock also showed promising signs of allowing fluid to flow through it, which is important for geothermal systems. Drilling will continue deeper to 3,000 meters to better understand the resource, and Spanish officials are discussing how to make geothermal energy projects commercially viable on the island.",
+    "key_figures": [
+      "150 °C temperature at discovery depth",
+      "2,300 meters depth of discovery",
+      "3,000 meters target drilling depth"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "legislation"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_a21c5dd270"
+  },
+  "https://www.canarymedia.com/articles/geothermal/mazama-energy-raises-135m-oregon-geothermal": {
+    "id": "03190557ca02",
+    "url": "https://www.canarymedia.com/articles/geothermal/mazama-energy-raises-135m-oregon-geothermal",
+    "title": "Mazama Energy raises $135M for superhot geothermal at Oregon volcano",
+    "source": "Canary Media",
+    "published": "2026-09-17T21:00:00+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "A company called Mazama Energy has secured $135 million in funding to develop superhot rock geothermal technology near Newberry Volcano in Oregon. This emerging approach aims to tap into extremely hot rock deep underground to generate clean electricity, though it remains largely unproven as a commercial energy source.",
+    "key_figures": [
+      "$135 million funding"
+    ],
+    "keywords": [
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_822b6d7e3b"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002336?dgcid=rss_sd_all": {
+    "id": "e969488e4273",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002336?dgcid=rss_sd_all",
+    "title": "Geothermal geological characteristics and resource potential assessment of hot dry rock in Saihantala Sag, Erlian Basin, China",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-09-18",
+    "plain_summary": "Researchers studied the underground rock formations in China's Erlian Basin to evaluate whether superhot rock geothermal energy (using heat from extremely hot dry rock deep below the surface) could be developed there. The team analyzed the geological characteristics and assessed how much usable geothermal energy potential exists in this specific region.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_e969488e42"
+  },
+  "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYTFLUTRWZUlOMUl0X29OYTV1QWFXZ0x1TjdCbV80MnVzME9WYldYZEVYMFV2Q2VUTXZvYWMxTkg4cFhnZm9UWnJCdUg2YVZ4bXRncDl3VExORGRzS1VRR3RVRDk2OVBEQXFxdFA1VnZ4Q2Vsc2JUV2V6LXNMWXNXLUU3MWtLOUMzN3hub1ZBTjZQQzNUNmlNdUNxUFpFR0JfbmNsODA3X3RwUDhMZER4ZXhqWjFScTJkdG1KX01PMUY1OHlo?oc=5": {
+    "id": "4d8d5556f257",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYTFLUTRWZUlOMUl0X29OYTV1QWFXZ0x1TjdCbV80MnVzME9WYldYZEVYMFV2Q2VUTXZvYWMxTkg4cFhnZm9UWnJCdUg2YVZ4bXRncDl3VExORGRzS1VRR3RVRDk2OVBEQXFxdFA1VnZ4Q2Vsc2JUV2V6LXNMWXNXLUU3MWtLOUMzN3hub1ZBTjZQQzNUNmlNdUNxUFpFR0JfbmNsODA3X3RwUDhMZER4ZXhqWjFScTJkdG1KX01PMUY1OHlo?oc=5",
+    "title": "Khosla-backed Mazama Energy just raised $135M to drill deeper into superhot-rock geothermal",
+    "source": "TechCrunch",
+    "published": "2026-09-18T00:02:36+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "Mazama Energy, a company backed by climate investor Khosla Ventures, has secured $135 million in funding to advance its superhot rock geothermal technology. Superhot rock geothermal involves drilling deep into extremely hot rock layers beneath the Earth's surface to generate clean energy. This funding will help the company develop the drilling techniques and infrastructure needed to tap into these deep heat sources for electricity production.",
+    "key_figures": [
+      "$135 million funding raised"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_822b6d7e3b"
+  },
+  "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YMUtGUzMtcW1MbFQ1X1l4X0dBVk02Wm4wNVdHN0Z3OV9IYzdFNGFqUk44YWtjWEZjbG9qR0RJVERyVDhLQ0RDWG5YQ1VCcnI1Z1RfWFNRTFFmUlp3Qm9Cb2pVM1QtV2dI?oc=5": {
+    "id": "4be35f6dc4ce",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5YMUtGUzMtcW1MbFQ1X1l4X0dBVk02Wm4wNVdHN0Z3OV9IYzdFNGFqUk44YWtjWEZjbG9qR0RJVERyVDhLQ0RDWG5YQ1VCcnI1Z1RfWFNRTFFmUlp3Qm9Cb2pVM1QtV2dI?oc=5",
+    "title": "Mazama Energy Raises $135 Million to Drill Superhot Geothermal Wells | Ukraine news - #Mezha",
+    "source": "Межа. Новини України.",
+    "published": "2026-09-18T01:03:38+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "Mazama Energy, a company focused on superhot rock geothermal technology, has secured $135 million in funding to support drilling operations for superhot geothermal wells. Superhot rock geothermal refers to harnessing energy from extremely hot rock formations deep underground to generate electricity. This funding will enable the company to advance its drilling projects in this emerging renewable energy sector.",
+    "key_figures": [
+      "$135 million funding"
+    ],
+    "keywords": [
+      "drilling",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_822b6d7e3b"
+  },
+  "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTk56b2xqUzVNUVM4M0lBMG55b0R4UHUtM2dXVThCU3pzay1MSC10SWpaQVlpVEw2b1dqbnJlSEVIS1IyaXJtcWtXUnNMSmQxRUpMckh0bnNWUFlfRUdpR2hSTEI0cEs0Nm5sbGQ4SVNaazFDbWtVM1hjdDBvQnlGOE5zZ21xbU5xd05FUElkYWptZlA3a2R2TVdHd0lxOEF6MTA0WDRkeXIyTllodW52WVk0SnU4UFAtSDhIaEF4c07SAcABQVVfeXFMTk5Oem9salM1TVFTODNJQTBueW9EeFB1LTNnV1U4QlN6c2stTEgtdElqWkFZaVRMNm9Xam5yZUhFSEtSMmlybXFrV1JzTEpkMUVKTHJIdG5zVlBZX0VHaUdoUkxCNHBLNDZubGxkOElTWmsxQ21rVTNYY3Qwb0J5RjhOc2dtcW1OcXdORVBJZGFqbWZQN2tkdk1XR3dJcThBejEwNFg0ZHlyMk5ZaHVudllZNEp1OFBQLUg4SGhBeHNO?oc=5": {
+    "id": "6bf06ff3cfc1",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTk56b2xqUzVNUVM4M0lBMG55b0R4UHUtM2dXVThCU3pzay1MSC10SWpaQVlpVEw2b1dqbnJlSEVIS1IyaXJtcWtXUnNMSmQxRUpMckh0bnNWUFlfRUdpR2hSTEI0cEs0Nm5sbGQ4SVNaazFDbWtVM1hjdDBvQnlGOE5zZ21xbU5xd05FUElkYWptZlA3a2R2TVdHd0lxOEF6MTA0WDRkeXIyTllodW52WVk0SnU4UFAtSDhIaEF4c07SAcABQVVfeXFMTk5Oem9salM1TVFTODNJQTBueW9EeFB1LTNnV1U4QlN6c2stTEgtdElqWkFZaVRMNm9Xam5yZUhFSEtSMmlybXFrV1JzTEpkMUVKTHJIdG5zVlBZX0VHaUdoUkxCNHBLNDZubGxkOElTWmsxQ21rVTNYY3Qwb0J5RjhOc2dtcW1OcXdORVBJZGFqbWZQN2tkdk1XR3dJcThBejEwNFg0ZHlyMk5ZaHVudllZNEp1OFBQLUg4SGhBeHNO?oc=5",
+    "title": "Hephae successfully deploys MWD system at 210 ºC circulation temperature in geothermal well",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-16T17:43:07+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "A company called Hephae has successfully tested a specialized downhole measurement system (a tool that gathers data from deep underground while drilling) in a geothermal well where the circulating fluid reached 210°C (about 410°F). This achievement is significant because these measurement tools typically struggle in extremely hot environments, making this a technical advancement for geothermal drilling operations.",
+    "key_figures": [
+      "210°C circulation temperature"
+    ],
+    "keywords": [
+      "drilling",
+      "sensors",
+      "well construction"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_fe76a754ce"
+  },
+  "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oenZ6UHE2cm0xSlFpTGZHdzdaWjZqZ0JPSm5uUmFOQVRqelVETkhieEJQTUotOEgtSXV0Q0I2V0NKQlcyVEp5aFpDNkk0SGY2b3k2dUhmT2plZTZCUGVkLTQzUkw5WWJlbndLQ2tjcEI0UEZ3TEEw?oc=5": {
+    "id": "0ab96d5c4813",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5oenZ6UHE2cm0xSlFpTGZHdzdaWjZqZ0JPSm5uUmFOQVRqelVETkhieEJQTUotOEgtSXV0Q0I2V0NKQlcyVEp5aFpDNkk0SGY2b3k2dUhmT2plZTZCUGVkLTQzUkw5WWJlbndLQ2tjcEI0UEZ3TEEw?oc=5",
+    "title": "Deep inside superhot granite, a startup's heat-resistant sensor rod is quietly measuring temperature and rock conditions in real time to solve geothermal energy's most expensive drilling problem and unlock a new era of clean on-demand power",
+    "source": "Energies Media",
+    "published": "2026-09-15T19:40:40+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "A startup has developed a heat-resistant sensor rod that can measure temperature and rock conditions deep underground in real time while drilling through superhot granite rock. This technology addresses one of the costliest challenges in superhot rock (SHR) geothermal drilling—understanding what's happening at extreme depths—and could enable more efficient extraction of geothermal energy for clean, on-demand power generation.",
+    "key_figures": [],
+    "keywords": [
+      "drilling",
+      "sensors",
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_0ab96d5c48"
+  },
+  "https://www.thinkgeoenergy.com/webinar-repurposing-oil-and-gas-wells-in-mexico-for-geothermal-cascade-use-25-september-2026/": {
+    "id": "011bfb6588f4",
+    "url": "https://www.thinkgeoenergy.com/webinar-repurposing-oil-and-gas-wells-in-mexico-for-geothermal-cascade-use-25-september-2026/",
+    "title": "Webinar – Repurposing oil and gas wells in Mexico for geothermal cascade use, 25 September 2026",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-18T16:08:06+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "Mexico is exploring ways to capture waste heat from existing oil and gas wells in the southeastern regions and convert it into useful energy through a process called cascade use. The wells contain hot fluids at depths exceeding 7,000 meters with temperatures over 160°C at the source, which can be recovered using special downhole heat exchangers (devices that capture heat without contaminating the oil or gas being extracted). This recovered heat can power small electricity generators on-site and support other applications like food drying and cooling systems, turning an environmental problem into a renewable energy resource.",
+    "key_figures": [
+      "100–200 high-flow gas wells in southeastern Mexico",
+      "80–95°C surface temperatures",
+      "160°C+ bottomhole temperatures",
+      "7,000+ m drilling depth",
+      "500 kWe electricity generation capacity per unit"
+    ],
+    "keywords": [
+      "well construction",
+      "materials",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_011bfb6588"
+  },
+  "https://www.thinkgeoenergy.com/blm-to-hold-nevada-geothermal-lease-sale-on-20-october-2026/": {
+    "id": "e84b0e4cb7e2",
+    "url": "https://www.thinkgeoenergy.com/blm-to-hold-nevada-geothermal-lease-sale-on-20-october-2026/",
+    "title": "BLM to hold Nevada geothermal lease sale on 20 October 2026",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-18T13:48:09+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "The U.S. Bureau of Land Management will auction rights to explore and develop geothermal resources on 83 parcels of public land in Nevada covering nearly 266,000 acres in October 2026. This is a significantly larger lease sale than recent similar auctions in other western states, offering companies the opportunity to search for and develop geothermal energy sources on these lands for an initial 10-year period. Revenue from the leases will be shared between Nevada, the affected counties, and the federal government.",
+    "key_figures": [
+      "83 parcels offered",
+      "265,691 acres in Nevada",
+      "20 October 2026 sale date",
+      "10-year initial lease period",
+      "50% revenue to Nevada state",
+      "25% revenue to counties",
+      "25% revenue to U.S. Treasury",
+      "74,891.930 acres in recent Utah sale",
+      "40,000 acres in upcoming California sale"
+    ],
+    "keywords": [
+      "funding",
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_e84b0e4cb7"
+  },
+  "https://www.thinkgeoenergy.com/drilling-of-geothermal-research-well-in-cologne-dellbruck-germany-completed/": {
+    "id": "03e63306084e",
+    "url": "https://www.thinkgeoenergy.com/drilling-of-geothermal-research-well-in-cologne-dellbruck-germany-completed/",
+    "title": "Drilling of geothermal research well in  Cologne-Dellbrück, Germany completed",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-18T12:07:14+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "A research well in Cologne, Germany has been drilled to investigate whether a type of limestone called Massenkalk could be used as a geothermal reservoir (an underground formation that holds hot water for energy extraction). This 802-meter-deep well is part of a larger German government program testing four different locations to help cities and utilities understand their potential for using geothermal energy to produce heat.",
+    "key_figures": [
+      "802 meters drilling depth",
+      "1000 meters depth in Krefeld",
+      "2027 Münster drilling",
+      "2028 Mönchengladbach drilling"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_03e6330608"
+  },
+  "https://www.thinkgeoenergy.com/financing-approved-for-expansion-of-geothermal-heating-in-riehen-switzerland/": {
+    "id": "40cee851cea4",
+    "url": "https://www.thinkgeoenergy.com/financing-approved-for-expansion-of-geothermal-heating-in-riehen-switzerland/",
+    "title": "Financing approved for expansion of geothermal heating in Riehen, Switzerland",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-17T15:33:08+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "Switzerland approved a loan to expand a geothermal heating system that has been operating in Riehen since 1994. The system currently heats homes for about 8,500 residents using hot water pumped from deep underground wells, and the expansion aims to add service to 4,000 more people by extending the heating network and drilling additional wells. The funding will support this expansion work over the coming years.",
+    "key_figures": [
+      "CHF 7 million (USD 8.5 million) loan",
+      "1500 meters drilling depth",
+      "1988 well drilling date",
+      "8500 current residents served",
+      "4000 additional people targeted",
+      "5.5 km heating network expansion",
+      "CHF 1.2 million in Federal funding for studies",
+      "2022 seismic survey conducted"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_40cee851ce"
+  },
+  "https://www.thinkgeoenergy.com/webinar-geothermal-heating-for-aquatic-facility-in-regina-canada-24-september-2026/": {
+    "id": "009971dc1991",
+    "url": "https://www.thinkgeoenergy.com/webinar-geothermal-heating-for-aquatic-facility-in-regina-canada-24-september-2026/",
+    "title": "Webinar – Geothermal heating for aquatic facility in Regina, Canada; 24 September 2026",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-17T14:31:10+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "A webinar scheduled for September 2026 will discuss how Regina, Canada plans to use geothermal energy (heat from deep underground rock) to heat a new swimming facility. The project involves drilling wells deeper than 2,000 meters into underground saltwater aquifers (rock layers containing water) that are expected to provide 60-degree Celsius water, with speakers sharing lessons learned from similar successful projects in Australia, the Netherlands, and France.",
+    "key_figures": [
+      "2,000 m subsurface depth",
+      "60°C target water temperature",
+      "40 L/s water flow rate"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_009971dc19"
+  },
+  "https://www.thinkgeoenergy.com/drilling-of-new-geothermal-well-launched-to-augment-heating-capacity-in-meaux-france/": {
+    "id": "98d29feba486",
+    "url": "https://www.thinkgeoenergy.com/drilling-of-new-geothermal-well-launched-to-augment-heating-capacity-in-meaux-france/",
+    "title": "Drilling of new geothermal well launched to augment heating capacity in Meaux, France",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-17T12:03:39+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "A new geothermal well (a borehole that taps into heat from underground rock) is being drilled in Meaux, France to expand the city's existing geothermal heating system that supplies warmth to thousands of homes. The well will reach 2,000 meters deep and is expected to start producing heat by late 2026 or early 2027, adding to Meaux's already large district heating network that currently gets most of its renewable energy from geothermal sources.",
+    "key_figures": [
+      "2000 meters drilling depth",
+      "11 geothermal wells across four sites",
+      "34.8 kilometers network length",
+      "18,000 households served",
+      "156 MW thermal capacity",
+      "86% renewable energy contribution",
+      "15,417 vehicles equivalent emissions avoided per year"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_98d29feba4"
+  },
+  "https://www.thinkgeoenergy.com/kaishan-and-gdc-sign-framework-agreement-for-development-of-five-geothermal-sites-in-kenya/": {
+    "id": "d4c8b777105c",
+    "url": "https://www.thinkgeoenergy.com/kaishan-and-gdc-sign-framework-agreement-for-development-of-five-geothermal-sites-in-kenya/",
+    "title": "Kaishan and GDC sign framework agreement for development of five geothermal sites in Kenya",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-16T10:54:47+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "A Chinese company called Kaishan Group has signed an initial agreement with Kenya's Geothermal Development Company to explore developing geothermal energy (heat from deep underground rocks) at five locations in Kenya's East African Rift Valley. These five sites could potentially generate up to 2 gigawatts (a unit of electrical power) of electricity. The agreement also includes plans to use excess electricity during low-demand periods to produce green hydrogen and ammonia, which are clean fuels. While not yet legally binding, due diligence studies will begin immediately to evaluate whether these developments are economically viable.",
+    "key_figures": [
+      "2 GW potential power generation capacity",
+      "Five geothermal blocks being developed"
+    ],
+    "keywords": [
+      "drilling",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_d4c8b77710"
+  },
+  "https://www.thinkgeoenergy.com/drilling-of-geothermal-exploration-well-starts-in-wrzesnia-poland/": {
+    "id": "791ad9599ca7",
+    "url": "https://www.thinkgeoenergy.com/drilling-of-geothermal-exploration-well-starts-in-wrzesnia-poland/",
+    "title": "Drilling of geothermal exploration well starts in Wrzesnia, Poland",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-15T12:00:42+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "Poland has started drilling an exploratory well called GT-1 near Wrzesnia to investigate geothermal resources (heat energy stored underground). The well will reach a depth of 1,460 meters where warm water around 53–54°C is expected to be found. After drilling is complete, tests will determine whether this geothermal resource could be used for heating purposes, though no facility has been decided yet.",
+    "key_figures": [
+      "1460 meters drilling depth",
+      "53–54 °C target temperature",
+      "PLN 12.3 million total cost",
+      "February 2027 completion date",
+      "7 municipalities eligible for funding"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_791ad9599c"
+  },
+  "https://www.thinkgeoenergy.com/independent-assessment-validates-lithium-potential-of-lithium-de-france-portfolio-in-alsace/": {
+    "id": "f0f57aa47da6",
+    "url": "https://www.thinkgeoenergy.com/independent-assessment-validates-lithium-potential-of-lithium-de-france-portfolio-in-alsace/",
+    "title": "Independent assessment reports lithium potential of Lithium de France portfolio in Alsace",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-15T10:00:02+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "A company called Arverne has had an independent expert assessment done on lithium resources in the Alsace region of France. The assessment found that their geothermal sites (hot underground rock used for energy and mineral extraction) contain significant amounts of lithium carbonate equivalent, a form of lithium used in batteries. The company believes these resources could supply lithium for electric vehicle batteries for approximately 30 years.",
+    "key_figures": [
+      "26 million tons lithium carbonate equivalent (Indicated and Inferred Resources)",
+      "43 million tons lithium carbonate equivalent (total exploration potential)",
+      "30 years production potential",
+      "800,000 electric vehicles annual needs"
+    ],
+    "keywords": [
+      "subsurface mapping",
+      "well construction",
+      "drilling"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_f0f57aa47d"
+  },
+  "https://www.thinkgeoenergy.com/exergy-establishes-local-presence-in-kenya-to-support-geothermal-business-in-africa/": {
+    "id": "8d48751cb740",
+    "url": "https://www.thinkgeoenergy.com/exergy-establishes-local-presence-in-kenya-to-support-geothermal-business-in-africa/",
+    "title": "Exergy establishes local presence in Kenya to support geothermal business in Africa",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-15T09:00:23+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "A company called Exergy has opened a new office in Nairobi, Kenya to support geothermal energy projects across Africa. Kenya is a major geothermal market (currently producing electricity from hot rocks underground) and has enormous untapped potential, making it an attractive region for the company to expand its business in clean energy technology.",
+    "key_figures": [
+      "$17 billion private clean energy investment in Africa in 2019",
+      "$40 billion private clean energy investment in Africa in 2024",
+      "1 GW installed geothermal capacity in Kenya",
+      "10 GW geothermal potential in Kenya",
+      "20 GW geothermal potential across East Africa Rift System",
+      "Kenya ranks 6th globally in geothermal market"
+    ],
+    "keywords": [
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_8d48751cb7"
+  },
+  "https://www.thinkgeoenergy.com/blm-to-hold-california-geothermal-lease-sale-on-october-2026/": {
+    "id": "3d72c2a99182",
+    "url": "https://www.thinkgeoenergy.com/blm-to-hold-california-geothermal-lease-sale-on-october-2026/",
+    "title": "BLM to hold California geothermal lease sale on October 2026",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-14T09:05:52+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "The U.S. government's Bureau of Land Management is planning to auction rights to explore and develop geothermal resources (heat from within the Earth) on 40,000 acres across six California counties in October 2026. Companies winning these leases will have 10 years to search for and develop geothermal energy sources, with revenue split between California, local counties, and the federal government. This sale reflects growing investor interest in geothermal development on public lands.",
+    "key_figures": [
+      "19 parcels offered",
+      "40,000 acres total",
+      "October 27, 2026 sale date",
+      "10-year initial lease period",
+      "50% revenue to California",
+      "25% revenue to county",
+      "25% revenue to U.S. Treasury",
+      "$24.7 million in bids from Utah sale"
+    ],
+    "keywords": [
+      "legislation",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_3d72c2a991"
+  },
+  "https://www.thinkgeoenergy.com/manitoba-canada-announces-plans-for-first-large-scale-geothermal-system/": {
+    "id": "abd5006dd184",
+    "url": "https://www.thinkgeoenergy.com/manitoba-canada-announces-plans-for-first-large-scale-geothermal-system/",
+    "title": "Manitoba, Canada announces plans for first large-scale geothermal system",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-14T08:27:06+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "Manitoba is building a large-scale geothermal heating and cooling system—which uses heat from beneath the ground to warm and cool buildings—for a new community development called Southwood Circle in Winnipeg. The system will serve about 1,000 homes starting in 2028 and is expected to reduce greenhouse gas emissions by 400 to 1,600 tons per year. This project is meant to demonstrate that geothermal systems can work effectively at a large scale in Canada.",
+    "key_figures": [
+      "$4 million system cost",
+      "80-acre development area",
+      "1,000 new homes by 2028",
+      "400 to 1,600 tons annual greenhouse gas emissions prevented",
+      "$350 million Net Zero Action Plan budget",
+      "$468,000 funding for deep geothermal roadmap"
+    ],
+    "keywords": [
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_abd5006dd1"
+  },
+  "https://www.thedriller.com/articles/94001-renewed-doe-science-panel-includes-geothermal-heat-among-its-priorities": {
+    "id": "ee46193c8976",
+    "url": "https://www.thedriller.com/articles/94001-renewed-doe-science-panel-includes-geothermal-heat-among-its-priorities",
+    "title": "Renewed DOE Science Panel Includes ‘Geothermal Heat’ Among its Priorities",
+    "source": "The Driller",
+    "published": "2026-09-17T16:24:09+00:00",
+    "date_added": "2026-09-18",
+    "plain_summary": "A U.S. Department of Energy science panel has reinstated geothermal energy as a priority area, with an emphasis on using heat from underground sources for electricity generation. The panel's renewed focus suggests geothermal technology, including advanced methods for accessing extremely hot rocks deep below the surface, is gaining recognition as an important part of the nation's energy strategy.",
+    "key_figures": [],
+    "keywords": [
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_ee46193c89"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002592?dgcid=rss_sd_all": {
+    "id": "05c588228366",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002592?dgcid=rss_sd_all",
+    "title": "CO<sub>2</sub> degassing and subsequent carbonate precipitation behind the outage of geothermal water cooling infrastructure in southern Tunisia: an integrated diagnosis",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-09-18",
+    "plain_summary": "A geothermal cooling system in southern Tunisia failed because carbon dioxide (CO2) gas was escaping from the hot geothermal water, which caused calcium carbonate (a chalky mineral) to build up and clog the infrastructure. Researchers studied what happened to understand why this occurred and how to prevent similar problems in the future.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_05c5882283"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002518?dgcid=rss_sd_all": {
+    "id": "3ece1c7b9249",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002518?dgcid=rss_sd_all",
+    "title": "Optimization of time-window selection in the Epidemic-Type aftershock sequence analysis for accurate estimation of fluid-related reservoir variations in geothermal development",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-09-18",
+    "plain_summary": "This academic research paper examines how to better analyze earthquake patterns in geothermal reservoirs by using a statistical method called Epidemic-Type Aftershock Sequence (ETAS) analysis. The study focuses on improving the accuracy of detecting changes in fluids and rock properties underground during geothermal development by adjusting the time windows used in this earthquake analysis technique.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_3ece1c7b92"
   }
 }
