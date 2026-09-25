@@ -6285,5 +6285,723 @@
     "relevance": "medium",
     "highlight": false,
     "cluster_id": "c_3ece1c7b92"
+  },
+  "https://www.thinkgeoenergy.com/iadc-geothermal-drilling-conference-tackles-drilling-challenges-as-geothermal-scales-17-18-november/": {
+    "id": "217cf88cd1ba",
+    "url": "https://www.thinkgeoenergy.com/iadc-geothermal-drilling-conference-tackles-drilling-challenges-as-geothermal-scales-17-18-november/",
+    "title": "IADC Geothermal Drilling Conference tackles drilling challenges as geothermal scales; 17-18 November",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-25T11:19:22+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "The International Association of Drilling Contractors is hosting a major conference in Copenhagen in November 2026 where over 150 professionals from geothermal and oil & gas industries will discuss how to drill wells safely and efficiently as geothermal energy (which uses heat from underground rocks to generate power) grows globally. The event will cover drilling techniques, well design, regulations, and how geothermal technology can power data centers and urban areas, with a specific focus on superhot rock (SHR) geothermal—the most challenging type involving extremely hot underground reservoirs.",
+    "key_figures": [
+      "150+ professionals attending",
+      "20+ countries represented",
+      "November 17-18, 2026 conference dates"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "legislation"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_217cf88cd1"
+  },
+  "https://www.thinkgeoenergy.com/fervo-energy-reports-first-power-generation-at-cape-station-enhanced-geothermal-site-utah/": {
+    "id": "654c0a0906e2",
+    "url": "https://www.thinkgeoenergy.com/fervo-energy-reports-first-power-generation-at-cape-station-enhanced-geothermal-site-utah/",
+    "title": "Fervo Energy reports first power generation at Cape Station enhanced geothermal site, Utah",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-24T12:48:10+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "Fervo Energy has successfully generated electricity from Cape Station in Utah, marking the first time an Enhanced Geothermal System (EGS)—a technology that creates artificial reservoirs in hot rock deep underground by fracturing it and circulating fluid through it—has powered the electrical grid. The initial 33-megawatt (MW) unit is operating, with plans to expand to 100 MW by early 2027 and eventually 900 MW total, enough to supply nearly 1 million homes with clean electricity annually.",
+    "key_figures": [
+      "33 MW initial generation capacity",
+      "100 MW Phase 1 capacity",
+      "400 MW Phase 2 capacity",
+      "900 MW total contracted capacity",
+      "1 million U.S. homes annual power equivalent",
+      "396 MW power purchase agreement with Google",
+      "October 1, 2026 expected commercial operations date (first unit)",
+      "January 1, 2027 expected commercial operations date (full Phase 1)",
+      "2028 expected commercial operations date (Phase 2)"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_654c0a0906"
+  },
+  "https://www.thinkgeoenergy.com/sonoma-clean-power-secures-20m-in-state-funding-to-advance-california-geothermal-initiative/": {
+    "id": "145a36a3938a",
+    "url": "https://www.thinkgeoenergy.com/sonoma-clean-power-secures-20m-in-state-funding-to-advance-california-geothermal-initiative/",
+    "title": "Sonoma Clean Power secures $20M in state funding to advance California geothermal initiative",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-24T11:34:31+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "Sonoma Clean Power has secured $20 million in state funding to explore and develop geothermal energy—heat from deep underground rock—in California. The company plans to develop up to 600 megawatts (a unit of power output) of next-generation geothermal capacity through pilot projects with partners like Cyrq Energy and Eavor Technologies, with private companies matching the state investment dollar-for-dollar to reach $40 million total.",
+    "key_figures": [
+      "$20 million state funding",
+      "$40 million total funding (with private match)",
+      "600 MW geothermal capacity target",
+      "20 MW per pilot project",
+      "three pilot geothermal projects"
+    ],
+    "keywords": [
+      "funding",
+      "legislation",
+      "well construction"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_145a36a393"
+  },
+  "https://www.thinkgeoenergy.com/tender-exploratory-geothermal-drilling-in-two-sites-in-belgrade-serbia/": {
+    "id": "632d01d2b042",
+    "url": "https://www.thinkgeoenergy.com/tender-exploratory-geothermal-drilling-in-two-sites-in-belgrade-serbia/",
+    "title": "Tender – Exploratory geothermal drilling in two sites in Belgrade, Serbia",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-23T15:54:36+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "A public utility company in Belgrade, Serbia is seeking contractors to drill exploratory wells at two heating plant locations to test whether geothermal energy (heat from deep underground rock) can be used there. The drilling program will collect temperature data, rock samples, and underground water information to understand the geology and confirm whether these sites are suitable for geothermal district heating systems (which distribute heated water to buildings).",
+    "key_figures": [],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_632d01d2b0"
+  },
+  "https://www.thinkgeoenergy.com/drilling-for-lumut-balai-3-geothermal-project-in-indonesia-proceeds-to-second-well/": {
+    "id": "1be7b90a02ef",
+    "url": "https://www.thinkgeoenergy.com/drilling-for-lumut-balai-3-geothermal-project-in-indonesia-proceeds-to-second-well/",
+    "title": "Drilling for Lumut Balai 3 geothermal project in Indonesia proceeds to second well",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-23T08:56:47+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "An Indonesian energy company is drilling a second well for a geothermal project (a facility that harnesses heat from deep underground rock to generate electricity) in South Sumatra. The project aims to build a 55-megawatt power plant—equivalent to powering a mid-sized city—with operations expected to begin by 2030. The first well was successfully drilled to 2,500 meters deep, and the second well should be completed within 40 days using the same drilling equipment.",
+    "key_figures": [
+      "55 MW plant capacity",
+      "2500 meters drilling depth",
+      "40 days drilling timeline",
+      "2030 target commercial operations date",
+      "July 2025 Unit 2 online date",
+      "July 2026 first well start date"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_1be7b90a02"
+  },
+  "https://www.thinkgeoenergy.com/sage-to-deploy-egs-approach-at-ormats-blue-mountain-geothermal-site-in-nevada/": {
+    "id": "9d7277870660",
+    "url": "https://www.thinkgeoenergy.com/sage-to-deploy-egs-approach-at-ormats-blue-mountain-geothermal-site-in-nevada/",
+    "title": "Sage to deploy EGS approach at Ormat’s Blue Mountain geothermal site in Nevada",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-22T16:26:53+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "Sage Geosystems is building an Enhanced Geothermal Systems (EGS) project—a technology that creates artificial reservoirs by circulating fluid through hot rock underground to extract heat—at an existing geothermal power plant in Nevada. The company plans to drill two wells by late 2026 and start generating electricity by 2027, using their proprietary method to tap into superhot rock resources and deliver reliable power 24/7.",
+    "key_figures": [
+      "~$100 million Series B financing",
+      "120 days of operations (SMECI facility validation)",
+      "150 MW geothermal power agreement with Meta",
+      "Fourth quarter 2026 drilling start",
+      "2027 first electricity generation",
+      "2028 full-scale production"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_0bc1772ec3"
+  },
+  "https://www.thinkgeoenergy.com/exergy-launches-us-operations-to-support-rapid-geothermal-growth-across-north-america/": {
+    "id": "5dfab2921cd2",
+    "url": "https://www.thinkgeoenergy.com/exergy-launches-us-operations-to-support-rapid-geothermal-growth-across-north-america/",
+    "title": "Exergy launches US operations to support rapid geothermal growth across North America",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-22T15:31:05+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "Exergy, a company that makes turbine systems for converting heat into electricity, is opening a US headquarters in Houston to support the growing geothermal energy industry in North America. The company has won an award for its Gemini turbine, which is designed to work with Enhanced Geothermal Systems (EGS)—a method of creating geothermal resources by fracturing hot rock deep underground—and can generate up to 60 megawatts of power from a single unit, making geothermal plants simpler and cheaper to build.",
+    "key_figures": [
+      "60 MW single turbine capacity",
+      "600 MW installed capacity worldwide",
+      "550 MW in geothermal applications",
+      "50th Geothermal Rising Conference",
+      "September 22 awards ceremony date"
+    ],
+    "keywords": [
+      "funding",
+      "electronics"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_5dfab2921c"
+  },
+  "https://www.thinkgeoenergy.com/us-doe-announces-99m-funding-for-enhanced-geothermal-field-tests-and-exploration-drilling/": {
+    "id": "28a64555d866",
+    "url": "https://www.thinkgeoenergy.com/us-doe-announces-99m-funding-for-enhanced-geothermal-field-tests-and-exploration-drilling/",
+    "title": "US DOE announces $99M funding for Enhanced Geothermal field tests and exploration drilling",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-22T11:51:13+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "The US Department of Energy is giving $99 million to 21 projects that will test and explore geothermal energy resources across the country. Five projects will conduct field tests of enhanced geothermal systems (EGS)—a technology that creates artificial reservoirs in superhot rock by drilling wells and using pressure to fracture the rock—while sixteen projects will drill exploratory wells to find and characterize promising geothermal sites. All data from these projects will be made publicly available to help advance geothermal technology development.",
+    "key_figures": [
+      "$99 million total funding",
+      "21 projects selected",
+      "5 field-scale EGS test projects",
+      "16 exploration drilling projects",
+      "200 °C temperature for Fervo geophone array",
+      "265 to 365 °C bottomhole temperatures at Newberry Volcano",
+      "150 °C target temperature at Wind River Valley",
+      "204 °C target temperature at Sierra Army Depot"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_0943ab6c35"
+  },
+  "https://www.thinkgeoenergy.com/geothermal-drilling-plans-in-krakow-poland-pushed-back-to-2027/": {
+    "id": "2d936cb09d96",
+    "url": "https://www.thinkgeoenergy.com/geothermal-drilling-plans-in-krakow-poland-pushed-back-to-2027/",
+    "title": "Geothermal drilling plans in Krakow, Poland pushed back to 2027",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-21T11:06:25+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "A planned geothermal drilling project in Krakow, Poland is being delayed from 2026 to 2027 because a high-pressure gas pipeline will be built through the intended drill site. Researchers expect to find hot water around 1,820 meters deep that could potentially heat local buildings and possibly create geothermal pools (public pools heated by naturally hot underground water). The Polish government approved about $3.25 million in funding for this exploratory well to test whether the resource is viable for heating applications.",
+    "key_figures": [
+      "1,820 meters drilling depth",
+      "55°C target temperature",
+      "PLN 12.33 million (USD 3.25 million) government funding",
+      "PLN 15.2 million total project cost",
+      "DN700 gas pipeline diameter"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_2d936cb09d"
+  },
+  "https://www.thinkgeoenergy.com/philippines-edc-dismisses-sale-offer-as-it-invests-in-further-geothermal-capacity-expansion/": {
+    "id": "aeb9c129d141",
+    "url": "https://www.thinkgeoenergy.com/philippines-edc-dismisses-sale-offer-as-it-invests-in-further-geothermal-capacity-expansion/",
+    "title": "Philippines’ EDC dismisses sale offer as it invests in further geothermal capacity expansion",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-21T09:45:02+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "A Philippine energy company is rejecting a $5 billion takeover offer and instead investing over $1 billion to expand its geothermal operations—the process of extracting heat energy from hot rocks deep underground to generate electricity. The company plans to rebuild a retired power plant with roughly double its original capacity and drill new wells at another geothermal site, with projects expected to be operational by 2030-2031.",
+    "key_figures": [
+      "PHP 70 billion (USD 1.12 billion) investment",
+      "125 MW original Upper Mahiao plant capacity",
+      "200-400 MW target capacity for new Upper Mahiao plant",
+      "80 MW current Mount Apo output",
+      "104 MW Mount Apo installed capacity",
+      "450 MW grid interconnection project",
+      "2030-2031 commercial operation target",
+      "40% foreign ownership limit in Philippines",
+      "USD 5 billion acquisition offer",
+      "30 years of Upper Mahiao operations"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_cb57b4ab41"
+  },
+  "https://www.energy.gov/hgeo/geothermal/articles/21-projects-selected-advance-egs-field-tests-and-exploration-drilling": {
+    "id": "d31258d84857",
+    "url": "https://www.energy.gov/hgeo/geothermal/articles/21-projects-selected-advance-egs-field-tests-and-exploration-drilling",
+    "title": "21 Projects Selected to Advance EGS Field Tests and Exploration Drilling",
+    "source": "DOE Office of Geothermal",
+    "published": "2026-09-21T13:30:11+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "The U.S. Department of Energy has chosen 21 projects to help develop geothermal energy technology, including five projects testing enhanced geothermal systems (EGS—a method of creating artificial geothermal reservoirs in hot rock formations) and 16 projects exploring new geothermal sites. The government will provide up to $99 million for initial work, and all data collected will be made publicly available to help industry and researchers learn from these field tests.",
+    "key_figures": [
+      "21 projects selected",
+      "5 EGS field test projects",
+      "16 exploration drilling projects",
+      "$99 million funding for first budget period"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_0943ab6c35"
+  },
+  "https://www.thedriller.com/articles/94003-the-geothermal-renaissance-scaling-the-subsurface-at-grc-2026": {
+    "id": "1e4f05e38014",
+    "url": "https://www.thedriller.com/articles/94003-the-geothermal-renaissance-scaling-the-subsurface-at-grc-2026",
+    "title": "The Geothermal Renaissance: Scaling the Subsurface at GRC 2026",
+    "source": "The Driller",
+    "published": "2026-09-23T12:00:00+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "The geothermal industry is experiencing significant growth and activity right now, moving beyond theoretical projections into actual physical development. Companies and researchers are actively drilling wells and building infrastructure to harness heat from deep underground rock formations for energy production.",
+    "key_figures": [],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_1e4f05e380"
+  },
+  "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZEUxV08yTkgtVzUtemlvUEV3TGc3akpWSFp0aTJwVXpHYmxSbFVuMmxiZ3BPbFBPdW9WM2pFVUlaTmF3SjZGc1lxMTEwNXFTMzU2amZwVW4xRUR5R3BxMWc5VWxQd0V5VFg0bVBuY1N5OG51NlBFQkFtUkJ0dlhfOVlLaVcySTZKRkVURXk1clF5T0hDVmNibUhqdF9Ya2N5dlloOG5GWTBvSm4zMEpRZ01Ec3dycDFEM25PTlBSQWxIc1JZWU80dF9COTVoUnN2WURsV0N5NktqU21v?oc=5": {
+    "id": "54b9d1edb236",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZEUxV08yTkgtVzUtemlvUEV3TGc3akpWSFp0aTJwVXpHYmxSbFVuMmxiZ3BPbFBPdW9WM2pFVUlaTmF3SjZGc1lxMTEwNXFTMzU2amZwVW4xRUR5R3BxMWc5VWxQd0V5VFg0bVBuY1N5OG51NlBFQkFtUkJ0dlhfOVlLaVcySTZKRkVURXk1clF5T0hDVmNibUhqdF9Ya2N5dlloOG5GWTBvSm4zMEpRZ01Ec3dycDFEM25PTlBSQWxIc1JZWU80dF9COTVoUnN2WURsV0N5NktqU21v?oc=5",
+    "title": "DOE targets next-gen geothermal development with $99M for field-scale tests, exploration drilling",
+    "source": "power-eng.com",
+    "published": "2026-09-24T20:53:45+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "The U.S. Department of Energy is investing $99 million to support next-generation geothermal energy development, with funding directed toward field-scale testing and exploration drilling projects. This funding aims to advance superhot rock geothermal technology by supporting real-world demonstrations and subsurface exploration activities that will help prove the viability of tapping into extremely hot rock formations deep underground for energy production.",
+    "key_figures": [
+      "$99 million funding"
+    ],
+    "keywords": [
+      "drilling",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_0943ab6c35"
+  },
+  "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGJhWDZfM05aM19EdzBZUC05eXVrZUh2dWpTTjNmUkNyOVFYa3BCbVFvTzZ0TGo1cncxVDFfOHIwYmgtSGFiWVBWOUtOOUJ3T2R1WFczT0EtUWNXV3lHTVBZWGZZZ3B1d0FiMkc4S003elR1NDh1QXpTZXp1ai1TVFQ1R0drd19yMFBxQzhSS3VOTG0zMVB4b1d5U0NuS0htUm1TZEc4R2pDdHk4aEc3VzBEVk04WHREYjFQN2hR0gG-AUFVX3lxTE5MYmFYNl8zTlozX0R3MFlQLTl5dWtlSHZ1alNOM2ZSQ3I5UVhrcEJtUW9PNnRMajVydzFUMV84cjBiaC1IYWJZUFY5S045QndPZHVYVzNPQS1RY1dXeUdNUFlYZllncHV3QWIyRzhLTTd6VHU0OHVBelNlenVqLVNUVDVHR2t3X3IwUHFDOFJLdU5MbTMxUHhvV3lTQ25LSG1SbVNkRzhHakN0eThoRzdXMERWTThYdERiMVA3aFE?oc=5": {
+    "id": "5adddc00ea45",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTGJhWDZfM05aM19EdzBZUC05eXVrZUh2dWpTTjNmUkNyOVFYa3BCbVFvTzZ0TGo1cncxVDFfOHIwYmgtSGFiWVBWOUtOOUJ3T2R1WFczT0EtUWNXV3lHTVBZWGZZZ3B1d0FiMkc4S003elR1NDh1QXpTZXp1ai1TVFQ1R0drd19yMFBxQzhSS3VOTG0zMVB4b1d5U0NuS0htUm1TZEc4R2pDdHk4aEc3VzBEVk04WHREYjFQN2hR0gG-AUFVX3lxTE5MYmFYNl8zTlozX0R3MFlQLTl5dWtlSHZ1alNOM2ZSQ3I5UVhrcEJtUW9PNnRMajVydzFUMV84cjBiaC1IYWJZUFY5S045QndPZHVYVzNPQS1RY1dXeUdNUFlYZllncHV3QWIyRzhLTTd6VHU0OHVBelNlenVqLVNUVDVHR2t3X3IwUHFDOFJLdU5MbTMxUHhvV3lTQ25LSG1SbVNkRzhHakN0eThoRzdXMERWTThYdERiMVA3aFE?oc=5",
+    "title": "US DOE announces $99M funding for Enhanced Geothermal field tests and exploration drilling",
+    "source": "thinkgeoenergy.com",
+    "published": "2026-09-22T11:51:13+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "The U.S. Department of Energy is providing $99 million to support Enhanced Geothermal Systems (EGS)—a method of extracting heat from extremely hot rock deep underground by creating artificial reservoirs—through field testing and exploration drilling projects. This funding aims to advance the technology needed to tap into superhot rock geothermal resources for clean energy production.",
+    "key_figures": [
+      "$99 million funding"
+    ],
+    "keywords": [
+      "drilling",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_0943ab6c35"
+  },
+  "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX01FaFRrLVotNl9XNl91VzBSMTJyX0stbnhuLVk1dlRRdm9MdUVRTHBRbUdqWm5xS0tGRU1ESUlYclp1SmpjaFhRZ1BpeHBDOGFSVnZCcEE5Z2VjdXRuY3BHOFJGMXdwWEhTR09oanM5RjBDOFROS2dXb2xxaVJkNm84cld2eVFBX0FSZDI1SVRIQTJFamhIdEszQm9vWUJOWmNIenl5dEh2VzZhb0ctVzB4a1daeE1m?oc=5": {
+    "id": "2208d9a3ba2d",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOX01FaFRrLVotNl9XNl91VzBSMTJyX0stbnhuLVk1dlRRdm9MdUVRTHBRbUdqWm5xS0tGRU1ESUlYclp1SmpjaFhRZ1BpeHBDOGFSVnZCcEE5Z2VjdXRuY3BHOFJGMXdwWEhTR09oanM5RjBDOFROS2dXb2xxaVJkNm84cld2eVFBX0FSZDI1SVRIQTJFamhIdEszQm9vWUJOWmNIenl5dEh2VzZhb0ctVzB4a1daeE1m?oc=5",
+    "title": "21 Projects Selected to Advance EGS Field Tests and Exploration Drilling",
+    "source": "Department of Energy (.gov)",
+    "published": "2026-09-19T12:55:00+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "The Department of Energy has selected 21 projects to help advance Enhanced Geothermal Systems (EGS), which are engineered underground reservoirs created by fracturing hot rock formations to extract heat for energy production. These projects will focus on conducting field tests and exploration drilling to develop and validate superhot rock geothermal technology.",
+    "key_figures": [
+      "21 projects selected"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_0943ab6c35"
+  },
+  "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRFJrd1Y0dGs0TUIzWHp3MW9nLTBiT29uR1kxZjBvRzZtenI0SFRidWFpZkNGVWNwZmNKSW15dGxxNjBPTjdjYVhnUHFJTzZVS3g2Qk9BRTZfWF9DRUlUMzNWQnM0Ry1OWUdYc1dzUDlMMHlVWkF2NTFxVUdUZC1GWS04Y2liclR6ZmxsTHF5bFVPcEh5T2pCUE9CUHVBdWpRLUlWb0pCdzFhVDcwNlJUQ1V4T19vMzJ5ZzlEbXRqWVRCcGl4SzNrbGFCWTMtT2wzR2N2ckRIdVV5ckd1MnVwRTVuMzlIYlE?oc=5": {
+    "id": "9e1ea1aa7d6c",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRFJrd1Y0dGs0TUIzWHp3MW9nLTBiT29uR1kxZjBvRzZtenI0SFRidWFpZkNGVWNwZmNKSW15dGxxNjBPTjdjYVhnUHFJTzZVS3g2Qk9BRTZfWF9DRUlUMzNWQnM0Ry1OWUdYc1dzUDlMMHlVWkF2NTFxVUdUZC1GWS04Y2liclR6ZmxsTHF5bFVPcEh5T2pCUE9CUHVBdWpRLUlWb0pCdzFhVDcwNlJUQ1V4T19vMzJ5ZzlEbXRqWVRCcGl4SzNrbGFCWTMtT2wzR2N2ckRIdVV5ckd1MnVwRTVuMzlIYlE?oc=5",
+    "title": "Sage Geosystems Selects Ormat’s Blue Mountain Power Plant for Next Commercial-Scale EGS Facility",
+    "source": "Business Wire",
+    "published": "2026-09-22T12:00:00+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "Sage Geosystems has chosen Ormat's Blue Mountain Power Plant as the location for its next commercial-scale Enhanced Geothermal Systems (EGS) facility, which is a technology that creates artificial reservoirs in hot rock deep underground to generate electricity. This represents a significant step forward in developing superhot rock geothermal technology at a commercial scale.",
+    "key_figures": [],
+    "keywords": [
+      "drilling",
+      "well construction"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_0bc1772ec3"
+  },
+  "https://www.thinkgeoenergy.com/ecuador-geothermal-roundtable-kicks-off-with-workshop-for-geothermal-development-plan/": {
+    "id": "cdc5b57d56c7",
+    "url": "https://www.thinkgeoenergy.com/ecuador-geothermal-roundtable-kicks-off-with-workshop-for-geothermal-development-plan/",
+    "title": "Ecuador Geothermal Roundtable kicks off with workshop for Geothermal Development Plan",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-25T13:37:18+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "Ecuador has launched a Geothermal Roundtable, a collaborative forum supported by the Inter-American Development Bank, to develop a national plan for geothermal energy (electricity generated from heat deep beneath the Earth's surface). The initiative brings together government agencies, research institutions, and energy companies to address technical, regulatory, economic, environmental, and direct-use aspects of geothermal development. Ecuador has volcanic regions with significant geothermal potential but has made limited progress in developing these resources so far.",
+    "key_figures": [],
+    "keywords": [
+      "legislation",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_cdc5b57d56"
+  },
+  "https://www.thinkgeoenergy.com/sufrage-project-to-accelerate-geothermal-development-in-france-switzerland-border-region/": {
+    "id": "57044831cc1a",
+    "url": "https://www.thinkgeoenergy.com/sufrage-project-to-accelerate-geothermal-development-in-france-switzerland-border-region/",
+    "title": "SUFRAGE project to accelerate geothermal development in France-Switzerland border region",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-25T09:00:50+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "A new cross-border project called SUFRAGE is bringing together French and Swiss organizations to speed up geothermal energy development in their shared border region. The project will share knowledge between the two countries—Switzerland's expertise in drilling geothermal probes (equipment that extracts heat from underground) and France's experience with deep geothermal systems (tapping into heat far below the surface). Over the next four years, the project will map underground resources, create guidelines to remove barriers to development, and build a digital platform to monitor geothermal installations.",
+    "key_figures": [
+      "CHF 2.4 million total funding",
+      "USD 2.8 million total funding",
+      "Project duration until 31 December 2028",
+      "5 partner organizations",
+      "2D and 3D subsurface mapping of French Geneva area"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "funding",
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_57044831cc"
+  },
+  "https://www.thinkgeoenergy.com/edc-plans-capacity-increase-via-modernization-of-palinpinon-geothermal-power-plant-in-philippines/": {
+    "id": "a15a739ce3eb",
+    "url": "https://www.thinkgeoenergy.com/edc-plans-capacity-increase-via-modernization-of-palinpinon-geothermal-power-plant-in-philippines/",
+    "title": "EDC plans capacity increase via modernization of Palinpinon geothermal power plant in Philippines",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-25T07:40:37+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "A major Philippine energy company is upgrading an existing geothermal power plant (a facility that taps heat from deep underground rocks to generate electricity) to produce more power without needing to extract additional steam from the ground. The upgrade will replace older turbine generators with more powerful newer models, increasing the plant's output from 112.5 MW to 126 MW and extending its operational life by several years. The company is also planning a larger redevelopment project at another site that could create a new plant with 200 to 400 MW of capacity, demonstrating that geothermal resources can support decades of continuous energy production.",
+    "key_figures": [
+      "112.5 MW current installed capacity",
+      "126 MW target installed capacity",
+      "13.5 MW capacity increase",
+      "37.5 MW turbine generator units (current)",
+      "42 MW turbine generator units (replacement)",
+      "125 MW Upper Mahiao plant capacity",
+      "200 to 400 MW estimated new plant capacity",
+      "PHP 70 billion redevelopment investment",
+      "USD 1.12 billion redevelopment investment",
+      "end of 2027 completion target"
+    ],
+    "keywords": [
+      "well construction",
+      "materials",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_cb57b4ab41"
+  },
+  "https://www.thinkgeoenergy.com/maren-maras-plans-99-mw-geothermal-power-development-in-aydin-turkiye/": {
+    "id": "3a7badb3d95b",
+    "url": "https://www.thinkgeoenergy.com/maren-maras-plans-99-mw-geothermal-power-development-in-aydin-turkiye/",
+    "title": "Maren Maras plans 99-MW geothermal power development in Aydin, Türkiye",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-24T10:08:39+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "A Turkish energy company is planning to build three geothermal power plants in Aydin that will generate electricity from heat in the Earth's crust. The plants will use binary cycle technology (a method that converts geothermal heat into electricity) and are expected to produce enough power for hundreds of thousands of homes annually. The project involves drilling multiple wells to access hot rock underground and pump geothermal fluid to the surface.",
+    "key_figures": [
+      "99 MW total installed capacity",
+      "33 MW capacity per power plant",
+      "27 well locations",
+      "6 production wells per power plant",
+      "3 reinjection wells per power plant",
+      "5,400 tons geothermal fluid requirement",
+      "1,800 tons geothermal fluid per unit per hour",
+      "730 GWh annual electricity generation",
+      "1.82 billion TRY (37.25 million USD) total investment cost",
+      "13 MWe Nezihe Beren 2 plant",
+      "33 MWe Emir plant",
+      "15% Turkish geothermal installed capacity (Kipas Holding)"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_3a7badb3d9"
+  },
+  "https://www.thinkgeoenergy.com/tender-infrastructure-and-equipment-for-geothermal-slim-hole-drilling-in-grenada/": {
+    "id": "4ee4fb61485d",
+    "url": "https://www.thinkgeoenergy.com/tender-infrastructure-and-equipment-for-geothermal-slim-hole-drilling-in-grenada/",
+    "title": "Tender – Infrastructure and equipment for geothermal slim hole drilling in Grenada",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-24T08:49:11+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "Grenada's government is seeking bids for construction work needed before drilling two exploratory geothermal wells (boreholes used to test for heat beneath the earth). The work includes building roads, water systems, and electrical equipment at two drilling sites. If successful, this project could eventually lead to a 15-megawatt power plant (a facility generating electricity) that would supply nearly half of Grenada's electricity needs.",
+    "key_figures": [
+      "15 MW plant capacity",
+      "44% of Grenada's electricity needs",
+      "6 November 2026 bidding deadline",
+      "2 exploratory wells",
+      "10 MW Dominica power plant"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_4ee4fb6148"
+  },
+  "https://www.thinkgeoenergy.com/draft-guidelines-for-philippine-geothermal-de-risking-facility-opened-for-public-consultation/": {
+    "id": "ed43112f7d34",
+    "url": "https://www.thinkgeoenergy.com/draft-guidelines-for-philippine-geothermal-de-risking-facility-opened-for-public-consultation/",
+    "title": "Draft guidelines for Philippine geothermal de-risking facility opened for public consultation",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-23T17:06:52+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "The Philippines has created a new funding program called the Philippine Geothermal Resource Derisking Facility to help companies explore for geothermal energy (heat from deep underground rock). The program provides loans to cover half the costs of early exploration work like drilling test wells, with companies contributing the other half. If drilling shows the site isn't commercially viable, the loan converts to a grant, meaning no repayment is required.",
+    "key_figures": [
+      "PHP 10.7 billion (USD 171 million) total funding",
+      "50% of eligible costs covered by facility",
+      "6-year loan term",
+      "12 entities expressed interest",
+      "6-month conditional Notice to Proceed validity"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding",
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_ed43112f7d"
+  },
+  "https://www.thinkgeoenergy.com/a-new-era-in-geothermal-investment-igis-2026-to-be-held-26-27-november-in-cappadocia-turkiye/": {
+    "id": "28dee8cfcbc3",
+    "url": "https://www.thinkgeoenergy.com/a-new-era-in-geothermal-investment-igis-2026-to-be-held-26-27-november-in-cappadocia-turkiye/",
+    "title": "A New Era in Geothermal Investment: IGIS 2026 to be held 26-27 November in Cappadocia, Türkiye",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-22T17:10:20+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "An international conference called IGIS 2026 will bring together investors, companies, and geothermal experts in Turkey in November 2026 to discuss the future of geothermal energy. The summit will focus on emerging technologies including closed-loop geothermal systems (where fluid circulates continuously through hot rock without being extracted), ways to access deep hot rock resources, and new business models for using geothermal energy in agriculture, industry, and tourism alongside electricity generation.",
+    "key_figures": [],
+    "keywords": [
+      "funding",
+      "materials"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_28dee8cfcb"
+  },
+  "https://www.thinkgeoenergy.com/full-steam-ahead-women-in-geothermal-premiering-at-riff/": {
+    "id": "1c4ecd9c82cd",
+    "url": "https://www.thinkgeoenergy.com/full-steam-ahead-women-in-geothermal-premiering-at-riff/",
+    "title": "Full Steam Ahead: women in geothermal, premiering at RIFF",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-21T21:30:53+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "A documentary film called 'Full Steam Ahead' is premiering at the Reykjavík International Film Festival, following women working in geothermal energy (heat from the Earth used for power) across Iceland, Japan, and Kenya. The film explores the barriers women face in this male-dominated industry and highlights how visibility through mentors and role models can help more women enter and advance in geothermal careers. The filmmakers found that despite progress in hiring more women in technical roles, they still struggle to reach senior leadership positions globally.",
+    "key_figures": [
+      "89-minute documentary length",
+      "3 countries featured (Iceland, Japan, Kenya)",
+      "2 screening dates at festival (September 26 and 30, 2026)"
+    ],
+    "keywords": [
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_1c4ecd9c82"
+  },
+  "https://www.thinkgeoenergy.com/geothermal-rising-announces-winners-of-inaugural-tech-awards/": {
+    "id": "76822224dd01",
+    "url": "https://www.thinkgeoenergy.com/geothermal-rising-announces-winners-of-inaugural-tech-awards/",
+    "title": "Geothermal Rising announces winners of inaugural Tech Awards",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-21T15:32:00+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "Geothermal Rising, an industry organization, has announced the first winners of its Tech Awards program, which recognizes new technologies that solve major challenges in geothermal energy development. The winning technologies address key areas like drilling (the process of creating wells into the earth), fracturing rocks to release heat, turbine efficiency, and mapping underground conditions. These awards aim to highlight innovations that make geothermal projects cheaper, less risky, and easier to build in more locations.",
+    "key_figures": [],
+    "keywords": [
+      "drilling",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_76822224dd"
+  },
+  "https://www.thinkgeoenergy.com/regulatory-stability-and-financing-structures-for-geothermal-highlighted-at-budapest-summit/": {
+    "id": "5ccacc1f0b9d",
+    "url": "https://www.thinkgeoenergy.com/regulatory-stability-and-financing-structures-for-geothermal-highlighted-at-budapest-summit/",
+    "title": "Regulatory stability and financing structures for geothermal highlighted at Budapest summit",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-09-21T13:44:23+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "Leaders from Europe and beyond gathered at a conference in Budapest to discuss how geothermal energy—heat extracted from within the Earth—can help meet climate goals and provide reliable energy. Speakers emphasized that governments need to create stable, predictable policies to attract investment, and that different financing strategies are needed for different stages of geothermal projects. They noted that geothermal technology is ready to deploy across a wide range of depths and applications, but success depends on long-term government commitment and access to capital.",
+    "key_figures": [
+      "25 countries represented",
+      "100 companies represented",
+      "90 percent of Icelandic households heated by geothermal",
+      "30 percent of Europe's district heating needs by 2050",
+      "10-25 percent of heating and cooling demand by 2050",
+      "10 percent of electricity consumption",
+      "5 metres to 5 kilometres drilling depths",
+      "1950s age of Hungarian district heating network"
+    ],
+    "keywords": [
+      "funding",
+      "legislation",
+      "subsurface mapping",
+      "drilling"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_5ccacc1f0b"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002646?dgcid=rss_sd_all": {
+    "id": "1294019fa256",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002646?dgcid=rss_sd_all",
+    "title": "Lithospheric water contribution in geothermal systems of northern Sumatra: Insights from OLWC-based isotope reconstruction and Cl–B–Li geochemistry",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-09-25",
+    "plain_summary": "This scientific study examines the sources of water in geothermal systems located in northern Sumatra by analyzing chemical markers like chlorine, boron, and lithium. Researchers used isotope reconstruction (a method of tracing the origin of elements) to understand how much water comes from deep rock layers versus other sources, which helps explain how these natural heat systems work.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_1294019fa2"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002579?dgcid=rss_sd_all": {
+    "id": "b0f5f45908f1",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002579?dgcid=rss_sd_all",
+    "title": "Overall performance analysis of a stackable thermoelectric generator for medium-low temperature geothermal resources",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-09-25",
+    "plain_summary": "Researchers have developed and analyzed a stackable thermoelectric generator (a device that converts heat directly into electricity) designed to work with medium-low temperature geothermal resources (heat from the Earth that is moderately warm rather than extremely hot). This study examines how well the generator performs when multiple units are stacked together, which could make geothermal energy more efficient for locations where the underground heat isn't extremely hot.",
+    "key_figures": [],
+    "keywords": [
+      "materials",
+      "electronics"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_b0f5f45908"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002622?dgcid=rss_sd_all": {
+    "id": "1669f3b08d5f",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002622?dgcid=rss_sd_all",
+    "title": "Evaluation of silica scaling potential for selected wells within Olkaria Domes geothermal field, Nakuru county, Kenya",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-09-25",
+    "plain_summary": "Researchers studied how silica (a mineral found in rocks) builds up and hardens inside geothermal wells at the Olkaria Domes field in Kenya. This silica scaling is a common problem that can damage or block wells used to extract heat from hot rock underground, so understanding when and where it occurs helps engineers prevent costly equipment failures.",
+    "key_figures": [],
+    "keywords": [
+      "well construction",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_1669f3b08d"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002634?dgcid=rss_sd_all": {
+    "id": "a26edb9e076b",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002634?dgcid=rss_sd_all",
+    "title": "Geothermal gas geochemistry in a source-pathway-reservoir framework: review, applications, and limitations",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-09-25",
+    "plain_summary": "This is a scientific review article examining how gases found in geothermal systems can be studied and understood using a 'source-pathway-reservoir' framework—essentially tracking where the gases come from, how they travel underground, and where they accumulate. The article discusses how this approach helps identify and develop geothermal resources, while also noting where this method has limitations in real-world applications.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_a26edb9e07"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0377027326002210?dgcid=rss_sd_all": {
+    "id": "c40d94f76208",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0377027326002210?dgcid=rss_sd_all",
+    "title": "A low-cost IoT-based accumulation chamber for measuring diffuse CO<sub>2</sub> fluxes: Design, user-friendly software, calibration, and field validation at Nea Kameni volcano (Santorini)",
+    "source": "J. Volcanology & Geothermal Research (Elsevier)",
+    "published": null,
+    "date_added": "2026-09-25",
+    "plain_summary": "Researchers have developed an affordable Internet-of-Things device (a system that connects to the internet to collect data automatically) to measure carbon dioxide gas escaping from the ground at a volcano in Santorini, Greece. The tool includes easy-to-use software and was tested in the field to ensure it works accurately. This type of measurement is relevant to geothermal areas because CO2 emissions often indicate subsurface heat and activity.",
+    "key_figures": [],
+    "keywords": [
+      "sensors"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_c40d94f762"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0377027326002209?dgcid=rss_sd_all": {
+    "id": "7b6e3d407e89",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0377027326002209?dgcid=rss_sd_all",
+    "title": "Geochemistry and petrology of the Taos Plateau Volcanic Field in New Mexico: Mantle heterogeneity beneath the Rio Grande Rift and Jemez Lineament",
+    "source": "J. Volcanology & Geothermal Research (Elsevier)",
+    "published": null,
+    "date_added": "2026-09-25",
+    "plain_summary": "This scientific paper examines the chemical composition and rock types of the Taos Plateau Volcanic Field in New Mexico to understand variations in the Earth's mantle (the hot rock layer beneath the crust) in this region. The research looks at how the mantle differs beneath the Rio Grande Rift (a valley formed by continental stretching) and the Jemez Lineament (a geological feature in the area), which is relevant for understanding the geothermal potential of the region.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_7b6e3d407e"
+  },
+  "https://www.geothermalcanada.org/news/2026/9/25/diverso-energy-helps-developers-navigate-a-shifting-market-through-flexible-geothermal-project-delivery": {
+    "id": "b71eb2b7b9fa",
+    "url": "https://www.geothermalcanada.org/news/2026/9/25/diverso-energy-helps-developers-navigate-a-shifting-market-through-flexible-geothermal-project-delivery",
+    "title": "Diverso Energy Helps Developers Navigate a Shifting Market Through Flexible Geothermal Project Delivery",
+    "source": "Geothermal Canada",
+    "published": "2026-09-25T11:44:00+00:00",
+    "date_added": "2026-09-25",
+    "plain_summary": "Diverso Energy, a Canadian geothermal company, is helping real estate developers adopt geothermal systems (which use heat from the ground to heat and cool buildings) by offering flexible project arrangements tailored to each developer's financial situation and business goals. Rather than forcing a one-size-fits-all approach, the company adjusts how projects are structured and financed to match what developers need, making geothermal technology easier to implement alongside other building systems.",
+    "key_figures": [
+      "300 successful geothermal projects"
+    ],
+    "keywords": [
+      "drilling",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_b71eb2b7b9"
   }
 }
