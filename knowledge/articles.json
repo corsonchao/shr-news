@@ -8104,5 +8104,599 @@
     "relevance": "medium",
     "highlight": false,
     "cluster_id": "c_99d8f51c6d"
+  },
+  "https://www.thinkgeoenergy.com/eavor-withdraws-drilling-rigs-from-the-geretsried-geothermal-project-site-in-germany/": {
+    "id": "a59c335eb67c",
+    "url": "https://www.thinkgeoenergy.com/eavor-withdraws-drilling-rigs-from-the-geretsried-geothermal-project-site-in-germany/",
+    "title": "Eavor withdraws drilling rigs from the Geretsried geothermal project site in Germany",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-16T13:09:18+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "Eavor Technologies is temporarily removing its drilling equipment from its commercial geothermal project in Geretsried, Germany to reduce costs while it works on improving the project's business arrangements. The project, which uses Eavor's closed-loop geothermal technology (a system that circulates fluid through underground rock to extract heat without requiring traditional water reservoirs), started producing electricity but fell significantly short of expectations, generating only 0.5 to 2.0 megawatts instead of the planned output. The company plans to resume drilling for a second loop once it secures better commercial agreements with local heating partners.",
+    "key_figures": [
+      "0.5 to 2.0 MWe gross power generation achieved",
+      "81,200 MWh per annum heat supply agreement"
+    ],
+    "keywords": [
+      "drilling",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_a59c335eb6"
+  },
+  "https://www.thinkgeoenergy.com/news-roundup-the-geothermal-projects-eligible-for-99m-funding-from-the-us-doe/": {
+    "id": "f3a0e6ee3eca",
+    "url": "https://www.thinkgeoenergy.com/news-roundup-the-geothermal-projects-eligible-for-99m-funding-from-the-us-doe/",
+    "title": "News roundup – The geothermal projects eligible for $99M funding from the US DOE",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-15T17:19:26+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "The U.S. Department of Energy has identified 21 geothermal projects eligible to receive approximately $99 million in funding for testing enhanced geothermal systems (EGS)—a technology that artificially creates fractures in hot rock underground to improve heat extraction—and for exploration drilling. Multiple companies and research institutions are proposing projects across the western U.S. that range from drilling deep wells to test superhot rock potential to enhancing existing geothermal fields, with the goal of demonstrating that these technologies can reliably produce commercial-scale power. All selected projects are currently in negotiation with the DOE and have not yet received final funding commitments.",
+    "key_figures": [
+      "21 projects selected",
+      "$99 million total available funding",
+      "$25 million funding (University of Utah Dixie Valley project)",
+      "$9.7 million funding (University of Utah Cove Fort project)",
+      "$20 million total funding (Fervo Energy two projects)",
+      "$8 million potential funding (GeoAlaska)",
+      "$25 million funding (Quaise Energy)",
+      "3 MW gross power (Fervo's Project Red since 2023)",
+      "300°C target reservoir temperature (Quaise Project Obsidian)",
+      "25 megawatts gross electric power capacity (Quaise Project Obsidian three-well design)"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "funding",
+      "materials"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_f3a0e6ee3e"
+  },
+  "https://www.thinkgeoenergy.com/tender-consultancy-for-exploration-of-hot-springs-geothermal-project-oman/": {
+    "id": "fcd1a1c87449",
+    "url": "https://www.thinkgeoenergy.com/tender-consultancy-for-exploration-of-hot-springs-geothermal-project-oman/",
+    "title": "Tender – Consultancy for exploration of Hot Springs geothermal project, Oman",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-15T10:59:24+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "Oman's government is seeking consulting help to explore a geothermal project at Hot Springs, where heat from within the earth could potentially be used for energy. The consultants will perform geological surveys, assess how much heat energy is available underground using 3D computer modeling, and prepare plans for temperature-gradient drilling (drilling to measure heat at different depths). This is part of Oman's step-by-step plan to develop its geothermal resources, following earlier work that analyzed data from over 7,000 existing wells to find promising locations.",
+    "key_figures": [
+      "7000 oil, gas, and water wells analyzed",
+      "30 November 2026 bid submission deadline",
+      "13 October to 26 October 2026 tender document purchase period"
+    ],
+    "keywords": [
+      "drilling",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_fcd1a1c874"
+  },
+  "https://www.thinkgeoenergy.com/mitsui-fudosan-starts-demonstration-of-single-well-closed-loop-geothermal-in-japan/": {
+    "id": "a9228458e23e",
+    "url": "https://www.thinkgeoenergy.com/mitsui-fudosan-starts-demonstration-of-single-well-closed-loop-geothermal-in-japan/",
+    "title": "Mitsui Fudosan starts demonstration of single-well closed-loop geothermal in Japan",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-14T15:49:24+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "A Japanese real estate company is testing a new type of geothermal system that uses a double-walled pipe inside a single well to extract heat from hot rock deep underground without pumping out water or steam. This closed-loop approach aims to generate power while reducing environmental impact on both the surface and subsurface. The company plans to verify whether this technology can work economically before building a full commercial plant.",
+    "key_figures": [
+      "JPY 110.2 billion (USD 691 million) funding for next-generation geothermal projects from 2026-2030"
+    ],
+    "keywords": [
+      "well construction",
+      "drilling",
+      "funding",
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_a9228458e2"
+  },
+  "https://www.thinkgeoenergy.com/enna-geo-completes-acquisition-of-geothermal-assets-of-igeopen-in-croatia/": {
+    "id": "073ff146dbfa",
+    "url": "https://www.thinkgeoenergy.com/enna-geo-completes-acquisition-of-geothermal-assets-of-igeopen-in-croatia/",
+    "title": "ENNA Geo completes acquisition of geothermal assets of IGeoPen in Croatia",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-14T14:34:26+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "A company called Enna Geo has purchased geothermal exploration rights in Croatia, gaining control of three areas where hot rock beneath the surface can potentially be developed for energy. The company is already working on two other sites in Croatia that are expected to start producing electricity by 2030 and 2032, demonstrating confidence in geothermal energy as a renewable power source for the country.",
+    "key_figures": [
+      "211 °C maximum temperature at Zagocha site",
+      "4582 meters well depth at Zagocha site",
+      "180 °C thermal water temperature at Babina Greda site",
+      "4083 meters well depth at Babina Greda site",
+      "2030 target operational date for Zagocha site",
+      "2032 target operational date for Babina Greda site"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_073ff146db"
+  },
+  "https://www.thinkgeoenergy.com/integrated-geothermal-power-and-lithium-project-planned-in-alberta-canada/": {
+    "id": "2726fe9f173a",
+    "url": "https://www.thinkgeoenergy.com/integrated-geothermal-power-and-lithium-project-planned-in-alberta-canada/",
+    "title": "Integrated geothermal power and lithium project planned in Alberta, Canada",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-14T09:59:45+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "A Denmark-based company is partnering with a geothermal developer to build a facility in Alberta, Canada that will use hot underground rock and water (geothermal resources) to both generate electricity and extract lithium—a valuable mineral used in batteries. The facility aims to produce lithium carbonate (a refined form of lithium) and renewable electricity simultaneously, with operations expected to start by 2028, and the company is currently raising up to $60 million to fund the project.",
+    "key_figures": [
+      "28,500 tonnes lithium carbonate production annually",
+      "0.67 TWh renewable electricity production annually",
+      "$60 million capital raise target",
+      "2028 first power and production target"
+    ],
+    "keywords": [
+      "drilling",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_72b2df1bf0"
+  },
+  "https://www.thinkgeoenergy.com/mount-augustine-geothermal-project-selected-for-doe-funding/": {
+    "id": "3cdf9b5a4b52",
+    "url": "https://www.thinkgeoenergy.com/mount-augustine-geothermal-project-selected-for-doe-funding/",
+    "title": "Mount Augustine geothermal project selected for DOE funding",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-13T10:19:59+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "A geothermal project in Alaska called Mount Augustine has been selected by the U.S. Department of Energy for potential funding to drill an exploratory well. The project aims to test two different underground heat zones—a shallower one above 150°C (degrees Celsius, a temperature measurement) and a deeper one above 350°C—to confirm whether the location has commercially viable geothermal resources (heat from within the Earth). The drilling is expected to begin in 2027 if funding is approved.",
+    "key_figures": [
+      "21 projects selected for DOE funding",
+      "up to $99 million total DOE funding",
+      "up to $8 million for resource confirmation projects",
+      "150°C shallow temperature target",
+      "350°C deep temperature target",
+      "15,146 acres of leases",
+      "224 MWe P50 power potential",
+      "2027 planned drilling start"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_3cdf9b5a4b"
+  },
+  "https://www.thinkgeoenergy.com/environmental-approval-granted-for-exploration-geothermal-drilling-in-melilla-spain/": {
+    "id": "23f95d056113",
+    "url": "https://www.thinkgeoenergy.com/environmental-approval-granted-for-exploration-geothermal-drilling-in-melilla-spain/",
+    "title": "Environmental approval granted for exploration geothermal drilling in Melilla, Spain",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-12T12:39:14+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "Spanish authorities have approved environmental permits for an exploration project in Melilla that will drill six test holes to investigate whether geothermal energy—heat from within the Earth—can be developed as a power source in this region. The drilling will reach depths of up to 3,500 meters, where geological studies suggest there are hot water reservoirs (called hydrothermal reservoirs) with temperatures exceeding 200°C that could potentially be harnessed for energy production.",
+    "key_figures": [
+      "6 exploratory boreholes",
+      "3,500 meters drilling depth",
+      "200°C target temperature"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "legislation"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_23f95d0561"
+  },
+  "https://www.thinkgeoenergy.com/more-geothermal-lithium-projects-identified-as-strategic-projects-by-the-european-commission/": {
+    "id": "534a10c5ea19",
+    "url": "https://www.thinkgeoenergy.com/more-geothermal-lithium-projects-identified-as-strategic-projects-by-the-european-commission/",
+    "title": "More geothermal lithium projects identified as Strategic Projects by the European Commission",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-12T10:19:36+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "Two European projects that extract lithium (a mineral used in batteries) from geothermal brine—salty water heated underground—have received official recognition as \"Strategic Projects\" by the European Commission. This designation helps them secure funding and speeds up the permitting process. One project in France aims to produce 27,000 tonnes of lithium per year while also generating geothermal heat, while the other in Germany plans to extract up to 25,000 tonnes annually from existing natural gas wells.",
+    "key_figures": [
+      "27,000 tonnes per year lithium production target (Lithium de France)",
+      "30 years operational timeframe (Lithium de France)",
+      "2 TWh geothermal heat co-production (Lithium de France)",
+      "25,000 tonnes lithium carbon equivalent annual target by 2030 (Neptune Energy)",
+      "10% EU strategic raw materials extraction target by 2030",
+      "40% EU strategic raw materials processing target by 2030"
+    ],
+    "keywords": [
+      "drilling",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_534a10c5ea"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002786?dgcid=rss_sd_all": {
+    "id": "cbb07266923d",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002786?dgcid=rss_sd_all",
+    "title": "Fluid composition controls on reaction pathways and pore structure evolution in CO<sub>2</sub>-enhanced granitic geothermal reservoirs",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-10-16",
+    "plain_summary": "This research paper examines how different fluid compositions affect chemical reactions and pore structure (tiny spaces within rock) changes when carbon dioxide is injected into hot granite reservoirs for geothermal energy extraction. The study focuses on understanding how these processes work in enhanced geothermal systems, which artificially improve rock permeability (the ability of fluids to flow through it) to extract more heat from deep underground.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping",
+      "materials"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_cbb0726692"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002774?dgcid=rss_sd_all": {
+    "id": "5139385c369c",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002774?dgcid=rss_sd_all",
+    "title": "Tracer-constrained stochastic reservoir characterization of limited heat exchange volume in the Gonghe geothermal reservoir, China",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-10-16",
+    "plain_summary": "Researchers studied the Gonghe geothermal reservoir in China using tracer materials (substances that flow through rock to mark water movement) combined with statistical modeling techniques to better understand the underground heat exchange zone. This work helps geothermal developers map out which parts of the hot rock reservoir can actually be used to extract heat energy, improving their ability to design and operate geothermal systems effectively.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_5139385c36"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002762?dgcid=rss_sd_all": {
+    "id": "9079357b2ed0",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002762?dgcid=rss_sd_all",
+    "title": "Integrated thermo-economic analysis of repurposed hydrocarbon wells for closed-loop coaxial geothermal systems in South Texas",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-10-16",
+    "plain_summary": "Researchers studied how old oil and gas wells in South Texas could be converted into geothermal energy sources using a closed-loop coaxial system (a heat exchange setup where fluid circulates down one pipe and back up another). They performed a financial and thermal analysis to determine whether repurposing these existing wells for superhot rock geothermal energy production would be economically viable and effective.",
+    "key_figures": [],
+    "keywords": [
+      "well construction",
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_9079357b2e"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S037565052600266X?dgcid=rss_sd_all": {
+    "id": "b7310acf7e99",
+    "url": "https://www.sciencedirect.com/science/article/pii/S037565052600266X?dgcid=rss_sd_all",
+    "title": "Optimizing EGS stimulation diagnostics: Quantifying hydro-mechanical decoupling and fracture closure dynamics using distributed strain sensing at Utah FORGE",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-10-16",
+    "plain_summary": "Researchers studied how to better monitor and understand Enhanced Geothermal Systems (EGS — artificial reservoirs created by fracturing hot rock underground) at the Utah FORGE research site. They used distributed strain sensing (fiber optic cables that measure tiny ground movements along their entire length) to track how water pressure and mechanical rock deformation become separated during the fracturing process, and to observe how fractures close back up after stimulation stops.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping",
+      "sensors",
+      "well construction"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_b7310acf7e"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0960148126013753?dgcid=rss_sd_all": {
+    "id": "456fa086d9e1",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0960148126013753?dgcid=rss_sd_all",
+    "title": "Numerical investigation of heat extraction performance of a multi-casing coaxial well with multilateral branches for enhanced geothermal systems",
+    "source": "Renewable Energy (Elsevier)",
+    "published": null,
+    "date_added": "2026-10-16",
+    "plain_summary": "Researchers studied how to extract heat more effectively from superhot rock using a specially designed well system with multiple branching pipes (called multilateral branches) arranged in concentric layers. This advanced well design aims to improve how much heat can be recovered from deep underground rock formations for geothermal energy production.",
+    "key_figures": [],
+    "keywords": [
+      "well construction",
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_456fa086d9"
+  },
+  "https://www.geothermalcanada.org/news/2026/10/15/calgarys-cura-and-terraferno-named-to-global-cleantech-50-to-watch": {
+    "id": "d797c1469468",
+    "url": "https://www.geothermalcanada.org/news/2026/10/15/calgarys-cura-and-terraferno-named-to-global-cleantech-50-to-watch",
+    "title": "Calgary’s CURA and TerraFerno Named to Global Cleantech 50 to Watch",
+    "source": "Geothermal Canada",
+    "published": "2026-10-15T09:39:00+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "Two Calgary-based companies have been recognized on a global list of promising cleantech innovators. TerraFerno Geothermal Solutions is developing specialized equipment for geothermal wells—which tap heat from deep underground—including monitoring systems and tools designed to work in extremely hot conditions, with the goal of helping operators extract more energy more efficiently from both traditional and advanced geothermal systems.",
+    "key_figures": [
+      "85% cement emissions reduction"
+    ],
+    "keywords": [
+      "well construction",
+      "sensors",
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_d797c14694"
+  },
+  "https://www.geothermalcanada.org/news/2026/10/15/guest-column-yellowknife-can-become-an-energy-powerhouse-through-geothermal": {
+    "id": "e06729943fec",
+    "url": "https://www.geothermalcanada.org/news/2026/10/15/guest-column-yellowknife-can-become-an-energy-powerhouse-through-geothermal",
+    "title": "Yellowknifer Guest Column: Yellowknife Can Become an Energy Powerhouse Through Geothermal",
+    "source": "Geothermal Canada",
+    "published": "2026-10-15T09:23:00+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "Yellowknife is considering geothermal energy (heat and power from hot rocks deep underground) as a way to solve its energy crisis and economic challenges after a diamond mine closure. While Yellowknife itself has warm enough ground for heating homes, the real opportunity lies south of Great Slave Lake near Hay River, where underground temperatures reach about 150°C—hot enough to generate electricity using new technologies like enhanced geothermal systems (EGS). Unlike solar and wind power, geothermal provides constant, reliable electricity without needing battery storage, and drilling costs have dropped significantly, making it economically feasible.",
+    "key_figures": [
+      "150 C underground temperature",
+      "70 per cent drilling cost reduction per foot since 2022",
+      "several hundred homes could be heated"
+    ],
+    "keywords": [
+      "drilling",
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_e06729943f"
+  },
+  "https://www.geothermalcanada.org/news/2026/10/13/lithium-harvest-signs-loi-for-a-large-scale-geothermal-power-and-lithium-project-in-alberta-canada": {
+    "id": "2fe7fbc355c2",
+    "url": "https://www.geothermalcanada.org/news/2026/10/13/lithium-harvest-signs-loi-for-a-large-scale-geothermal-power-and-lithium-project-in-alberta-canada",
+    "title": "Lithium Harvest Signs LOI for a Large-Scale Geothermal Power and Lithium Project in Alberta, Canada",
+    "source": "Geothermal Canada",
+    "published": "2026-10-13T11:35:00+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "Lithium Harvest has signed an agreement to develop a geothermal power and lithium project in Alberta, Canada that will simultaneously generate electricity and extract lithium (a key mineral for batteries) from underground hot water and rocks. The facility will use heat from deep underground to produce power while also processing the mineral-rich water to create battery materials, making efficient use of the same geothermal resource for two valuable products.",
+    "key_figures": [
+      "28,500 tonnes of lithium carbonate annually",
+      "0.67 TWh of renewable electricity annually",
+      "933,000 tonnes of CO₂ emissions avoided annually"
+    ],
+    "keywords": [
+      "funding",
+      "subsurface mapping",
+      "materials"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_72b2df1bf0"
+  },
+  "https://www.thinkgeoenergy.com/co2-recovery-facility-at-piancastagnaio-geothermal-power-plant-in-italy-nears-completion/": {
+    "id": "291778c7da56",
+    "url": "https://www.thinkgeoenergy.com/co2-recovery-facility-at-piancastagnaio-geothermal-power-plant-in-italy-nears-completion/",
+    "title": "CO2 recovery facility at Piancastagnaio geothermal power plant in Italy nears completion",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-16T16:26:57+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "A facility in Italy that removes carbon dioxide (CO2) from geothermal steam—steam heated by the Earth's natural warmth—is almost finished and should start operating by early 2027. The plant will capture about 70% of the CO2 currently released into the air and produce roughly 100,000 tons per year for use in food, beverage, and pharmaceutical industries, which could supply about 30% of Italy's pure CO2 demand. This project reduces pollution from geothermal power generation, which already produces very little greenhouse gas compared to other energy sources.",
+    "key_figures": [
+      "70% CO2 recovery rate",
+      "100,000 tons per year CO2 production",
+      "30% of Italy's pure CO2 demand",
+      "Early 2027 commissioning target"
+    ],
+    "keywords": [
+      "funding",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_291778c7da"
+  },
+  "https://www.thinkgeoenergy.com/india-inaugurates-first-airport-equipped-with-geothermal-space-conditioning-system/": {
+    "id": "975aa6428d31",
+    "url": "https://www.thinkgeoenergy.com/india-inaugurates-first-airport-equipped-with-geothermal-space-conditioning-system/",
+    "title": "India inaugurates first airport equipped with geothermal space conditioning system",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-16T15:05:54+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "India's Kushok Bakula Rimpochee Airport in Leh has become the first Indian airport to use geothermal space conditioning—a system that taps heat from the ground through boreholes (deep holes drilled into the earth) to provide heating, cooling, and hot water. Located at extremely high altitude in a harsh climate, the airport uses this renewable energy technology alongside solar panels to power its new passenger terminal.",
+    "key_figures": [
+      "INR 640 crore (USD 67 million) construction cost",
+      "3200 meters altitude",
+      "457 boreholes",
+      "110-120 meters drilling depth per borehole",
+      "1 million to 3.5 million annual passenger capacity increase"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_975aa6428d"
+  },
+  "https://www.thinkgeoenergy.com/new-geothermal-triplet-commissioned-in-alfortville-france/": {
+    "id": "955c4ba3b6cf",
+    "url": "https://www.thinkgeoenergy.com/new-geothermal-triplet-commissioned-in-alfortville-france/",
+    "title": "New geothermal triplet commissioned in Alfortville, France",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-15T18:02:51+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "A geothermal heating system in France using three wells—two that extract hot water from deep underground and one that returns cooled water back into the ground—has been completed and started operating. This system helps a district heating network use 90% renewable energy by tapping into naturally hot water found nearly 2 kilometers below the surface, allowing the original 1986 system to continue serving the area reliably.",
+    "key_figures": [
+      "2000 meters drilling depth",
+      "70°C water temperature",
+      "EUR 22.25 million total investment",
+      "EUR 7.3 million government funding",
+      "EUR 2.6 million regional funding",
+      "90% renewable energy mix"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_955c4ba3b6"
+  },
+  "https://www.thinkgeoenergy.com/feasibility-study-initiated-on-geothermal-potential-in-aziziye-erzurum-turkiye/": {
+    "id": "d3e6b70cad73",
+    "url": "https://www.thinkgeoenergy.com/feasibility-study-initiated-on-geothermal-potential-in-aziziye-erzurum-turkiye/",
+    "title": "Feasibility study initiated on geothermal potential in Aziziye, Erzurum, Türkiye",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-15T13:16:40+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "A municipality in Turkey has launched a scientific study to assess whether geothermal energy (heat energy from deep underground rock) can be developed in their region. Researchers will use advanced underground mapping techniques to understand the rock structure and identify where hot water or steam might circulate beneath the surface, with the goal of determining if this resource can be used sustainably for electricity, heating, and economic development.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_d3e6b70cad"
+  },
+  "https://www.thinkgeoenergy.com/geothermal-power-plant-in-bruchsal-germany-starts-heating-supply-to-district-network/": {
+    "id": "4a750c2a4080",
+    "url": "https://www.thinkgeoenergy.com/geothermal-power-plant-in-bruchsal-germany-starts-heating-supply-to-district-network/",
+    "title": "Geothermal power plant in Bruchsal, Germany starts heating supply to district network",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-14T11:25:13+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "A geothermal power plant in Bruchsal, Germany that has been running since 2009 is now supplying heat to the city's district heating network (pipes that distribute warmth to buildings). The facility currently produces a small amount of heat, but the operator plans to expand the system to provide one-third of the city's heating needs by 2033. The plant is also being used to extract lithium (a valuable metal used in batteries) from geothermal brine (salty water heated deep underground).",
+    "key_figures": [
+      "0.5 MWe power generation capacity",
+      "6 MW maximum thermal output",
+      "30 kilometers of district heating pipes planned",
+      "One-third of city's heating supply by 2033",
+      ">99.95% purity lithium carbonate produced"
+    ],
+    "keywords": [
+      "funding",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_4a750c2a40"
+  },
+  "https://www.thinkgeoenergy.com/drilling-of-geothermal-wells-to-start-soon-at-laugardalur-in-reykjavik-iceland/": {
+    "id": "e7eaf39495c9",
+    "url": "https://www.thinkgeoenergy.com/drilling-of-geothermal-wells-to-start-soon-at-laugardalur-in-reykjavik-iceland/",
+    "title": "Drilling of geothermal wells to start soon at Laugardalur in Reykjavik, Iceland",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-13T16:18:23+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "A company in Iceland is preparing to drill five new geothermal wells (boreholes that tap into Earth's heat) in Reykjavik to provide hot water for heating homes as the city grows. Four wells will be drilled starting in October 2026 at one location, followed by one well at another site in November 2026, with all work expected to finish by May 2027. These new wells will join nine existing ones already supplying heat to the city.",
+    "key_figures": [
+      "100-ton drill rig capacity",
+      "5 wells planned",
+      "4 wells at Engjateg site",
+      "1 well at Bolholt site",
+      "800 to 1500 meters drilling depth",
+      "9 existing wells in area",
+      "50 kilometers distance to Akranes"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_e7eaf39495"
+  },
+  "https://www.thinkgeoenergy.com/registration-open-special-geothermal-workshop-europe-9-10-november-2026-vienna-austria/": {
+    "id": "4b59fac9027e",
+    "url": "https://www.thinkgeoenergy.com/registration-open-special-geothermal-workshop-europe-9-10-november-2026-vienna-austria/",
+    "title": "Registration open – SPEcial Geothermal Workshop Europe; 9-10 November 2026; Vienna, Austria",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-12T16:15:12+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "A professional geothermal conference is being held in Vienna in November 2026, organized by the Society of Petroleum Engineers. The two-day event will feature technical presentations and tours of Vienna's first deep geothermal facility (a system that extracts heat from rock deep underground), bringing together professionals working on different aspects of geothermal energy development, from subsurface work to digital technology.",
+    "key_figures": [
+      "30 slots remaining for registration",
+      "2 day workshop duration",
+      "November 9-10, 2026 event dates"
+    ],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_4b59fac902"
+  },
+  "https://www.thinkgeoenergy.com/new-mexico-awards-17-3m-in-grants-to-four-geothermal-projects/": {
+    "id": "f14143984bc1",
+    "url": "https://www.thinkgeoenergy.com/new-mexico-awards-17-3m-in-grants-to-four-geothermal-projects/",
+    "title": "New Mexico awards $17.3M in grants to four geothermal projects",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-12T14:43:45+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "New Mexico's state government distributed $17.3 million in funding to four projects aimed at exploring and developing geothermal energy—heat from deep within the Earth that can be converted to electricity. The projects include geological studies (examining rock formations) and drilling of a test well to determine if additional geothermal power plants could be built in the state, complementing New Mexico's single existing geothermal facility.",
+    "key_figures": [
+      "$17.3 million total funding awarded",
+      "$2.5 million to Jicarilla Apache Nation",
+      "$2.85 million to New Mexico State University",
+      "$10 million to New Mexico Institute of Technology",
+      "$2 million to San Ildefonso Pueblo"
+    ],
+    "keywords": [
+      "drilling",
+      "subsurface mapping",
+      "funding",
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_f14143984b"
+  },
+  "https://www.thedriller.com/articles/94032-the-doe-recently-created-the-geothermal-center-of-excellence-heres-why": {
+    "id": "c18801f15c04",
+    "url": "https://www.thedriller.com/articles/94032-the-doe-recently-created-the-geothermal-center-of-excellence-heres-why",
+    "title": "The DOE Recently Created the Geothermal Center of Excellence. Here's why.",
+    "source": "The Driller",
+    "published": "2026-10-14T16:00:00+00:00",
+    "date_added": "2026-10-16",
+    "plain_summary": "The U.S. Department of Energy established a new Geothermal Center of Excellence to bring together research efforts from government agencies and private companies working on geothermal energy technologies. This collaborative approach aims to accelerate innovation and development in the geothermal sector by combining resources and expertise from different organizations.",
+    "key_figures": [],
+    "keywords": [
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_c18801f15c"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002804?dgcid=rss_sd_all": {
+    "id": "075da0e4d49b",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002804?dgcid=rss_sd_all",
+    "title": "Hydrogeological genetic pattern of the carbonate geothermal reservoir within the anticline folds in view of hydrogeochemical evolution and regional hydraulic connections",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-10-16",
+    "plain_summary": "This academic paper examines how carbonate rock formations (limestone and similar rocks that can hold geothermal heat) develop their water flow patterns in areas where rock layers are folded upward into arch-like structures called anticlines. The researchers studied how the chemical makeup of water changes as it moves through these underground reservoirs and how different areas connect hydraulically (through water pathways). Understanding these patterns helps identify where geothermal energy can be accessed.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_075da0e4d4"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0377027326002301?dgcid=rss_sd_all": {
+    "id": "ac826b77593e",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0377027326002301?dgcid=rss_sd_all",
+    "title": "Response of bubbly magmas to high strain rate impacts",
+    "source": "J. Volcanology & Geothermal Research (Elsevier)",
+    "published": null,
+    "date_added": "2026-10-16",
+    "plain_summary": "This scientific research examines how magma containing gas bubbles (bubbly magmas) behaves when subjected to sudden, intense physical forces. Understanding this material response is relevant to geothermal systems because magma and hot rock interactions underground can affect the stability and performance of superhot rock geothermal wells that tap into extreme subsurface heat.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_ac826b7759"
   }
 }
