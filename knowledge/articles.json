@@ -8698,5 +8698,113 @@
     "relevance": "medium",
     "highlight": false,
     "cluster_id": "c_ac826b7759"
+  },
+  "https://www.thinkgeoenergy.com/registration-open-connect4geothermal-2026-bern-switzerland-19-november-2026/": {
+    "id": "022ecc6469ef",
+    "url": "https://www.thinkgeoenergy.com/registration-open-connect4geothermal-2026-bern-switzerland-19-november-2026/",
+    "title": "Registration open – Connect4geothermal 2026; Bern, Switzerland; 19 November 2026",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-19T13:37:51+00:00",
+    "date_added": "2026-10-19",
+    "plain_summary": "Registration is now open for Connect4geothermal 2026, an annual conference in Bern, Switzerland focused on geothermal energy. The event will feature discussions on using geothermal energy (heat from deep underground rock) to provide reliable electricity and heating, including innovations in heat pumps (systems that move heat from ground to buildings) and energy storage solutions.",
+    "key_figures": [
+      "19 November 2026 event date"
+    ],
+    "keywords": [
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_022ecc6469"
+  },
+  "https://www.thinkgeoenergy.com/praxisforum-tiefengeothermie-highlights-achievements-of-the-german-geothermal-sector/": {
+    "id": "437205eb2ec3",
+    "url": "https://www.thinkgeoenergy.com/praxisforum-tiefengeothermie-highlights-achievements-of-the-german-geothermal-sector/",
+    "title": "Praxisforum Tiefengeothermie highlights achievements of the German geothermal sector",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-19T12:31:15+00:00",
+    "date_added": "2026-10-19",
+    "plain_summary": "Germany's geothermal industry is expanding significantly, as demonstrated at a major conference where operators reported that geothermal plants produced 3.8 terawatt-hours (TWh) of heat nationwide in 2025, enough to supply a large city. The sector is increasingly focused on district heating networks (pipes that distribute hot water from geothermal sources to multiple buildings), with geothermal heating prices running about 16% cheaper than the national average for district heating. Several award-winning plants showed strong performance, and new drilling projects are underway across the country to meet growing demand.",
+    "key_figures": [
+      "260 participants at 2026 forum",
+      "21 of 33 operators submitted data",
+      "3.4 TWh heat production in Bavaria (2025)",
+      "3.8 TWh nationwide heat production (2025)",
+      "300 TWh market potential projected",
+      "185,000 MWh heat from Unterhaching plant",
+      "35,000 MWh electricity from Dürrnhaar plant",
+      "80% capacity utilization at Dürrnhaar",
+      "16% below average geothermal district heating prices"
+    ],
+    "keywords": [
+      "drilling",
+      "subsurface mapping",
+      "funding",
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_437205eb2e"
+  },
+  "https://www.thinkgeoenergy.com/cop31-a-chance-for-turkiye-to-put-geothermal-on-the-agenda/": {
+    "id": "85c02d3198c7",
+    "url": "https://www.thinkgeoenergy.com/cop31-a-chance-for-turkiye-to-put-geothermal-on-the-agenda/",
+    "title": "COP31 a chance for Türkiye to put geothermal on the agenda",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-19T11:14:52+00:00",
+    "date_added": "2026-10-19",
+    "plain_summary": "Türkiye is hosting the COP31 climate conference in 2026, which gives the country a chance to showcase its geothermal energy success to world leaders and investors. Türkiye is a global leader in geothermal power (a renewable energy source that taps heat from deep underground), ranking fourth worldwide and first in Europe, and uses it not just for electricity but also for heating buildings and agriculture. The country's experience could provide valuable lessons for other regions developing geothermal projects, though challenges like high upfront costs and long permitting processes need government support to overcome.",
+    "key_figures": [
+      "1,797 MW installed geothermal power capacity at end of 2025",
+      "15 year period of continuous capacity growth",
+      "20 GW nuclear capacity target by 2050",
+      "2053 net-zero emissions target",
+      "COP31 in November 2026"
+    ],
+    "keywords": [
+      "funding",
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_85c02d3198"
+  },
+  "https://www.thinkgeoenergy.com/energy-atlas-of-berlin-germany-to-be-updated-with-shallow-geothermal-data/": {
+    "id": "7459379a2cbe",
+    "url": "https://www.thinkgeoenergy.com/energy-atlas-of-berlin-germany-to-be-updated-with-shallow-geothermal-data/",
+    "title": "Energy Atlas of Berlin, Germany to be updated with shallow geothermal data",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-13T13:10:06+00:00",
+    "date_added": "2026-10-19",
+    "plain_summary": "Berlin, Germany is updating its Energy Atlas to include information about geothermal energy resources (heat from within the Earth), making this data available to developers and investors. The city is conducting exploration work including a 3D seismic survey (using sound waves to map underground rock layers) planned for 2027 and exploratory boreholes (test wells) starting in 2028 to better understand the geothermal potential beneath Berlin.",
+    "key_figures": [
+      "3D seismic survey lasting about four months in 2027",
+      "2D seismic survey from late 2025 to early 2026",
+      "four exploratory boreholes planned to begin by 2028"
+    ],
+    "keywords": [
+      "subsurface mapping",
+      "well construction",
+      "drilling"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_7459379a2c"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526001963?dgcid=rss_sd_all": {
+    "id": "9f89bc4e8613",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526001963?dgcid=rss_sd_all",
+    "title": "Temperature field and assessment methodology for a low-medium temperature geothermal field: 3D geological-geophysical modeling in the Xiong'an Area, Northern China",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-10-19",
+    "plain_summary": "Researchers in northern China created a three-dimensional computer model to understand heat distribution in a geothermal field (an underground area with naturally hot rock). They combined geological data (information about rock layers) and geophysical data (measurements of physical properties underground) to map temperatures across the region. This modeling approach helps assess whether a geothermal area is suitable for energy development.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_9f89bc4e86"
   }
 }
