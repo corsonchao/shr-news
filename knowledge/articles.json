@@ -8806,5 +8806,185 @@
     "relevance": "medium",
     "highlight": false,
     "cluster_id": "c_9f89bc4e86"
+  },
+  "https://www.thinkgeoenergy.com/start-of-drilling-imminent-for-geothermal-heating-project-in-grafelfing-germany/": {
+    "id": "e291fab12cb1",
+    "url": "https://www.thinkgeoenergy.com/start-of-drilling-imminent-for-geothermal-heating-project-in-grafelfing-germany/",
+    "title": "Start of drilling imminent for geothermal heating project in Gräfelfing, Germany",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-20T10:46:37+00:00",
+    "date_added": "2026-10-20",
+    "plain_summary": "A German town called Gräfelfing is preparing to drill two deep wells into underground rock layers about 2,900 meters below the surface to access hot water for heating. The hot water, which will be around 100°C (212°F), will be used to heat homes and buildings through a district heating network (a system that distributes heat from a central source to multiple buildings), and the cooled water will be pumped back underground. If successful, the project could provide up to 25 megawatts of thermal energy (a measure of heat power) and begin supplying heat by 2029.",
+    "key_figures": [
+      "2,900 meters drilling depth",
+      "100°C target temperature",
+      "55°C reinjection temperature",
+      "25 MW thermal energy capacity",
+      "13 kilometers district heating network",
+      "8 sections of network planned",
+      "7 sections commissioned",
+      "2029 projected heat supply start date"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "materials"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_e291fab12c"
+  },
+  "https://www.thinkgeoenergy.com/endurance-energy-demonstrates-subsea-geothermal-power-in-pacific-ocean/": {
+    "id": "e03bebcbcabf",
+    "url": "https://www.thinkgeoenergy.com/endurance-energy-demonstrates-subsea-geothermal-power-in-pacific-ocean/",
+    "title": "Endurance Energy demonstrates subsea geothermal power in Pacific Ocean",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-19T17:46:00+00:00",
+    "date_added": "2026-10-20",
+    "plain_summary": "A company called Endurance Energy successfully tested an underwater geothermal power system at a volcanic seamount 300 miles off Oregon's coast. The system drilled into the ocean floor and used hot water from deep-sea hydrothermal vents (natural hot springs) to generate electricity, producing 16.5 kilowatts of power, though only briefly. While the test had technical issues, it proves that underwater geothermal power generation is possible, and the company plans to develop commercial systems and deploy them near Tonga by 2027.",
+    "key_figures": [
+      "300 miles off Oregon coast",
+      "1,500 meters deployment depth",
+      "16.5 kW peak power output",
+      "8.7 seconds sustained generation",
+      "$63 million total funding raised",
+      "$54 million Series A funding",
+      "260°C well fluid temperature",
+      "281°C natural vent temperature",
+      "26,000 rpm turbine rotation speed",
+      "2 kW median net output",
+      "3-ton power generation system",
+      "16 meters geothermal well depth",
+      "80 meters maximum drilling depth capability",
+      "2 MW commercial generator (Leopard system)",
+      "2027 target for Tonga electricity generation",
+      "16 hours equipment turnaround time"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "materials",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_25b4079937"
+  },
+  "https://www.thinkgeoenergy.com/seismic-surveys-ongoing-for-geothermal-exploration-in-baja-hungary/": {
+    "id": "2e82279cc9fc",
+    "url": "https://www.thinkgeoenergy.com/seismic-surveys-ongoing-for-geothermal-exploration-in-baja-hungary/",
+    "title": "Seismic surveys ongoing for geothermal exploration in Baja, Hungary",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-20T12:57:31+00:00",
+    "date_added": "2026-10-20",
+    "plain_summary": "Hungary's government is using seismic surveys (sound waves sent into the earth to map underground structures) to explore whether the Baja region has hot water and rock suitable for geothermal energy production. If successful, the hot water could heat homes and buildings, replace some natural gas use, and potentially generate electricity. This exploration is part of a national program to expand geothermal energy use across Hungary.",
+    "key_figures": [
+      "25-person expert team",
+      "2 weeks survey duration",
+      "30 kilometers of surveyed trails",
+      "Program extended to 2029"
+    ],
+    "keywords": [
+      "subsurface mapping",
+      "drilling"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_2e82279cc9"
+  },
+  "https://www.thinkgeoenergy.com/webinar-building-an-integrated-geothermal-heating-system-in-oostland-region-23-october-2026/": {
+    "id": "c4e78e4e493e",
+    "url": "https://www.thinkgeoenergy.com/webinar-building-an-integrated-geothermal-heating-system-in-oostland-region-23-october-2026/",
+    "title": "Webinar – Building an integrated geothermal heating system in Oostland region, 23 October 2026",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-20T08:10:55+00:00",
+    "date_added": "2026-10-20",
+    "plain_summary": "A webinar scheduled for October 2026 will discuss the Oostland geothermal project in the Netherlands, which aims to provide heat to greenhouse farms using geothermal energy (heat extracted from deep underground rock). The project plans to use seven geothermal doublets (pairs of wells that circulate water through hot rock to extract heat) connected through a regional heat network to deliver sustainable heating to multiple greenhouse clusters in an innovative system.",
+    "key_figures": [
+      "840 hectares of greenhouse coverage",
+      "7 geothermal doublets planned",
+      "6 greenhouse clusters to be served",
+      "110 MW geothermal heating capacity target",
+      "30 geothermal licenses held by Gaia Energy",
+      "6 operational installations by Gaia Energy",
+      "60 geothermal doublets in development ambitions"
+    ],
+    "keywords": [
+      "well construction",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_c4e78e4e49"
+  },
+  "https://www.thinkgeoenergy.com/igis-2026-full-program-is-now-available-the-future-of-geothermal-energy-is-in-cappadocia-turkiye/": {
+    "id": "1d6827ca0a79",
+    "url": "https://www.thinkgeoenergy.com/igis-2026-full-program-is-now-available-the-future-of-geothermal-energy-is-in-cappadocia-turkiye/",
+    "title": "IGIS 2026 full program published – The future of geothermal energy is in Cappadocia, Türkiye",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-20T08:00:47+00:00",
+    "date_added": "2026-10-20",
+    "plain_summary": "An international conference called IGIS 2026 will be held in Turkey in November 2026 to discuss the future of geothermal energy investment. The event will bring together government officials, financial institutions, and industry experts to discuss various geothermal technologies including advanced systems like closed-loop systems (where fluid circulates in a sealed loop underground) and EGS (Enhanced Geothermal Systems), as well as applications beyond electricity generation such as mineral recovery and thermal tourism.",
+    "key_figures": [],
+    "keywords": [
+      "drilling",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_1d6827ca0a"
+  },
+  "https://www.canarymedia.com/articles/geothermal/geothermal-startup-power-seafloor-drilling": {
+    "id": "8eb69a42f662",
+    "url": "https://www.canarymedia.com/articles/geothermal/geothermal-startup-power-seafloor-drilling",
+    "title": "This geothermal startup produced a tiny bit of power from the seafloor",
+    "source": "Canary Media",
+    "published": "2026-10-19T16:00:00+00:00",
+    "date_added": "2026-10-20",
+    "plain_summary": "A startup company called Endurance Energy successfully generated electricity for about 30 seconds using heat from an underwater volcano off the Oregon coast. The company deployed a small test device called Adélie approximately one mile below the ocean surface during a three-week testing period, demonstrating that geothermal energy can be extracted from superhot rock beneath the seafloor.",
+    "key_figures": [
+      "30 seconds of power generation",
+      "1 mile below ocean surface"
+    ],
+    "keywords": [
+      "drilling"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_25b4079937"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0377027326002234?dgcid=rss_sd_all": {
+    "id": "79ed56abb90d",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0377027326002234?dgcid=rss_sd_all",
+    "title": "Revealing volcanic-CO<sub>2</sub> degassing in high-alkaline caldera-hosted volcanic lake established from near-surface hydrogeochemical data: A case study of Lake Batur, Indonesia",
+    "source": "J. Volcanology & Geothermal Research (Elsevier)",
+    "published": null,
+    "date_added": "2026-10-20",
+    "plain_summary": "Researchers studied Lake Batur in Indonesia to understand how volcanic gas (specifically carbon dioxide) escapes from underground volcanic systems into a crater lake with high mineral content. By examining water chemistry near the surface, they were able to identify and track this gas release process, which helps us better understand volcanic activity and subsurface conditions in geothermal regions.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_79ed56abb9"
+  },
+  "https://www.edengeothermal.com/2026/10/19/renewable-energy-association-uk-conference-2026/": {
+    "id": "6ad00735c040",
+    "url": "https://www.edengeothermal.com/2026/10/19/renewable-energy-association-uk-conference-2026/",
+    "title": "Renewable Energy Association UK Conference 2026",
+    "source": "Eden Geothermal (blog)",
+    "published": "2026-10-19T21:33:58+00:00",
+    "date_added": "2026-10-20",
+    "plain_summary": "The UK Renewable Energy Association held a 2026 geothermal conference where government officials and industry leaders discussed the current state of geothermal energy demand and development. The event highlighted Cornwall's significant role in the UK's deep geothermal industry, with multiple local experts and companies participating in panel discussions about the sector's future.",
+    "key_figures": [],
+    "keywords": [
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_6ad00735c0"
   }
 }
