@@ -8986,5 +8986,49 @@
     "relevance": "medium",
     "highlight": false,
     "cluster_id": "c_6ad00735c0"
+  },
+  "https://www.thinkgeoenergy.com/first-contract-awarded-for-deep-geothermal-exploration-drilling-in-berlin-germany/": {
+    "id": "6fdca24ba799",
+    "url": "https://www.thinkgeoenergy.com/first-contract-awarded-for-deep-geothermal-exploration-drilling-in-berlin-germany/",
+    "title": "First contract awarded for deep geothermal exploration drilling in Berlin, Germany",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-20T16:24:13+00:00",
+    "date_added": "2026-10-21",
+    "plain_summary": "Berlin has awarded a contract to explore deep geothermal energy, which involves tapping into hot rock layers beneath the ground to generate heat. A company will drill about 2,000 meters deep at a power plant site to collect rock samples and test the water-bearing layers to determine if geothermal energy could reliably heat the city. This exploration is the first practical step toward using this abundant, emissions-free heat source to help Berlin transition to climate-neutral energy.",
+    "key_figures": [
+      "2,000 meters drilling depth",
+      "70 MWth heating capacity target by 2035",
+      "250 MWth heating capacity target by 2045",
+      "3D seismic survey results expected by 2028"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "legislation"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_6fdca24ba7"
+  },
+  "https://www.geothermalcanada.org/news/2026/10/21/current-status-of-geretsried-geothermal-project": {
+    "id": "99f7b9426d97",
+    "url": "https://www.geothermalcanada.org/news/2026/10/21/current-status-of-geretsried-geothermal-project",
+    "title": "Eavor withdraws drilling rigs from the Geretsried geothermal project site in Germany",
+    "source": "Geothermal Canada",
+    "published": "2026-10-20T21:13:00+00:00",
+    "date_added": "2026-10-21",
+    "plain_summary": "Eavor Technologies is temporarily removing its drilling equipment from its geothermal project in Geretsried, Germany to reduce costs while the company works on improving the project's business arrangements. The site began producing electricity in 2025 using Eavor's closed-loop geothermal technology (a system where fluid circulates in sealed underground pipes to extract heat), but it only generated between 0.5 to 2.0 megawatts of power with minimal electricity reaching the grid. The company plans to continue developing the project and eventually drill a second loop once it secures better agreements with local heating customers.",
+    "key_figures": [
+      "0.5 to 2.0 MWe gross power generation",
+      "81,200 MWh per annum heat supply agreement"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_99f7b9426d"
   }
 }
