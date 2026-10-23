@@ -9030,5 +9030,249 @@
     "relevance": "high",
     "highlight": true,
     "cluster_id": "c_99f7b9426d"
+  },
+  "https://www.thinkgeoenergy.com/taranis-acquires-majority-interest-in-corbetti-geothermal-project-ethiopia/": {
+    "id": "8df7a613031d",
+    "url": "https://www.thinkgeoenergy.com/taranis-acquires-majority-interest-in-corbetti-geothermal-project-ethiopia/",
+    "title": "Taranis acquires majority interest in Corbetti geothermal project, Ethiopia",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-23T10:56:38+00:00",
+    "date_added": "2026-10-23",
+    "plain_summary": "A company called Taranis has invested $27 million to take control of the Corbetti geothermal project in Ethiopia, partnering with another organization that keeps a smaller stake. The project plans to drill exploratory wells to confirm there is enough heat and hot rock underground to generate electricity, with initial plans for a 50-megawatt power plant (a measure of electrical output) and potential expansion to 150 megawatts total if results are positive.",
+    "key_figures": [
+      "$27 million investment",
+      "50 MW initial power development",
+      "100 MW potential expansion",
+      "250 kilometers from Addis Ababa",
+      "$6.74 million InfraCo equity subscription",
+      "$17.1 million Taranis equity subscription"
+    ],
+    "keywords": [
+      "drilling",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_8df7a61303"
+  },
+  "https://www.thinkgeoenergy.com/geothermal-drilling-in-la-palma-declared-exempt-from-environmental-assessment/": {
+    "id": "92e2c0aa390b",
+    "url": "https://www.thinkgeoenergy.com/geothermal-drilling-in-la-palma-declared-exempt-from-environmental-assessment/",
+    "title": "Geothermal drilling in La Palma declared exempt from environmental assessment",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-22T12:48:33+00:00",
+    "date_added": "2026-10-23",
+    "plain_summary": "The Canary Islands government has streamlined environmental approval for geothermal drilling projects on La Palma, allowing them to skip the full environmental review process. This fast-track approval aligns with European rules designed to speed up renewable energy development. Multiple companies are pursuing geothermal exploration on the island, though one major company (Repsol) has already withdrawn from its projects.",
+    "key_figures": [
+      "2300 meters drilling depth in Tenerife",
+      "six geothermal projects in La Palma receiving subsidies"
+    ],
+    "keywords": [
+      "drilling",
+      "legislation"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_92e2c0aa39"
+  },
+  "https://www.thinkgeoenergy.com/steam-completes-geochemical-and-gravity-surveys-at-karthala-geothermal-field-comoros/": {
+    "id": "00e0e9d2696c",
+    "url": "https://www.thinkgeoenergy.com/steam-completes-geochemical-and-gravity-surveys-at-karthala-geothermal-field-comoros/",
+    "title": "STEAM completes geochemical and gravity surveys at Karthala geothermal field, Comoros",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-21T13:15:22+00:00",
+    "date_added": "2026-10-23",
+    "plain_summary": "A company called STEAM has completed detailed underground surveys at Karthala, a volcanic geothermal field in Comoros, to prepare for drilling deep exploration wells. The surveys measured gravity (how density changes underground), collected gas samples from volcanic vents, and combined this data with previous studies to create an updated model showing where hot rocks and fluids are located. Results indicate reservoir temperatures around 275–315 °C and confirm this is a viable high-temperature geothermal system (one that naturally produces very hot fluid), with the northern area identified as the best location for the first deep exploration well.",
+    "key_figures": [
+      "252-261 °C gas geothermometry temperature range",
+      "275-315 °C dry-gas geothermometry temperature estimate",
+      "88 °C sampled vent outlet temperature",
+      "90 mol% CO2 in fumarolic gas composition",
+      "3,000 m minimum true vertical depth for first exploration well",
+      "2,500 m previous well design depth"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "sensors"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_00e0e9d269"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002865?dgcid=rss_sd_all": {
+    "id": "84b39988e6d2",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002865?dgcid=rss_sd_all",
+    "title": "Identifying geothermal prospectivity zones in the Fergana Valley through lineament density and land surface temperature anomalies",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-10-23",
+    "plain_summary": "Researchers developed a method to identify promising areas for geothermal energy development in the Fergana Valley by analyzing two types of data: lineament density (patterns of cracks and fractures in rock that help heat flow) and land surface temperature anomalies (areas where the ground is unusually hot). This technique helps geothermal explorers find the best locations to develop new projects without drilling unnecessarily.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_84b39988e6"
+  },
+  "https://www.thinkgeoenergy.com/geothermal-heating-project-in-hanover-germany-to-no-longer-be-implemented/": {
+    "id": "bfbd7d2c07ee",
+    "url": "https://www.thinkgeoenergy.com/geothermal-heating-project-in-hanover-germany-to-no-longer-be-implemented/",
+    "title": "Geothermal heating project in Hanover, Germany to no longer be implemented",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-23T16:14:40+00:00",
+    "date_added": "2026-10-23",
+    "plain_summary": "A planned geothermal heating project in Hanover, Germany has been cancelled. The project was supposed to use Eavor-Loop technology (a method for extracting heat from deep underground rock) to supply up to 30 megawatts of heat to the city's district heating system starting in 2026, but Eavor decided to shift away from being a project developer and investor. The utility company enercity says it will still phase out coal heating by 2028 using other renewable energy sources instead.",
+    "key_figures": [
+      "30 MW geothermal heat capacity",
+      "drilling start targeted 2025",
+      "heating supply planned 2026",
+      "coal phase-out deadline winter 2027/2028"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_bfbd7d2c07"
+  },
+  "https://www.thinkgeoenergy.com/geothermal-research-in-thurgau-switzerland-to-continue-with-3d-seismic-survey/": {
+    "id": "e795c616fb20",
+    "url": "https://www.thinkgeoenergy.com/geothermal-research-in-thurgau-switzerland-to-continue-with-3d-seismic-survey/",
+    "title": "Geothermal research in Thurgau, Switzerland to continue with 3D seismic survey",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-23T11:30:53+00:00",
+    "date_added": "2026-10-23",
+    "plain_summary": "Researchers in Switzerland are studying deep geothermal resources (heat stored in hot rock layers far underground) and have found three different water-bearing rock layers at various depths with different temperatures. They plan to conduct a 3D seismic survey (using sound waves to map underground structures) across 430 square kilometers in 2027-2028 to better understand where the hottest and most usable geothermal resources are located, which will help communities and businesses develop their own geothermal projects.",
+    "key_figures": [
+      "430 square kilometers survey area",
+      "2027/2028 winter season timing",
+      "approximately 4 months survey duration",
+      "two deep boreholes investigated for more than two years"
+    ],
+    "keywords": [
+      "well construction",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_e795c616fb"
+  },
+  "https://www.thinkgeoenergy.com/geobrie-geothermal-heating-project-in-france-launches-crowdfunding-campaign/": {
+    "id": "c7c795a12cb3",
+    "url": "https://www.thinkgeoenergy.com/geobrie-geothermal-heating-project-in-france-launches-crowdfunding-campaign/",
+    "title": "GeoBrie geothermal heating project in France launches crowdfunding campaign",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-21T14:12:48+00:00",
+    "date_added": "2026-10-23",
+    "plain_summary": "A French company is raising money from the public to build a geothermal district heating network (a system that distributes heat from underground hot rocks to multiple buildings through pipes) serving four towns near Paris. The project will use geothermal energy—heat extracted from deep underground—to supply heating to approximately 12,000 homes, with most of the heat coming from this renewable underground source rather than fossil fuels.",
+    "key_figures": [
+      "4% or 6% annual interest rate on investments",
+      "4 year holding period",
+      "EUR 100 minimum investment",
+      "EUR 5,000 maximum investment per person",
+      "EUR 500,000 crowdfunding target",
+      "EUR 120,200 raised as of October 21, 2026",
+      "116 GWh annual heat output",
+      "12,000 homes equivalent consumption",
+      "94% geothermal energy supply",
+      "EUR 107 million total project investment",
+      "42 kilometer distribution network",
+      "200 substations"
+    ],
+    "keywords": [
+      "funding",
+      "well construction"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_c7c795a12c"
+  },
+  "https://www.thinkgeoenergy.com/retrofit-adds-8-mw-capacity-to-darajat-unit-3-geothermal-power-plant-indonesia/": {
+    "id": "8e7849c07d74",
+    "url": "https://www.thinkgeoenergy.com/retrofit-adds-8-mw-capacity-to-darajat-unit-3-geothermal-power-plant-indonesia/",
+    "title": "Retrofit adds 8 MW capacity to Darajat Unit 3 geothermal power plant, Indonesia",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-10-20T11:40:41+00:00",
+    "date_added": "2026-10-23",
+    "plain_summary": "Mitsubishi Power has successfully upgraded Indonesia's Darajat Unit 3 geothermal power plant (a facility that generates electricity from heat deep underground), increasing its electricity output from 121 megawatts to 129 megawatts by replacing key equipment. The company used innovative construction methods to complete the project quickly and safely, and has now signed an agreement to explore additional technologies that could further improve the plant's performance and efficiency.",
+    "key_figures": [
+      "8 MW capacity increase",
+      "121 MW original capacity",
+      "129 MW new capacity",
+      "2009 Unit 3 online date",
+      "USD 121 million loan facility",
+      "102.6 MWe additional capacity target",
+      "30 MW Wayang Windu Unit 3"
+    ],
+    "keywords": [
+      "well construction",
+      "materials",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_8e7849c07d"
+  },
+  "https://www.energy.gov/hgeo/geothermal/articles/progress-and-next-gen-power-highlights-2026-geothermal-rising-conference": {
+    "id": "f98fa63cb0e2",
+    "url": "https://www.energy.gov/hgeo/geothermal/articles/progress-and-next-gen-power-highlights-2026-geothermal-rising-conference",
+    "title": "Progress and Next-Gen Power: Highlights from the 2026 Geothermal Rising Conference",
+    "source": "DOE Office of Geothermal",
+    "published": "2026-10-21T13:45:00+00:00",
+    "date_added": "2026-10-23",
+    "plain_summary": "The Department of Energy's geothermal office showcased its support for geothermal energy at a major industry conference in Houston, announcing 21 new projects focused on testing advanced geothermal technologies and exploring new geothermal resources. The conference highlighted innovations in drilling equipment, heat-resistant materials, and circulation systems that could help make geothermal energy more affordable and widely available as a reliable power source.",
+    "key_figures": [
+      "21 projects selected for field-scale tests"
+    ],
+    "keywords": [
+      "drilling",
+      "materials",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_f98fa63cb0"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002841?dgcid=rss_sd_all": {
+    "id": "e8b39a10ce61",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002841?dgcid=rss_sd_all",
+    "title": "Temporal changes in seismic response of the Tres Vírgenes geothermal field (Mexico) from HVSR: Reservoir-scale variability and depth sensitivity",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-10-23",
+    "plain_summary": "Researchers studied the Tres Vírgenes geothermal field in Mexico using a seismic measurement technique called HVSR (horizontal-to-vertical spectral ratio) to understand how the underground rock layers change over time. By analyzing how seismic waves move through the subsurface (the layers of rock and soil beneath the surface), they discovered that different depths and locations within the geothermal reservoir show varying responses, which could help improve how geothermal energy is extracted from hot rock formations.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping",
+      "sensors"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_e8b39a10ce"
+  },
+  "https://www.geothermalcanada.org/news/2026/10/21/drilling-down-on-how-canadians-feel-about-geothermal-energy": {
+    "id": "2130ecb0454c",
+    "url": "https://www.geothermalcanada.org/news/2026/10/21/drilling-down-on-how-canadians-feel-about-geothermal-energy",
+    "title": "Drilling down on how Canadians feel about geothermal energy",
+    "source": "Geothermal Canada",
+    "published": "2026-10-21T16:12:08+00:00",
+    "date_added": "2026-10-23",
+    "plain_summary": "A recent survey of about 2,500 people in Alberta and British Columbia found that roughly half of Canadians have little to no familiarity with geothermal energy (heat extracted from within the Earth), making it far less well-known than other major energy sources. The research suggests geothermal is a promising clean energy option that most Canadians simply haven't learned about yet.",
+    "key_figures": [
+      "2,500 survey respondents",
+      "50% low or no familiarity"
+    ],
+    "keywords": [
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_2130ecb045"
   }
 }

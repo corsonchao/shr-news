@@ -242,7 +242,12 @@
     "1d6827ca0a79",
     "8eb69a42f662",
     "6fdca24ba799",
-    "99f7b9426d97"
+    "99f7b9426d97",
+    "8df7a613031d",
+    "92e2c0aa390b",
+    "00e0e9d2696c",
+    "bfbd7d2c07ee",
+    "f98fa63cb0e2"
   ],
   "well construction": [
     "1272fa965727",
@@ -439,7 +444,12 @@
     "e03bebcbcabf",
     "c4e78e4e493e",
     "6fdca24ba799",
-    "99f7b9426d97"
+    "99f7b9426d97",
+    "00e0e9d2696c",
+    "bfbd7d2c07ee",
+    "e795c616fb20",
+    "c7c795a12cb3",
+    "8e7849c07d74"
   ],
   "New geothermal projects": [
     "33cd8ca46ea2",
@@ -700,7 +710,11 @@
     "e03bebcbcabf",
     "2e82279cc9fc",
     "79ed56abb90d",
-    "6fdca24ba799"
+    "6fdca24ba799",
+    "00e0e9d2696c",
+    "84b39988e6d2",
+    "e795c616fb20",
+    "e8b39a10ce61"
   ],
   "legislation": [
     "55072d4b9fd3",
@@ -761,7 +775,9 @@
     "437205eb2ec3",
     "85c02d3198c7",
     "6ad00735c040",
-    "6fdca24ba799"
+    "6fdca24ba799",
+    "92e2c0aa390b",
+    "2130ecb0454c"
   ],
   "funding": [
     "3b10808d4572",
@@ -960,7 +976,13 @@
     "85c02d3198c7",
     "e03bebcbcabf",
     "c4e78e4e493e",
-    "1d6827ca0a79"
+    "1d6827ca0a79",
+    "8df7a613031d",
+    "bfbd7d2c07ee",
+    "e795c616fb20",
+    "c7c795a12cb3",
+    "8e7849c07d74",
+    "f98fa63cb0e2"
   ],
   "materials": [
     "775f8fb223c6",
@@ -1004,7 +1026,9 @@
     "cbb07266923d",
     "2fe7fbc355c2",
     "e291fab12cb1",
-    "e03bebcbcabf"
+    "e03bebcbcabf",
+    "8e7849c07d74",
+    "f98fa63cb0e2"
   ],
   "sensors": [
     "455bb5bb4a94",
@@ -1035,7 +1059,9 @@
     "376425d55a52",
     "4ee7238e7117",
     "b7310acf7e99",
-    "d797c1469468"
+    "d797c1469468",
+    "00e0e9d2696c",
+    "e8b39a10ce61"
   ],
   "electronics": [
     "b23281698111",
