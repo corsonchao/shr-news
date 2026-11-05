@@ -37,10 +37,17 @@ rss_feeds:
     url: "https://www.greenfireenergy.com/category/blog/feed/"  # candidate
   - name: "Eden Geothermal (blog)"
     url: "https://www.edengeothermal.com/feed/"  
-
+  - name: "New York Times — Climate & Environment"
+    url: "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml"
+  - name: "New York Times — Energy & Environment"
+    url: "https://rss.nytimes.com/services/xml/rss/nyt/EnergyEnvironment.xml"
+  - name: "Washington Post — general"
+    url: "https://www.washingtonpost.com/arcio/rss/"
+  - name: "Financial Times — Energy"
+    url: "https://www.ft.com/energy?format=rss"
 google_news:
   - name: "SHR core"
-    query: '"superhot rock" OR "superhot geothermal" OR "super-hot rock" geothermal'
+    query: '"superhot rock" OR "superhot geothermal" OR "next-generation geothermal" OR "next gen geothermal" OR "super-hot rock" geothermal'
   - name: "SHR + drilling/materials"
     query: '("superhot" OR "enhanced geothermal" OR EGS) (drilling OR "well construction" OR gyrotron OR "millimeter wave")'
   - name: "SHR + sensors/subsurface"
