@@ -9795,5 +9795,364 @@
     "relevance": "medium",
     "highlight": false,
     "cluster_id": "c_45cde9b4b1"
+  },
+  "https://www.thinkgeoenergy.com/france-suspends-heat-fund-applications-amidst-gap-between-budget-and-aid-requests/": {
+    "id": "187910b84359",
+    "url": "https://www.thinkgeoenergy.com/france-suspends-heat-fund-applications-amidst-gap-between-budget-and-aid-requests/",
+    "title": "France suspends Heat Fund applications amidst gap between budget and aid requests",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-04T15:37:41+00:00",
+    "date_added": "2026-11-05",
+    "plain_summary": "France has temporarily stopped accepting new applications for its Heat Fund, a government program that helps pay for renewable heating projects including geothermal energy (heat extracted from hot rock underground). The pause happened because there are far more funding requests than money available—applicants are asking for €1.8 billion but only €500 million is budgeted through 2027. The program has previously supported geothermal heating projects in the Paris Basin region, and officials are working to decide which new projects to prioritize with the limited funds.",
+    "key_figures": [
+      "€8.9 million funding to Le Chesnay-Rocquencourt",
+      "€7.3 million funding to Alfortville",
+      "€29.25 million funding to Plessis-Robinson and Chatenay-Malabry",
+      "€170.6 million Heat Fund released 2015-2024 for deep geothermal",
+      "€869.7 million total investment enabled by Heat Fund geothermal support",
+      "€85 million allocated to geothermal for 2025",
+      "€1.8 billion in current aid applications",
+      "€500 million 2027 approved budget",
+      "€800 million 2025-2026 budget"
+    ],
+    "keywords": [
+      "funding",
+      "legislation"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_187910b843"
+  },
+  "https://www.thinkgeoenergy.com/seequent-acquires-seismic-interpretations-software-company-eliis/": {
+    "id": "6e3f7c7739e3",
+    "url": "https://www.thinkgeoenergy.com/seequent-acquires-seismic-interpretations-software-company-eliis/",
+    "title": "Seequent acquires seismic interpretations software company Eliis",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-04T13:09:29+00:00",
+    "date_added": "2026-11-05",
+    "plain_summary": "Seequent, a company that makes software for understanding underground geology, has acquired Eliis, which makes seismic interpretation software (software that analyzes sound wave data to map rock layers below the surface). This combination allows Seequent to offer geothermal companies better tools for exploring and operating geothermal fields, from initial exploration through ongoing operation. The acquisition brings together specialized expertise in reading seismic data with existing tools for modeling underground reservoirs and predicting how geothermal systems will behave.",
+    "key_figures": [
+      "9 of top 10 geothermal operators using Seequent technology",
+      "nearly 20 years of R&D at Eliis"
+    ],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_6e3f7c7739"
+  },
+  "https://www.thinkgeoenergy.com/induced-seismicity-event-at-rittershoffen-geothermal-plant-in-france-studied-as-operators-aim-to-resume/": {
+    "id": "ad350ce397a3",
+    "url": "https://www.thinkgeoenergy.com/induced-seismicity-event-at-rittershoffen-geothermal-plant-in-france-studied-as-operators-aim-to-resume/",
+    "title": "Induced seismicity at Rittershoffen geothermal plant, France studied as operators aim to resume",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-02T13:12:27+00:00",
+    "date_added": "2026-11-05",
+    "plain_summary": "A geothermal heating plant in France that has been operating since 2016 was shut down in December 2025 after experiencing over 400 small earthquakes (induced seismicity—earthquakes triggered by human activity) in two weeks, with the largest measuring 2.5 magnitude. Scientists determined that the earthquakes were caused by thermal contraction—the rock shrinking as it cooled from the plant's heat extraction process—rather than by pressure from fluid injection alone. Computer models predict that if the plant operates for another 20 years, the cooling effect could release 10 times more seismic energy, potentially causing a magnitude 3.1 earthquake, though operators are exploring technical modifications to restart the plant safely by year-end.",
+    "key_figures": [
+      "2.5 magnitude largest seismic event",
+      "400+ seismic events recorded between December 4-17, 2025",
+      "15 kilometers distance to heat customer",
+      "20 additional years simulated operation period",
+      "10 times more seismic energy predicted after 20 years",
+      "3.1 magnitude predicted event",
+      "2016 operations start year",
+      "2012 drilling operations start year"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_ad350ce397"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0960148126014722?dgcid=rss_sd_all": {
+    "id": "c302578ce950",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0960148126014722?dgcid=rss_sd_all",
+    "title": "Heat extraction characteristics of CO<sub>2</sub>-based closed-loop U-shaped deep geothermal wells under natural circulation",
+    "source": "Renewable Energy (Elsevier)",
+    "published": null,
+    "date_added": "2026-11-05",
+    "plain_summary": "Researchers studied how to extract heat from very deep underground rock formations using a closed-loop system (a sealed pipe that circulates fluid down and back up) filled with carbon dioxide rather than water. The study examined how heat naturally transfers from the hot rock into the circulating fluid without needing pumps, which could make superhot rock geothermal systems more efficient and practical.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_c302578ce9"
+  },
+  "https://www.geothermalcanada.org/news/2026/11/5/unbc-researcher-named-canada-research-chair-in-subsurface-systems": {
+    "id": "2b09722eaa3f",
+    "url": "https://www.geothermalcanada.org/news/2026/11/5/unbc-researcher-named-canada-research-chair-in-subsurface-systems",
+    "title": "UNBC Researcher Named Canada Research Chair in Subsurface Systems",
+    "source": "Geothermal Canada",
+    "published": "2026-11-05T09:23:00+00:00",
+    "date_added": "2026-11-05",
+    "plain_summary": "A Canadian researcher has received funding to study how rocks deep underground behave when subjected to human activities like mining and energy extraction. His work includes examining geothermal potential in northeastern British Columbia, where cold water would be injected into hot rock formations kilometers below the surface to generate heat for energy. Understanding rock behavior in these scenarios could help prevent geological hazards and make resource development safer.",
+    "key_figures": [
+      "$600,000 funding over five years",
+      "1.8 kilometres depth for water injection",
+      "$3.6 million in federal research funding to UNBC"
+    ],
+    "keywords": [
+      "subsurface mapping",
+      "funding",
+      "drilling"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_2b09722eaa"
+  },
+  "https://www.thinkgeoenergy.com/kutno-poland-receives-government-funding-for-geothermal-heating-project/": {
+    "id": "95bad3e61b3f",
+    "url": "https://www.thinkgeoenergy.com/kutno-poland-receives-government-funding-for-geothermal-heating-project/",
+    "title": "Kutno, Poland receives government funding for geothermal heating project",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-05T12:00:43+00:00",
+    "date_added": "2026-11-05",
+    "plain_summary": "A heating company in Kutno, Poland received approximately $15 million in government funding to build a geothermal heating plant that will tap into hot rock underground. The plant will drill two wells about 3 kilometers deep to access hot water around 90°C (194°F) that can provide nearly half of the city's heating needs, representing a shift toward using local renewable energy sources instead of traditional heating methods.",
+    "key_figures": [
+      "PLN 59 million (USD 15 million) government funding",
+      "6.4 MWt plant capacity",
+      "45.7% of total heating supply",
+      "PLN 109 million total project cost",
+      "3010 meters drilling depth",
+      "90°C resource temperature",
+      "150 cubic meters per hour flow rate"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_95bad3e61b"
+  },
+  "https://www.thinkgeoenergy.com/drilling-commences-for-cold-district-heating-network-in-munster-germany/": {
+    "id": "70489ef9d9a3",
+    "url": "https://www.thinkgeoenergy.com/drilling-commences-for-cold-district-heating-network-in-munster-germany/",
+    "title": "Drilling commences for cold district heating network in Münster, Germany",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-04T17:08:27+00:00",
+    "date_added": "2026-11-05",
+    "plain_summary": "A city utility company in Germany is drilling shallow wells about 300 meters deep to gather information about underground temperatures and soil types for a heating and cooling system called a cold district heating network. This system uses heat pumps (machines that move heat from one place to another) to extract warmth from the ground and provide heating in winter or cooling in summer to buildings. The city has already successfully built similar systems in two other neighborhoods and is also exploring deeper drilling down to 1,500 meters to reach hotter rock layers by 2028.",
+    "key_figures": [
+      "300 meters drilling depth for exploratory wells",
+      "39 boreholes in Kirschgarten",
+      "250 meters depth per borehole",
+      "6,000 meters depth from seismic survey",
+      "900 to 1,500 meters planned deep drilling depth",
+      "2028 target year for deep drilling"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_70489ef9d9"
+  },
+  "https://www.thinkgeoenergy.com/pertamina-eyes-first-geothermal-powered-green-data-center-pilot-in-indonesia/": {
+    "id": "25e26af34661",
+    "url": "https://www.thinkgeoenergy.com/pertamina-eyes-first-geothermal-powered-green-data-center-pilot-in-indonesia/",
+    "title": "Pertamina eyes first geothermal-powered green data center pilot in Indonesia",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-04T14:33:11+00:00",
+    "date_added": "2026-11-05",
+    "plain_summary": "An Indonesian energy company is testing whether geothermal energy (heat from deep underground rocks) can reliably power data centers, which normally consume massive amounts of electricity. They plan to use 5 megawatts of power from an existing geothermal plant to run a pilot data center, aiming to prove this business model works and address concerns about water usage at data centers. If successful, this could show that geothermal energy is a clean alternative to traditional power sources for energy-intensive operations.",
+    "key_figures": [
+      "5 MW capacity allocation",
+      "1 to 2 years pilot duration",
+      "end of 2026 or early 2027 review completion timeline"
+    ],
+    "keywords": [
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_25e26af346"
+  },
+  "https://www.thinkgeoenergy.com/24-mw-kocaer-1-geothermal-power-project-in-turkiye-receives-positive-environmental-review/": {
+    "id": "4256c6b07b85",
+    "url": "https://www.thinkgeoenergy.com/24-mw-kocaer-1-geothermal-power-project-in-turkiye-receives-positive-environmental-review/",
+    "title": "24-MW Kocaer 1 geothermal power project in Türkiye receives positive environmental review",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-03T14:41:13+00:00",
+    "date_added": "2026-11-05",
+    "plain_summary": "Turkey has approved an environmental review for a new geothermal power plant called Kocaer 1 that will generate electricity by tapping into heat from underground rock. The project plans to drill 32 wells (holes deep underground) in the Aydin region to access hot geothermal resources and produce enough electricity to power tens of thousands of homes annually. The company now needs to obtain additional permits before construction can begin.",
+    "key_figures": [
+      "24 MW plant capacity",
+      "32 wells planned for drilling",
+      "9 production wells",
+      "6 reinjection wells",
+      "1 alternative production well",
+      "16 exploration wells",
+      "192 GWh annual electricity generation",
+      "TRY 3.18 billion investment cost",
+      "USD 63.6 million investment cost"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_4256c6b07b"
+  },
+  "https://www.thinkgeoenergy.com/omv-enters-geothermal-heating-project-in-amsterdam-netherlands-as-operator/": {
+    "id": "8765dda4b8b3",
+    "url": "https://www.thinkgeoenergy.com/omv-enters-geothermal-heating-project-in-amsterdam-netherlands-as-operator/",
+    "title": "OMV enters geothermal heating project in Amsterdam, Netherlands as operator",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-03T13:45:00+00:00",
+    "date_added": "2026-11-05",
+    "plain_summary": "An Austrian energy company called OMV has been chosen to lead a project that will develop geothermal heating (extracting heat from hot rock deep underground to warm buildings) in the Amsterdam region of the Netherlands. The project aims to use geothermal doublets (pairs of wells that extract heat from underground and return cooled water) to supply heat to homes and buildings through existing heating networks, with hopes to begin delivering heat by 2030.",
+    "key_figures": [
+      "2030 target year for heat supply start"
+    ],
+    "keywords": [
+      "well construction",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_8765dda4b8"
+  },
+  "https://www.thinkgeoenergy.com/two-tribal-led-geothermal-projects-in-new-zealand-to-receive-government-funding/": {
+    "id": "678ac29f259a",
+    "url": "https://www.thinkgeoenergy.com/two-tribal-led-geothermal-projects-in-new-zealand-to-receive-government-funding/",
+    "title": "Two tribal-led geothermal projects in New Zealand to receive government funding",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-03T12:38:07+00:00",
+    "date_added": "2026-11-05",
+    "plain_summary": "New Zealand's government is providing NZD 6.82 million in funding to two Maori tribal-led geothermal projects in the Bay of Plenty region. One project will explore and characterize a geothermal resource (heat from deep underground rock) on tribal land near Rotorua, while the other will research the Waimangu geothermal system—the world's youngest, created by a volcanic eruption in 1886—to better understand it while protecting its environmental and cultural significance. These projects aim to reduce the high costs and knowledge gaps that typically hinder geothermal exploration and development.",
+    "key_figures": [
+      "NZD 6.82 million total funding",
+      "NZD 3.82 million loan to Ngati Rangiteaorere project",
+      "NZD 3 million grant to Waimangu project",
+      "NZD 5.53 million estimated total cost for Ngati Rangiteaorere project",
+      "NZD 50 million ringfenced for geothermal exploration",
+      "NZD 23 million awarded to three initial projects",
+      "1886 Mount Tarawera eruption formed Waimangu system"
+    ],
+    "keywords": [
+      "funding",
+      "subsurface mapping",
+      "drilling"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_678ac29f25"
+  },
+  "https://www.thinkgeoenergy.com/blm-california-geothermal-lease-sale-nets-3-7m-in-winning-bids/": {
+    "id": "6da99d6cf097",
+    "url": "https://www.thinkgeoenergy.com/blm-california-geothermal-lease-sale-nets-3-7m-in-winning-bids/",
+    "title": "BLM California geothermal lease sale nets $3.7M in winning bids",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-02T10:33:47+00:00",
+    "date_added": "2026-11-05",
+    "plain_summary": "The U.S. Bureau of Land Management held an auction in California where companies bid on rights to explore and develop geothermal energy on government-owned land. Six companies won contracts to lease 16 parcels of land totaling about 33,000 acres across five counties, with their combined winning bids reaching $3.7 million. Two companies made particularly high bids on parcels in Inyo County, accounting for more than three-quarters of the total money raised.",
+    "key_figures": [
+      "$3.7 million total winning bids",
+      "16 parcels leased",
+      "33,362 acres total",
+      "$304 per acre highest bid",
+      "$95.1 per acre average bid",
+      "6 companies won bids"
+    ],
+    "keywords": [
+      "funding",
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_6da99d6cf0"
+  },
+  "https://www.canarymedia.com/articles/geothermal/boise-geothermal-network-affordable-homes": {
+    "id": "94b7e76f5e20",
+    "url": "https://www.canarymedia.com/articles/geothermal/boise-geothermal-network-affordable-homes",
+    "title": "Boise plans to tap its geothermal network to heat 300 affordable homes",
+    "source": "Canary Media",
+    "published": "2026-11-02T08:30:00+00:00",
+    "date_added": "2026-11-05",
+    "plain_summary": "Boise is expanding its use of geothermal energy (heat naturally stored in rocks underground) to heat 300 new affordable homes. The city already operates America's largest geothermal district heating system, which takes hot water from below ground and distributes it through pipes to warm buildings including the state capitol.",
+    "key_figures": [
+      "177°F water temperature",
+      "100 buildings currently heated",
+      "300 affordable homes planned"
+    ],
+    "keywords": [
+      "drilling",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_94b7e76f5e"
+  },
+  "https://dailyenergyinsider.com/news/54309-colorado-gov-polis-releases-geothermal-assessment-report/": {
+    "id": "ffc2d8dc1f53",
+    "url": "https://dailyenergyinsider.com/news/54309-colorado-gov-polis-releases-geothermal-assessment-report/",
+    "title": "Colorado Gov. Polis releases geothermal assessment report",
+    "source": "Daily Energy Insider — Clean Energy",
+    "published": "2026-11-02T13:00:11+00:00",
+    "date_added": "2026-11-05",
+    "plain_summary": "Colorado's governor released a detailed study examining the state's potential to use geothermal energy—heat from beneath the Earth's surface—for heating, cooling, and generating electricity. The report found that geothermal heating and cooling systems can work across all regions of Colorado to lower heating costs and improve air quality, while electricity generation looks especially promising in areas like the Denver-Julesburg Basin that already have geological data from oil and gas drilling. The study also notes that geothermal work requires many of the same skills as oil and gas jobs, offering a way to create employment in communities transitioning away from fossil fuels.",
+    "key_figures": [
+      "$42.6 million in state geothermal incentive awards",
+      "81% allocated to thermal energy networks",
+      "12% allocated to geothermal electricity exploration",
+      "7% allocated to direct use/waste heat recovery",
+      "60% workforce skills overlap with oil and gas sector",
+      "2050 net-zero greenhouse gas target"
+    ],
+    "keywords": [
+      "funding",
+      "legislation",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_ffc2d8dc1f"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002890?dgcid=rss_sd_all": {
+    "id": "02eba83b57dd",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002890?dgcid=rss_sd_all",
+    "title": "Experimental characterisation of supersonic steam ejectors for geothermal applications: An analytical model comparison",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-11-05",
+    "plain_summary": "Researchers have studied supersonic steam ejectors (devices that use high-speed steam to move or compress other fluids) for use in geothermal energy systems. The team tested these ejectors experimentally and compared their real-world performance to computer models to understand how well the models predict actual behavior. This research helps engineers design better geothermal power plants that can operate more efficiently.",
+    "key_figures": [],
+    "keywords": [
+      "electronics"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_02eba83b57"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002920?dgcid=rss_sd_all": {
+    "id": "eafeef56efab",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002920?dgcid=rss_sd_all",
+    "title": "Hydrogeochemical evolution and recharge of carbonate geothermal systems in intermountain basins: Multi-isotope constraints and implications for sustainable management, Taiyuan Basin, Northern China",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-11-05",
+    "plain_summary": "This research study examines how water in carbonate rock formations (limestone and similar rocks) in China's Taiyuan Basin becomes geothermally heated and how it gets replenished over time. The scientists used multiple isotope analysis (a technique that studies different forms of chemical elements to trace water origins) to understand these underground systems better, with the goal of helping manage geothermal resources sustainably without depleting them.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_eafeef56ef"
   }
 }
