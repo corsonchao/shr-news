@@ -10154,5 +10154,645 @@
     "relevance": "medium",
     "highlight": false,
     "cluster_id": "c_eafeef56ef"
+  },
+  "https://www.thinkgeoenergy.com/arpa-e-announces-30m-funding-for-eight-innovative-superhot-geothermal-research-projects/": {
+    "id": "881adff2f46d",
+    "url": "https://www.thinkgeoenergy.com/arpa-e-announces-30m-funding-for-eight-innovative-superhot-geothermal-research-projects/",
+    "title": "ARPA-E announces $30M funding for eight innovative superhot geothermal research projects",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-13T15:35:05+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "The U.S. Department of Energy has awarded $30 million to eight research projects focused on superhot rock geothermal technology, which extracts energy from extremely hot underground rock (above 375°C or about 700°F). The projects aim to develop better materials, well designs, and testing methods that can withstand the harsh conditions deep underground and last at least 15 years, which is critical to making this energy source commercially viable and cost-effective.",
+    "key_figures": [
+      "$30 million total funding",
+      "375°C minimum temperature target",
+      "22 MPa minimum pressure",
+      "15 years minimum well lifetime goal",
+      "$6,300,000 Blade Energy Partners funding",
+      "$3,000,000 Oak Ridge National Laboratory funding",
+      "$3,000,000 University of Southern California funding",
+      "$3,100,000 University of Oklahoma funding",
+      "$5,500,000 Lawrence Livermore National Laboratory funding",
+      "$3,000,000 XGS Energy funding",
+      "$2,600,000 Pacific Northwest National Laboratory funding",
+      "$3,500,000 Los Alamos National Laboratory funding"
+    ],
+    "keywords": [
+      "funding",
+      "well construction",
+      "materials",
+      "drilling"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_9fb665ae01"
+  },
+  "https://www.thinkgeoenergy.com/call-for-abstracts-north-to-the-geothermal-future-3-5-may-2027-anchorage-alaska/": {
+    "id": "f3e73df907d0",
+    "url": "https://www.thinkgeoenergy.com/call-for-abstracts-north-to-the-geothermal-future-3-5-may-2027-anchorage-alaska/",
+    "title": "Call for Abstracts – North to the Geothermal Future; 3-5 May 2027; Anchorage, Alaska",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-12T20:15:03+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "A scientific conference scheduled for May 2027 in Anchorage is seeking research presentations on harnessing geothermal energy in Alaska and beyond. The event will cover various geothermal approaches, including superhot rock systems (rocks hotter than 400 degrees Celsius), which tap directly into magma chambers and represent a frontier technology. The conference aims to share lessons from geothermal projects worldwide to unlock Alaska's geothermal potential, which has been limited by geographic remoteness but is now becoming more feasible due to advances in energy transmission and storage.",
+    "key_figures": [
+      ">400 C target temperature for superhot systems",
+      "3-5 May 2027 conference dates",
+      "18 December 2026 abstract submission deadline"
+    ],
+    "keywords": [
+      "drilling",
+      "materials",
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_f3e73df907"
+  },
+  "https://www.thinkgeoenergy.com/baker-hughes-tpao-enter-agreement-to-evaluate-next-generation-geothermal-in-turkiye/": {
+    "id": "ec458a88eb7c",
+    "url": "https://www.thinkgeoenergy.com/baker-hughes-tpao-enter-agreement-to-evaluate-next-generation-geothermal-in-turkiye/",
+    "title": "Baker Hughes, TPAO enter agreement to evaluate next-generation geothermal in Türkiye",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-12T17:00:13+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "Baker Hughes, an energy technology company, and Turkey's national oil company have partnered to develop Enhanced Geothermal Systems (EGS)—a next-generation approach that taps into extremely hot rock deeper underground than traditional geothermal methods allow. The partnership will start by assessing Turkey's potential for EGS using existing data, then move to evaluating specific well locations and designs before testing through pilot drilling and eventual commercial deployment.",
+    "key_figures": [],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_ec458a88eb"
+  },
+  "https://www.thinkgeoenergy.com/sage-taps-halliburton-for-well-completion-and-stimulation-for-enhanced-geothermal-project-in-nevada/": {
+    "id": "0a04c96e240e",
+    "url": "https://www.thinkgeoenergy.com/sage-taps-halliburton-for-well-completion-and-stimulation-for-enhanced-geothermal-project-in-nevada/",
+    "title": "Sage taps Halliburton for well completion and stimulation for Enhanced Geothermal project in Nevada",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-11T19:51:47+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "Sage Geosystems has hired Halliburton, a large industrial services company, to help build and test wells for Project Vector, an Enhanced Geothermal Systems (EGS) project in Nevada. EGS is a technology that creates artificial underground reservoirs to extract heat from hot rock for electricity generation. Halliburton will provide expertise in cementing (sealing wells to prevent leaks) and stimulation (creating pathways for hot fluid to flow), drawing on its long experience in oil and gas and geothermal work.",
+    "key_figures": [
+      "two-well system",
+      "over 70 years experience in geothermal development"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_e7fe3b0480"
+  },
+  "https://www.thinkgeoenergy.com/kocaer-enerji-reports-financing-turbine-supply-deals-for-geothermal-power-project-in-turkiye/": {
+    "id": "0325fedfcd34",
+    "url": "https://www.thinkgeoenergy.com/kocaer-enerji-reports-financing-turbine-supply-deals-for-geothermal-power-project-in-turkiye/",
+    "title": "Kocaer Enerji reports financing, turbine supply deals for geothermal power project in Türkiye",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-11T18:54:00+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "A Turkish energy company has secured $37.8 million in financing and signed a contract to build a 24-megawatt geothermal power plant that will tap into hot rock at about 135°C (a medium temperature for geothermal energy). The plant will use ORC technology (a system that converts heat from the ground into electricity using a special turbine), and it's being built in two 12-megawatt phases with locally manufactured equipment to qualify for government incentives.",
+    "key_figures": [
+      "$37.825 million loan",
+      "24 MW total plant capacity",
+      "12.34 MWe first phase capacity",
+      "135°C resource temperature",
+      "538 MWe Exergy geothermal portfolio in Türkiye",
+      "32 wells planned for drilling",
+      "9 production wells",
+      "6 reinjection wells",
+      "1 alternative production well",
+      "16 exploration wells"
+    ],
+    "keywords": [
+      "drilling",
+      "funding",
+      "materials"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_0325fedfcd"
+  },
+  "https://www.thinkgeoenergy.com/zanskar-receives-categorical-exclusion-for-proposed-geothermal-project-in-elko-county-nevada/": {
+    "id": "2957e72b14c2",
+    "url": "https://www.thinkgeoenergy.com/zanskar-receives-categorical-exclusion-for-proposed-geothermal-project-in-elko-county-nevada/",
+    "title": "Zanskar receives Categorical Exclusion for proposed geothermal project in Elko County, Nevada",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-11T15:06:47+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "A company called Norte Geothermal has received approval from the U.S. Bureau of Land Management to drill exploratory wells in Nevada to test whether geothermal energy (heat from deep underground rock) can be developed there. The project will involve drilling 15 wells across five locations near Battle Mountain to collect data about the underground reservoir and assess if it's suitable for future geothermal energy production. This approval uses a streamlined permitting process introduced in 2025 that reduces the time needed to begin geothermal drilling projects on federal land.",
+    "key_figures": [
+      "15 geothermal wells (5 observation, 5 production, 5 reinjection)",
+      "5 well pads",
+      "300 x 240 feet well pad size",
+      "20 acres maximum surface disturbance",
+      "10 years maximum for vegetative reclamation",
+      "1 year permitting time reduction",
+      "10 temperature-gradient boreholes in Utah study"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "subsurface mapping",
+      "legislation"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_2957e72b14"
+  },
+  "https://www.thinkgeoenergy.com/fervo-energy-updates-on-geothermal-project-pipeline-and-expanded-offtake-agreements/": {
+    "id": "532046d3aced",
+    "url": "https://www.thinkgeoenergy.com/fervo-energy-updates-on-geothermal-project-pipeline-and-expanded-offtake-agreements/",
+    "title": "Fervo Energy updates on geothermal project pipeline and expanded offtake agreements",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-10T16:54:57+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "Fervo Energy is building a superhot rock geothermal power plant called Cape Station in phases. The first phase's second and third power generation units (called GeoBlocks) are nearly ready to start commercial operation by early 2027, with drilling and construction on track. The company has also signed a major agreement to supply 396 megawatts of power to Google starting in 2028, using an improved well design with longer horizontal sections and deeper drilling targets than the first phase.",
+    "key_figures": [
+      "396 MW power purchase agreement with Google",
+      "GeoBlock 2 and 3 on schedule for commercial operation by 1 January 2027",
+      "50 MW turbines for Cape Google 400 phase",
+      "18% complete on well drilling for Cape Google 400",
+      "USD 7000 per kW expected cost for GeoBlocks 1-3",
+      "USD 5500 per kW target cost for Cape Google 400",
+      "USD 3000 per kW long-term cost target"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_532046d3ac"
+  },
+  "https://www.thinkgeoenergy.com/call-for-eoi-technical-supervision-of-geothermal-drilling-in-chinameca-el-salvador/": {
+    "id": "934a7cb9ce24",
+    "url": "https://www.thinkgeoenergy.com/call-for-eoi-technical-supervision-of-geothermal-drilling-in-chinameca-el-salvador/",
+    "title": "Call for EOI – Technical supervision of geothermal drilling in Chinameca, El Salvador",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-09T23:39:17+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "A utility company in El Salvador is seeking qualified consulting firms to oversee the technical and environmental aspects of drilling eight geothermal wells (deep holes drilled into the earth to access heat for energy production) in the Chinameca region. Five of these wells will extract hot water and steam for electricity generation, while three will return cooled water back underground. The project is funded by the World Bank and aims to develop geothermal energy as a sustainable power source.",
+    "key_figures": [
+      "8 geothermal wells to be drilled",
+      "5 production wells",
+      "3 reinjection wells",
+      "1500–3000 meters drilling depth"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_934a7cb9ce"
+  },
+  "https://www.powermag.com/does-arpa-e-announces-up-to-30-million-to-advance-geothermal-projects-in-superhot-program/": {
+    "id": "69453d85ff4b",
+    "url": "https://www.powermag.com/does-arpa-e-announces-up-to-30-million-to-advance-geothermal-projects-in-superhot-program/",
+    "title": "DOE’s ARPA-E Announces Up to $30 Million to Advance Geothermal Projects in SUPERHOT Program",
+    "source": "POWER Magazine — Geothermal",
+    "published": "2026-11-13T14:39:19+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "The U.S. Department of Energy is giving up to $30 million to eight research teams working on superhot rock geothermal technology, which taps into extremely hot rock deep underground (above 375°C, or about 700°F) to generate electricity. The goal is to make geothermal energy much more productive and affordable by improving how wells are built and how heat is captured, potentially tripling the power output from individual wells and providing clean, reliable power across the country.",
+    "key_figures": [
+      "$30 million combined funding",
+      "375°C minimum temperature target",
+      "22 megapascals minimum pressure",
+      "15,000 GW potential U.S. geothermal resource",
+      "4 GW current utility-scale generation",
+      "10–20 GW projected output by 2040",
+      "$30 per megawatt-hour target cost by 2040"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_9fb665ae01"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526003019?dgcid=rss_sd_all": {
+    "id": "c73e7ea6bd7a",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526003019?dgcid=rss_sd_all",
+    "title": "Electrofacies-guided interpretation of drilling response in volcanic facies at Theistareykir geothermal field",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-11-16",
+    "plain_summary": "Researchers studied drilling data from the Theistareykir geothermal field in Iceland to better understand volcanic rock layers underground. They used a technique called electrofacies analysis—which interprets electrical properties measured during drilling—to identify different types of rock and improve how engineers understand what they encounter as they drill deeper into hot rock formations.",
+    "key_figures": [],
+    "keywords": [
+      "drilling",
+      "subsurface mapping"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_c73e7ea6bd"
+  },
+  "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWUZoTXVPSUcwaFUtNUQyUDQ3NEhHRWZPUjdJOVFibmg4emVGS2lSdUREZWxiVEtsOHFrckRPSTR5X2w5U01kMUM5NkRMSHMteFVBUWhyakZLYnZHVTgyaW1iZnRFVjVMY0tXZG8wSkZqZHFHbV8xVjFNcHZqeTB1RnpzM3NCQkUxa2V0cUlqeXJ6WWRaMGkxTms0YkVGX1Q5dHVrWjh6RW1aQVE3STdkbjV0SWFMMENuMDQ0Z0FTdTF6cERpOWROVkg3cUxYZHVIY3RIQWRLRkdnbUw2MGxTNFdOM0NwN1B1T3pxR2hacmk2VEg1UGtoemZXUHlPQdIBgwJBVV95cUxQMF9FQmVuaXFKY210d0hOUjJoUl9CY2RucXBTM3ZBcDFkSzVWaDVPV2NBcTlwMlRNYlA2MWhyd3dCQXY5V2dMNFMzLV9DdVBmazhlZHR2X3ZIVXY2bEw0QlBjT3RnY1d3eTJhVmR0WklVdkY2eHd0QmgtelJaam9kUC02Y2lMU0JFOEVIX19yd3JncVdHdEtsTVlBem1udGRJMlROSkE4NFpVMkgxZFNaMnRVZnNXbjZPUUkzZU1BYW83Z2UyLTJUdzNBaGMzdzlpZDNGbXcxN0JXd0hiLWI1c01oTVVENFZtNUM1RVo2Mm1QTHF3V2U3UVRQYllDRTJxX2dn?oc=5": {
+    "id": "2843de264cd5",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQWUZoTXVPSUcwaFUtNUQyUDQ3NEhHRWZPUjdJOVFibmg4emVGS2lSdUREZWxiVEtsOHFrckRPSTR5X2w5U01kMUM5NkRMSHMteFVBUWhyakZLYnZHVTgyaW1iZnRFVjVMY0tXZG8wSkZqZHFHbV8xVjFNcHZqeTB1RnpzM3NCQkUxa2V0cUlqeXJ6WWRaMGkxTms0YkVGX1Q5dHVrWjh6RW1aQVE3STdkbjV0SWFMMENuMDQ0Z0FTdTF6cERpOWROVkg3cUxYZHVIY3RIQWRLRkdnbUw2MGxTNFdOM0NwN1B1T3pxR2hacmk2VEg1UGtoemZXUHlPQdIBgwJBVV95cUxQMF9FQmVuaXFKY210d0hOUjJoUl9CY2RucXBTM3ZBcDFkSzVWaDVPV2NBcTlwMlRNYlA2MWhyd3dCQXY5V2dMNFMzLV9DdVBmazhlZHR2X3ZIVXY2bEw0QlBjT3RnY1d3eTJhVmR0WklVdkY2eHd0QmgtelJaam9kUC02Y2lMU0JFOEVIX19yd3JncVdHdEtsTVlBem1udGRJMlROSkE4NFpVMkgxZFNaMnRVZnNXbjZPUUkzZU1BYW83Z2UyLTJUdzNBaGMzdzlpZDNGbXcxN0JXd0hiLWI1c01oTVVENFZtNUM1RVo2Mm1QTHF3V2U3UVRQYllDRTJxX2dn?oc=5",
+    "title": "Mazama Energy Achieves Drilling Breakthrough That Advances the Economics of Superhot Geothermal",
+    "source": "The Manila Times",
+    "published": "2026-11-16T14:23:09+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "Mazama Energy has achieved a significant drilling breakthrough that improves the economic viability of superhot rock geothermal technology, which taps into extremely hot rock deep underground to generate energy. This advancement in drilling techniques makes it more cost-effective to develop superhot geothermal projects, potentially expanding the feasibility of this renewable energy source.",
+    "key_figures": [],
+    "keywords": [
+      "drilling"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_2843de264c"
+  },
+  "https://news.google.com/rss/articles/CBMioAFBVV95cUxOelBadkcyWjUyVUJDcFRfMjEzWWFiQjc4WUVyd3JaTGJrRXdBSDdFWF81MWRKMlVDY2V2WldfN0RJbEp5N0dLTkdVMzdJLXdVWXh0Nk96SDJ4bDRkeFNlOElUT3p3cHpJXzhpcXJKNEhsWDc1Mk1vQXJDWVBPT2gzVHNDczQwSXcxQU95cEVwZTFKczJ4dmM4MmZ3SlRLN2dx?oc=5": {
+    "id": "0fdf16c0b646",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOelBadkcyWjUyVUJDcFRfMjEzWWFiQjc4WUVyd3JaTGJrRXdBSDdFWF81MWRKMlVDY2V2WldfN0RJbEp5N0dLTkdVMzdJLXdVWXh0Nk96SDJ4bDRkeFNlOElUT3p3cHpJXzhpcXJKNEhsWDc1Mk1vQXJDWVBPT2gzVHNDczQwSXcxQU95cEVwZTFKczJ4dmM4MmZ3SlRLN2dx?oc=5",
+    "title": "Halliburton to support Sage Geosystems’ Nevada EGS project",
+    "source": "World Oil",
+    "published": "2026-11-11T15:08:28+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "Halliburton, a major oil and gas services company, is providing technical support to Sage Geosystems for an Enhanced Geothermal Systems (EGS) project in Nevada. EGS is a method of creating geothermal energy by fracturing hot rock deep underground to circulate water and extract heat. This partnership brings specialized drilling and engineering expertise to help develop superhot rock geothermal technology.",
+    "key_figures": [],
+    "keywords": [
+      "drilling",
+      "well construction"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_e7fe3b0480"
+  },
+  "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNU3NzU3d2M2hGa1NCOEV3TTdEOUdaeUhkZXp2YTNEdzdpNElud09Xb0huelVUUndia2tVNlgwcTNBQ19rN2tnb0x3RnFuMC0yMXFNcDJtN3Fyb0QxQlh6Rkl4UnZjX3paSVdGdWRTNjVlVFlRTjlkclFYRHNDelU5d2VJTEZVdEhVSkliWE04RE84YldKZ0x1dHh3b29OYmF0WmxwVGV4NGZRQlk3Z2JiSnVJajREV2J0UXItWC16RmZJYWFzQnotbklfemlQMnFqNWxaZkppM0FIS2FqMVVMajhuMnliZkEtUHJvZEV0OTQ3TVpS?oc=5": {
+    "id": "cc363709cbd6",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNU3NzU3d2M2hGa1NCOEV3TTdEOUdaeUhkZXp2YTNEdzdpNElud09Xb0huelVUUndia2tVNlgwcTNBQ19rN2tnb0x3RnFuMC0yMXFNcDJtN3Fyb0QxQlh6Rkl4UnZjX3paSVdGdWRTNjVlVFlRTjlkclFYRHNDelU5d2VJTEZVdEhVSkliWE04RE84YldKZ0x1dHh3b29OYmF0WmxwVGV4NGZRQlk3Z2JiSnVJajREV2J0UXItWC16RmZJYWFzQnotbklfemlQMnFqNWxaZkppM0FIS2FqMVVMajhuMnliZkEtUHJvZEV0OTQ3TVpS?oc=5",
+    "title": "Sage Geosystems Selects Halliburton to Support Deployment of Proprietary EGS Technology at Project Vector",
+    "source": "Business Wire",
+    "published": "2026-11-11T13:00:46+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "Sage Geosystems has partnered with Halliburton, a major oilfield services company, to help deploy its proprietary Enhanced Geothermal System (EGS) technology at a project called Project Vector. EGS is an advanced approach to accessing geothermal energy from hot rock deep underground by artificially creating or enhancing fractures in the rock to allow heat extraction. This partnership aims to support the technical deployment of this technology.",
+    "key_figures": [],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "high",
+    "highlight": true,
+    "cluster_id": "c_e7fe3b0480"
+  },
+  "https://www.thinkgeoenergy.com/global-geothermal-ambition-2050-launched-at-cop31-calls-for-twelvefold-geothermal-capacity-growth/": {
+    "id": "2de94cce5a92",
+    "url": "https://www.thinkgeoenergy.com/global-geothermal-ambition-2050-launched-at-cop31-calls-for-twelvefold-geothermal-capacity-growth/",
+    "title": "Global Geothermal Ambition 2050 launched at COP31 calls for twelvefold geothermal capacity growth",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-16T08:19:57+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "More than 50 countries, including Turkey and the European Union, have committed to a new global pledge to increase geothermal energy production—power generated from heat beneath the Earth's surface—by twelve times its current level by 2050. The initiative, launched at a UN climate conference, recognizes geothermal as a reliable renewable energy source for electricity as well as direct heating and cooling applications, and emphasizes the importance of developing next-generation technologies (advanced methods to access geothermal resources in new locations) and supporting local communities in geothermal development.",
+    "key_figures": [
+      "12 times geothermal capacity growth by 2050",
+      "50+ countries backing the pledge",
+      "1.8 GW installed geothermal electricity capacity in Turkey",
+      "170,000 homes equivalent district heating capacity in Turkey"
+    ],
+    "keywords": [
+      "funding",
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_2de94cce5a"
+  },
+  "https://www.thinkgeoenergy.com/webinar-the-status-opportunities-and-challenges-of-geothermal-in-spain-20-november-2026/": {
+    "id": "93bbed949e22",
+    "url": "https://www.thinkgeoenergy.com/webinar-the-status-opportunities-and-challenges-of-geothermal-in-spain-20-november-2026/",
+    "title": "Webinar – The status, opportunities, and challenges of geothermal in Spain, 20 November 2026",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-13T19:22:49+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "Spain recently drilled its first high-temperature geothermal well (a borehole that taps into extremely hot rock underground), marking an important achievement in developing geothermal energy. The country is exploring additional geothermal resources on the mainland and in the Canary Islands, with opportunities ranging from shallow to deep drilling projects for sustainable local energy production.",
+    "key_figures": [],
+    "keywords": [
+      "drilling",
+      "well construction"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_93bbed949e"
+  },
+  "https://www.thinkgeoenergy.com/project-innerspace-launches-corporation-to-engage-capital-and-oil-majors-in-geothermal-sector/": {
+    "id": "1ae1e6d824f0",
+    "url": "https://www.thinkgeoenergy.com/project-innerspace-launches-corporation-to-engage-capital-and-oil-majors-in-geothermal-sector/",
+    "title": "Project InnerSpace launches corporation to engage capital and oil majors in geothermal sector",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-13T19:17:29+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "Project InnerSpace has created a new company called Abundance Energy Group to help major oil companies and financial institutions invest in geothermal energy (heat from deep underground rock). The group plans to develop hundreds of geothermal projects worldwide that can generate a combined 2 terawatts of electricity within 20 years by adapting financing methods that oil and gas companies have used successfully for decades, such as risk-sharing partnerships and investment structures that make large capital commitments easier for investors to understand.",
+    "key_figures": [
+      "500 MW minimum capacity per project",
+      "2 terawatts combined global capacity target",
+      "20 years deployment timeline",
+      "Several hundred projects planned globally"
+    ],
+    "keywords": [
+      "funding",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_1ae1e6d824"
+  },
+  "https://www.thinkgeoenergy.com/croatian-agencies-sign-agreement-for-joint-action-in-geothermal-energy/": {
+    "id": "681cd1df8ef7",
+    "url": "https://www.thinkgeoenergy.com/croatian-agencies-sign-agreement-for-joint-action-in-geothermal-energy/",
+    "title": "Croatian agencies sign agreement for joint action in geothermal energy",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-13T18:42:27+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "Two major Croatian government organizations have signed an agreement to work together on developing geothermal energy projects. The agreement enables them to share knowledge and jointly explore areas where geothermal energy (heat from deep underground rock) can be used for heating, cooling, and generating electricity. Croatia has already confirmed geothermal resources at four sites and plans to drill additional wells to create infrastructure for future energy projects.",
+    "key_figures": [
+      "4 geothermal exploration sites"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "legislation"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_681cd1df8e"
+  },
+  "https://www.thinkgeoenergy.com/celikler-begins-eia-process-for-32-mw-geothermal-power-development-in-aydin-turkiye/": {
+    "id": "aa39e4291ce6",
+    "url": "https://www.thinkgeoenergy.com/celikler-begins-eia-process-for-32-mw-geothermal-power-development-in-aydin-turkiye/",
+    "title": "Celikler begins EIA process for 32-MW geothermal power development in Aydin, Türkiye",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-13T17:24:14+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "A Turkish energy company is planning to build a new geothermal power plant in Aydin that will generate 32 megawatts of electricity (a measure of power output) by tapping into heat from underground rock through 10 production wells. The project requires an investment of approximately $19.2 million and will take about six months to construct, with equipment expected to be sourced from domestic suppliers.",
+    "key_figures": [
+      "32 MW plant capacity",
+      "26.5 MW and 5.5 MW production units",
+      "10 production wells",
+      "$19.2 million investment cost",
+      "6 months construction duration",
+      "13.8 MW existing plant capacity",
+      "22.5 MW existing plant capacity"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_aa39e4291c"
+  },
+  "https://www.thinkgeoenergy.com/more-homes-to-be-supplied-with-geothermal-heat-in-delft-netherlands/": {
+    "id": "6bf70a7c2073",
+    "url": "https://www.thinkgeoenergy.com/more-homes-to-be-supplied-with-geothermal-heat-in-delft-netherlands/",
+    "title": "More homes to be supplied with geothermal heat in Delft, Netherlands",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-12T19:35:11+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "A geothermal heating facility in Delft, Netherlands is expanding to supply heat to thousands of homes in several neighborhoods. The facility, which started operating in early 2026, uses heat from hot rocks deep underground to warm buildings through a network of pipes, with plans to connect over 8,000 homes in phases between 2028 and 2029.",
+    "key_figures": [
+      "8,000 homes to be supplied",
+      "1,120 additional homes being connected",
+      "6,000 rental homes in Voorhof and Buitenhof",
+      "1,040 homes in Poptahof",
+      "1,130 homes in first phase (Voorhof-Oost)",
+      "Early 2026 opening date",
+      "First half of 2028 first connection phase",
+      "Second half of 2029 second connection phase"
+    ],
+    "keywords": [
+      "well construction",
+      "funding",
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_6bf70a7c20"
+  },
+  "https://www.thinkgeoenergy.com/tajogaite-energie-engages-with-involcan-for-surface-geothermal-exploration-in-canary-islands/": {
+    "id": "d9fc72a1c243",
+    "url": "https://www.thinkgeoenergy.com/tajogaite-energie-engages-with-involcan-for-surface-geothermal-exploration-in-canary-islands/",
+    "title": "Tajogaite Energie engages with INVOLCAN for surface geothermal exploration in Canary Islands",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-11T18:01:43+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "A company called Tajogaite Energía has partnered with a volcanic research institute in the Canary Islands to explore whether underground heat in the region (called geothermal potential) could be used for energy. They've been granted rights to explore 19 mining areas in La Palma and will use specialized techniques to identify the best locations for geothermal development.",
+    "key_figures": [
+      "19 mining grids awarded",
+      "6 countries with active geothermal exploration projects",
+      "15 years of geothermal research experience"
+    ],
+    "keywords": [
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_d9fc72a1c2"
+  },
+  "https://www.thinkgeoenergy.com/aardwarmte-delfland-in-the-netherlands-signs-geothermal-heat-supply-with-kralingerpolder-cooperative/": {
+    "id": "70452f0f250c",
+    "url": "https://www.thinkgeoenergy.com/aardwarmte-delfland-in-the-netherlands-signs-geothermal-heat-supply-with-kralingerpolder-cooperative/",
+    "title": "Aardwarmte Delfland in the Netherlands signs geothermal heat supply with Kralingerpolder cooperative",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-11T16:58:21+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "A geothermal project in the Netherlands called Aardwarmte Delfland has agreed to supply heat energy to a local cooperative. The project plans to drill a well in mid-2028 to access underground hot rock, with an expected capacity of 25 megawatts of thermal power (a measure of heat output), and aims to start delivering this heat to greenhouses and buildings by late 2029.",
+    "key_figures": [
+      "25 MWth heat capacity",
+      "mid-2028 drilling start date",
+      "fourth quarter 2029 heat supply start date"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_70452f0f25"
+  },
+  "https://www.thinkgeoenergy.com/geothermal-drying-facility-inaugurated-in-dirang-in-arunachal-pradesh-india/": {
+    "id": "88a432938453",
+    "url": "https://www.thinkgeoenergy.com/geothermal-drying-facility-inaugurated-in-dirang-in-arunachal-pradesh-india/",
+    "title": "Geothermal drying facility inaugurated in Dirang in Arunachal Pradesh, India",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-10T19:19:28+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "India has opened a new facility in Arunachal Pradesh that uses heat from the Earth (geothermal energy) to dry and preserve farm products like fruits and meat. The project, funded by India's government with help from Norway and Iceland, aims to reduce food waste and help local farmers earn more money by improving their products' quality and market value.",
+    "key_figures": [],
+    "keywords": [
+      "drilling",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_88a4329384"
+  },
+  "https://www.thinkgeoenergy.com/geothermal-exploration-in-rhineland-germany-receives-permit-for-seismic-survey/": {
+    "id": "f24a7f9a003f",
+    "url": "https://www.thinkgeoenergy.com/geothermal-exploration-in-rhineland-germany-receives-permit-for-seismic-survey/",
+    "title": "Geothermal exploration in Rhineland, Germany receives permit for seismic survey",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-10T18:17:41+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "A research project in Germany's Rhineland region has received approval to conduct seismic surveys (using sound waves to map underground rock layers) to assess whether geothermal energy can be developed there. Funded by the German federal government and state authorities, researchers will collect underground data over the coming years to create a 3D map of the subsurface and determine if the region is suitable for tapping into Earth's heat for energy production.",
+    "key_figures": [
+      "350 km² permitted exploration area",
+      "35 kilometers total seismic survey length",
+      "early 2027 survey start date"
+    ],
+    "keywords": [
+      "subsurface mapping",
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_f24a7f9a00"
+  },
+  "https://www.thinkgeoenergy.com/development-bank-provides-project-finance-to-geothermal-greenhouse-in-eskisehir-turkiye/": {
+    "id": "97b28c9c01c8",
+    "url": "https://www.thinkgeoenergy.com/development-bank-provides-project-finance-to-geothermal-greenhouse-in-eskisehir-turkiye/",
+    "title": "Development bank provides project finance to geothermal greenhouse in Eskisehir, Türkiye",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-10T15:42:19+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "A major bank in Turkey has loaned €80 million to help build a large geothermal greenhouse—a farm that uses heat from hot rocks beneath the Earth's surface instead of fossil fuels to grow crops. This project in Eskisehir will cover 850 decares (about 850 hectares) and is expected to create over 800 jobs, with three-quarters going to women, while demonstrating how geothermal energy can support sustainable farming.",
+    "key_figures": [
+      "€80 million loan amount",
+      "850 decares greenhouse size",
+      "12-year loan term",
+      "2-year grace period",
+      "800+ direct jobs",
+      "75% women employment",
+      "180 decares existing geothermal greenhouse in Afyonkarahisar"
+    ],
+    "keywords": [
+      "funding"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_97b28c9c01"
+  },
+  "https://www.thinkgeoenergy.com/alton-geothermal-heating-project-in-netherlands-paused-after-disappointing-well-test-results/": {
+    "id": "3353cc0544b2",
+    "url": "https://www.thinkgeoenergy.com/alton-geothermal-heating-project-in-netherlands-paused-after-disappointing-well-test-results/",
+    "title": "Alton geothermal heating project in Netherlands paused after disappointing well test results",
+    "source": "ThinkGeoEnergy",
+    "published": "2026-11-10T14:36:02+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "A geothermal heating project in the Netherlands has been temporarily halted because a test well didn't produce as much hot water as expected. The developer drilled down 2.5 kilometers to reach naturally heated water at 85°C (about 185°F), but found the well couldn't deliver heat at the planned rate, even though similar geology 20 kilometers away had worked successfully. The company is pausing operations to study whether they should try drilling additional wells at the same location or adjust their approach.",
+    "key_figures": [
+      "EUR 75 million project cost",
+      "2400 meters planned drilling depth",
+      "2.5 kilometers actual drilling depth",
+      "85°C target temperature",
+      "four geothermal wells planned",
+      "20 kilometers distance to successful wells",
+      "18 geothermal wells currently operated",
+      "15 MWth heat output"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_3353cc0544"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002968?dgcid=rss_sd_all": {
+    "id": "d2afae759baf",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002968?dgcid=rss_sd_all",
+    "title": "Carbon dioxide, methane and heat fluxes from the Monterotondo Marittimo-Sasso Pisano geothermal area (Tuscany, Italy)",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-11-16",
+    "plain_summary": "Researchers studied an active geothermal area in Italy to measure gases (carbon dioxide and methane) and heat that naturally escape from the ground in a region with underground heat resources. This type of monitoring helps scientists understand how geothermal systems work and what happens beneath the surface where hot rocks could potentially be tapped for energy.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_d2afae759b"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0375650526002749?dgcid=rss_sd_all": {
+    "id": "66a05d0ab405",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0375650526002749?dgcid=rss_sd_all",
+    "title": "Radioelement abundances, radiogenic heat production, and geochemical characterization of major rock formations in the Western Himalaya, India: Implications for geodynamic evolution and geothermal energy potential",
+    "source": "Geothermics (Elsevier)",
+    "published": null,
+    "date_added": "2026-11-16",
+    "plain_summary": "Scientists studied rock formations in the Western Himalaya region of India to understand their composition and how much heat they naturally produce through radioactive decay. This research helps identify areas with the best potential for geothermal energy development, where superhot rock can be accessed for power generation.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_66a05d0ab4"
+  },
+  "https://www.sciencedirect.com/science/article/pii/S0377027326002428?dgcid=rss_sd_all": {
+    "id": "d3faa69957c0",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0377027326002428?dgcid=rss_sd_all",
+    "title": "Tree-ring isotope and satellite records of vegetation changes reveal transition from cold to hot degassing in the Yellowstone Plateau volcanic field",
+    "source": "J. Volcanology & Geothermal Research (Elsevier)",
+    "published": null,
+    "date_added": "2026-11-16",
+    "plain_summary": "Scientists studied tree rings and satellite images in the Yellowstone volcanic region to track how volcanic gases have changed over time. They found evidence that the area has shifted from releasing cooler gases to releasing hotter gases, which helps researchers understand how volcanic activity and geothermal systems (heat from beneath the Earth's surface) are evolving in this geologically active zone.",
+    "key_figures": [],
+    "keywords": [
+      "subsurface mapping"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_d3faa69957"
+  },
+  "https://www.edengeothermal.com/2026/11/15/deep-geothermal-drilling-course-2/": {
+    "id": "84c7423d99b4",
+    "url": "https://www.edengeothermal.com/2026/11/15/deep-geothermal-drilling-course-2/",
+    "title": "Deep Geothermal Drilling Course",
+    "source": "Eden Geothermal (blog)",
+    "published": "2026-11-15T18:21:09+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "Eden Geothermal is offering a training course in February 2027 to teach people about deep geothermal drilling and well construction (the process of creating boreholes to access heat from underground rock). The course covers the engineering, technology, and planning needed for geothermal projects, and is open to industry workers, investors, oil and gas professionals switching careers, and government/environmental organizations. Participants will visit an operating geothermal site and receive hands-on instruction from international experts.",
+    "key_figures": [
+      "45% price reduction for public sector and NGO participants"
+    ],
+    "keywords": [
+      "drilling",
+      "well construction"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_84c7423d99"
+  },
+  "https://www.edengeothermal.com/2026/11/14/public-information-session-2/": {
+    "id": "1e68b0a2aa69",
+    "url": "https://www.edengeothermal.com/2026/11/14/public-information-session-2/",
+    "title": "Public Information Session",
+    "source": "Eden Geothermal (blog)",
+    "published": "2026-11-14T11:37:57+00:00",
+    "date_added": "2026-11-16",
+    "plain_summary": "A company held a community meeting in Cornwall to inform local residents about plans to build a geothermal energy plant (a facility that uses heat from deep underground to generate electricity). The meeting was the second public information session, and the company emphasized Cornwall's growing role as a leader in deep geothermal development in the UK.",
+    "key_figures": [],
+    "keywords": [
+      "drilling"
+    ],
+    "relevance": "medium",
+    "highlight": false,
+    "cluster_id": "c_1e68b0a2aa"
   }
 }
