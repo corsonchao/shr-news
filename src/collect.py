@@ -3,7 +3,16 @@ from __future__ import annotations
 import urllib.parse
 import datetime as dt
 import feedparser
+import socket
+socket.setdefaulttimeout(30)  # no feed may hang longer than 30s
 
+def _safe_parse(url: str, label: str):
+    """Fetch a feed; on any failure, log it and return no entries."""
+    try:
+        return feedparser.parse(url).entries
+    except Exception as e:
+        print(f"WARNING: skipped feed '{label}': {e!r}")
+        return []
 
 def _google_news_rss_url(query: str) -> str:
     q = urllib.parse.quote(query)
