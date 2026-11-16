@@ -6,6 +6,10 @@ import feedparser
 import socket
 socket.setdefaulttimeout(30)  # no feed may hang longer than 30s
 
+def _google_news_rss_url(query: str) -> str:
+    q = urllib.parse.quote(query)
+    return f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
+
 def _safe_parse(url: str, label: str):
     """Fetch a feed; on any failure, log it and return no entries."""
     try:
@@ -13,11 +17,6 @@ def _safe_parse(url: str, label: str):
     except Exception as e:
         print(f"WARNING: skipped feed '{label}': {e!r}")
         return []
-
-def _google_news_rss_url(query: str) -> str:
-    q = urllib.parse.quote(query)
-    return f"https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
-
 
 def _parse_entry(entry, source_name: str) -> dict:
     published = None
@@ -63,13 +62,11 @@ def collect(config: dict, since_hours: int = 36) -> list[dict]:
     items: list[dict] = []
 
     for feed in config.get("rss_feeds", []):
-        parsed = feedparser.parse(feed["url"])
-        for e in parsed.entries:
+        for e in _safe_parse(feed["url"], feed["name"]):
             items.append(_parse_entry(e, feed["name"]))
 
     for gn in config.get("google_news", []):
-        parsed = feedparser.parse(_google_news_rss_url(gn["query"]))
-        for e in parsed.entries:
+        for e in _safe_parse(_google_news_rss_url(gn["query"]), gn["name"]):
             publisher = _google_news_publisher(e)
             source_label = publisher if publisher else f"News: {gn['name']}"
             item = _parse_entry(e, source_label)
